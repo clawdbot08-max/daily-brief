@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Brief</title>
+  <style>
+    :root { --bg: #0d1117; --card: #161b22; --border: #30363d; --text: #e6edf3; --muted: #8b949e; --accent: #58a6ff; --green: #3fb950; --red: #f85149; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); padding: 2rem; max-width: 800px; margin: 0 auto; }
+    h1 { font-size: 1.6rem; margin-bottom: 0.25rem; }
+    .subtitle { color: var(--muted); margin-bottom: 2rem; font-size: 0.9rem; }
+    .brief { margin-bottom: 3rem; }
+    .brief-date { font-size: 1.2rem; font-weight: 600; color: var(--accent); margin-bottom: 1rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
+    .section { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; margin-bottom: 1rem; }
+    .section h3 { font-size: 0.85rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.75rem; }
+    .market-row { display: flex; justify-content: space-between; padding: 0.4rem 0; border-bottom: 1px solid var(--border); }
+    .market-row:last-child { border-bottom: none; }
+    .market-label { font-weight: 500; }
+    .market-val { font-family: 'SF Mono', Monaco, monospace; font-size: 0.9rem; }
+    .up { color: var(--green); }
+    .down { color: var(--red); }
+    .weather-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem; }
+    .weather-item { font-size: 0.95rem; }
+    .weather-item span { color: var(--muted); font-size: 0.85rem; }
+    .news-item { margin-bottom: 0.75rem; }
+    .news-item:last-child { margin-bottom: 0; }
+    .news-cat { font-size: 0.75rem; color: var(--accent); text-transform: uppercase; letter-spacing: 0.04em; }
+    .news-headline { font-weight: 500; font-size: 0.95rem; margin: 0.15rem 0; }
+    .news-headline a { color: var(--text); text-decoration: none; }
+    .news-headline a:hover { color: var(--accent); }
+    .news-summary { font-size: 0.85rem; color: var(--muted); line-height: 1.5; }
+    .empty { text-align: center; color: var(--muted); padding: 4rem 0; }
+    .nav { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+    .nav button { background: var(--card); border: 1px solid var(--border); color: var(--text); padding: 0.4rem 0.8rem; border-radius: 6px; cursor: pointer; font-size: 0.85rem; }
+    .nav button:hover, .nav button.active { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+  </style>
+</head>
+<body>
+  <h1>📰 Daily Brief</h1>
+  <p class="subtitle">Markets · Weather · News — updated daily at 7 AM PT</p>
+  <div class="nav" id="nav"></div>
+  <div id="content"></div>
+  <script>
+    const DATA_URL = 'data/briefs.json';
+    let allBriefs = [];
+
+    async function load() {
+      try {
+        const resp = await fetch(DATA_URL + '?t=' + Date.now());
+        allBriefs = await resp.json();
+        if (!allBriefs.length) { show(null); return; }
+        buildNav();
+        show(allBriefs[0]);
+      } catch (e) {
+        document.getElementById('content').innerHTML = '<div class="empty">Failed to load briefs.</div>';
+      }
+    }
+
+    function buildNav() {
+      const nav = document.getElementById('nav');
+      nav.innerHTML = allBriefs.slice(0, 14).map((b, i) => {
+        const d = new Date(b.date + 'T12:00:00');
+        const label = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+        return `<button onclick="selectDay(${i})" id="nav-${i}">${label}</button>`;
+      }).join('');
+      document.getElementById('nav-0')?.classList.add('active');
+    }
+
+    function selectDay(i) {
+      document.querySelectorAll('.nav button').forEach(b => b.classList.remove('active'));
+      document.getElementById('nav-' + i)?.classList.add('active');
+      show(allBriefs[i]);
+    }
+
+    function show(brief) {
+      const el = document.getElementById('content');
+      if (!brief) { el.innerHTML = '<div class="empty">No briefs yet.</div>'; return; }
+
+      const markets = (brief.markets || []).map(m => {
+        const cls = m.change?.includes('▲') ? 'up' : m.change?.includes('▼') ? 'down' : '';
+        return `<div class="market-row"><span class="market-label">${esc(m.label)}</span><span class="market-val ${cls}">${esc(m.value)} ${esc(m.change)}</span></div>`;
+      }).join('');
+
+      const w = brief.weather || {};
+      const weather = `
+        <div class="weather-grid">
+          <div class="weather-item">${esc(w.conditions || 'N/A')}<br><span>${esc(w.location || '')}</span></div>
+          <div class="weather-item">${esc(w.temp || 'N/A')} <span>(feels ${esc(w.feelsLike || 'N/A')})</span></div>
+          <div class="weather-item"><span>High</span> ${esc(w.high || 'N/A')} / <span>Low</span> ${esc(w.low || 'N/A')}</div>
+          <div class="weather-item"><span>Precip:</span> ${esc(w.precipChance || 'N/A')}</div>
+        </div>`;
+
+      const news = (brief.news || []).map(n =>
+        `<div class="news-item"><div class="news-cat">${esc(n.category)}</div><div class="news-headline">${n.url ? `<a href="${esc(n.url)}" target="_blank">${esc(n.headline)}</a>` : esc(n.headline)}</div>${n.summary ? `<div class="news-summary">${esc(n.summary)}</div>` : ''}</div>`
+      ).join('');
+
+      el.innerHTML = `
+        <div class="brief">
+          <div class="brief-date">${esc(brief.title || brief.date)}</div>
+          <div class="section"><h3>Markets</h3>${markets}</div>
+          <div class="section"><h3>Weather</h3>${weather}</div>
+          <div class="section"><h3>News</h3>${news}</div>
+        </div>`;
+    }
+
+    function esc(s) { if (!s) return ''; const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+    load();
+  </script>
+</body>
+</html>
