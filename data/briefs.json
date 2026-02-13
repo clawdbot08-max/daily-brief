@@ -1,29 +1,39 @@
 [
   {
     "date": "2026-02-12",
-    "generatedAt": "2026-02-12T23:14:04.742165-08:00",
+    "generatedAt": "2026-02-12T23:18:34.677654-08:00",
     "title": "Morning Brief \u2014 Thu Feb 12, 2026",
     "markets": [
       {
         "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "'BarSet' object has no attribute 'get'",
-        "direction": "flat"
+        "value": "$681.27",
+        "change": "\u25bc -1.54%",
+        "direction": "down"
       },
       {
         "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "'BarSet' object has no attribute 'get'",
-        "direction": "flat"
+        "value": "$494.67",
+        "change": "\u25bc -1.33%",
+        "direction": "down"
       },
       {
         "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "'BarSet' object has no attribute 'get'",
-        "direction": "flat"
+        "value": "$600.64",
+        "change": "\u25bc -2.03%",
+        "direction": "down"
       }
     ],
     "marketNews": [
+      {
+        "headline": "Moderna Gears Up For Q4 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts",
+        "source": "benzinga",
+        "symbols": [
+          "MRNA"
+        ],
+        "summary": " ",
+        "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/02/50602456/moderna-gears-up-for-q4-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts-2",
+        "created": "2026-02-13T07:13:57+00:00"
+      },
       {
         "headline": "US, Taiwan Seal Trade Pact With $84 Billion Purchase Commitment, Lower Tariffs",
         "source": "benzinga",
@@ -66,14 +76,6 @@
         "summary": "",
         "url": "https://www.benzinga.com/news/earnings/26/02/50602301/norsk-hydro-q4-adj-eps-0-07-beats-0-03-estimate-sales-4-684b-down-from-4-994b-yoy",
         "created": "2026-02-13T06:33:18+00:00"
-      },
-      {
-        "headline": "Will The Government Shut Down Again On Valentine's Day? Prediction Market Says This Might Happen",
-        "source": "benzinga",
-        "symbols": [],
-        "summary": "Another government shutdown looms as Democrats block funding bills for Department of Homeland Security. Prediction market bets on 96% chance.",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/02/50602047/will-the-government-shut-down-again-on-valentines-day-prediction-market-says-this-might-happen",
-        "created": "2026-02-13T05:37:44+00:00"
       }
     ],
     "weather": {
