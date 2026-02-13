@@ -1,5 +1,117 @@
 [
   {
+    "date": "2026-02-13",
+    "generatedAt": "2026-02-13T07:05:08.946201-08:00",
+    "title": "Morning Brief \u2014 Fri Feb 13, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$680.95",
+        "change": "\u25bc -0.05%",
+        "direction": "down"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$494.24",
+        "change": "\u25bc -0.09%",
+        "direction": "down"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$600.57",
+        "change": "\u25bc -0.01%",
+        "direction": "down"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "Here's How Much You Would Have Made Owning Tectonic Therapeutic Stock In The Last 5 Years",
+        "source": "benzinga",
+        "symbols": [
+          "TECX"
+        ],
+        "summary": " ",
+        "url": "https://www.benzinga.com/insights/news/26/02/50612141/heres-how-much-you-would-have-made-owning-tectonic-therapeutic-stock-in-the-last-5-years",
+        "created": "2026-02-13T15:03:41+00:00"
+      },
+      {
+        "headline": "What's Going On With Twilio Stock Friday?",
+        "source": "benzinga",
+        "symbols": [
+          "TWLO"
+        ],
+        "summary": "Twilio (NYSE: TWLO) stock traded unevenly after reporting Q4 results beating analyst expectations on revenue &amp; earnings. Outlook &amp; technical analysis.",
+        "url": "https://www.benzinga.com/trading-ideas/movers/26/02/50612049/whats-going-on-with-twilio-stock-friday",
+        "created": "2026-02-13T15:02:31+00:00"
+      },
+      {
+        "headline": "Applied Materials To Rally Around 37%? Here Are 10 Top Analyst Forecasts For Friday",
+        "source": "benzinga",
+        "symbols": [
+          "AMAT",
+          "AVTR",
+          "COIN",
+          "DKNG"
+        ],
+        "summary": " ",
+        "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/02/50612033/applied-materials-to-rally-around-37-here-are-10-top-analyst-forecasts-for-friday",
+        "created": "2026-02-13T15:02:16+00:00"
+      },
+      {
+        "headline": "Enbridge Stock Is Trending Higher Today: What's Happening?",
+        "source": "benzinga",
+        "symbols": [
+          "ENB"
+        ],
+        "summary": "Enbridge Inc (NYSE:ENB) shares are trading higher on Friday after the pipeline operator posted better-than-expected fourth\u2011quarter results.",
+        "url": "https://www.benzinga.com/trading-ideas/movers/26/02/50612032/enbridge-stock-is-trending-higher-today-whats-happening",
+        "created": "2026-02-13T15:02:15+00:00"
+      },
+      {
+        "headline": "Softer-Than-Expected Inflation Sparks Rally In These 10 Stocks",
+        "source": "benzinga",
+        "symbols": [
+          "COHR",
+          "COIN",
+          "CPAY",
+          "DKNG"
+        ],
+        "summary": "U.S. inflation cooled to 2.4% in January, below expectations and the lowest since May 2025, boosting rate-cut hopes.",
+        "url": "https://www.benzinga.com/markets/equities/26/02/50611998/softer-than-expected-inflation-sparks-rally-in-these-10-stocks",
+        "created": "2026-02-13T15:01:53+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "50\u00b0F",
+      "feelsLike": "46\u00b0F",
+      "high": "72\u00b0F",
+      "low": "49\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Rubio warns Europe of new era in geopolitics before big Munich speech",
+        "summary": "The US Secretary of State will address the first major transatlantic meeting since Donald Trump threatened to annex Greenland.",
+        "url": "https://www.bbc.com/news/articles/c99jxryd9xko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Bangladesh\u2019s BNP claims landslide win in first election since 2024 uprising",
+        "summary": "Party led by Tarique Rahman says it will form government by Sunday.",
+        "url": "https://www.aljazeera.com/news/2026/2/13/bangladeshs-bnp-claims-landslide-win-in-first-election-since-2024-uprising?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "CISA flags critical Microsoft SCCM flaw as exploited in attacks",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/"
+      }
+    ]
+  },
+  {
     "date": "2026-02-12",
     "generatedAt": "2026-02-12T23:18:34.677654-08:00",
     "title": "Morning Brief \u2014 Thu Feb 12, 2026",
