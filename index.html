@@ -4,43 +4,327 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Daily Brief</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <style>
-    :root { --bg: #0d1117; --card: #161b22; --border: #30363d; --text: #e6edf3; --muted: #8b949e; --accent: #58a6ff; --green: #3fb950; --red: #f85149; }
+    :root {
+      --bg: #0a0a0f;
+      --surface: #12121a;
+      --card: #16161f;
+      --card-hover: #1a1a25;
+      --border: #1e1e2e;
+      --border-subtle: #161622;
+      --text: #e4e4ed;
+      --text-secondary: #8888a0;
+      --text-muted: #55556a;
+      --accent: #6c5ce7;
+      --accent-glow: rgba(108, 92, 231, 0.15);
+      --green: #00d68f;
+      --green-bg: rgba(0, 214, 143, 0.08);
+      --red: #ff6b6b;
+      --red-bg: rgba(255, 107, 107, 0.08);
+      --blue: #4ecdc4;
+      --orange: #ffa502;
+      --gradient-1: linear-gradient(135deg, #6c5ce7 0%, #a29bfe 100%);
+      --gradient-2: linear-gradient(135deg, #00d68f 0%, #4ecdc4 100%);
+    }
+
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); padding: 2rem; max-width: 800px; margin: 0 auto; }
-    h1 { font-size: 1.6rem; margin-bottom: 0.25rem; }
-    .subtitle { color: var(--muted); margin-bottom: 2rem; font-size: 0.9rem; }
-    .brief { margin-bottom: 3rem; }
-    .brief-date { font-size: 1.2rem; font-weight: 600; color: var(--accent); margin-bottom: 1rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
-    .section { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; margin-bottom: 1rem; }
-    .section h3 { font-size: 0.85rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.75rem; }
-    .market-row { display: flex; justify-content: space-between; padding: 0.4rem 0; border-bottom: 1px solid var(--border); }
-    .market-row:last-child { border-bottom: none; }
-    .market-label { font-weight: 500; }
-    .market-val { font-family: 'SF Mono', Monaco, monospace; font-size: 0.9rem; }
-    .up { color: var(--green); }
-    .down { color: var(--red); }
-    .weather-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem; }
-    .weather-item { font-size: 0.95rem; }
-    .weather-item span { color: var(--muted); font-size: 0.85rem; }
-    .news-item { margin-bottom: 0.75rem; }
-    .news-item:last-child { margin-bottom: 0; }
-    .news-cat { font-size: 0.75rem; color: var(--accent); text-transform: uppercase; letter-spacing: 0.04em; }
-    .news-headline { font-weight: 500; font-size: 0.95rem; margin: 0.15rem 0; }
-    .news-headline a { color: var(--text); text-decoration: none; }
+
+    body {
+      font-family: 'Inter', -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .container { max-width: 860px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+
+    /* Header */
+    .header {
+      text-align: center;
+      padding: 3rem 0 2.5rem;
+      position: relative;
+    }
+    .header::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 50%;
+      transform: translateX(-50%);
+      width: 200px; height: 200px;
+      background: radial-gradient(circle, var(--accent-glow) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .header h1 {
+      font-size: 2rem;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      background: var(--gradient-1);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .header .tagline {
+      color: var(--text-muted);
+      font-size: 0.85rem;
+      margin-top: 0.5rem;
+      font-weight: 400;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    /* Date nav */
+    .nav {
+      display: flex;
+      gap: 6px;
+      margin-bottom: 2rem;
+      overflow-x: auto;
+      padding-bottom: 4px;
+      scrollbar-width: none;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .nav::-webkit-scrollbar { display: none; }
+    .nav button {
+      background: var(--surface);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-secondary);
+      padding: 0.45rem 0.9rem;
+      border-radius: 20px;
+      cursor: pointer;
+      font-size: 0.8rem;
+      font-family: 'Inter', sans-serif;
+      font-weight: 500;
+      transition: all 0.2s ease;
+      white-space: nowrap;
+    }
+    .nav button:hover { background: var(--card-hover); color: var(--text); border-color: var(--border); }
+    .nav button.active {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+      box-shadow: 0 2px 12px var(--accent-glow);
+    }
+
+    /* Section cards */
+    .section {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1.5rem;
+      margin-bottom: 1.25rem;
+      transition: border-color 0.2s;
+    }
+    .section:hover { border-color: #2a2a3a; }
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 1.1rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 1px solid var(--border-subtle);
+    }
+    .section-icon { font-size: 1.1rem; }
+    .section-title {
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-secondary);
+    }
+
+    /* Markets */
+    .market-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 0.75rem;
+    }
+    .market-card {
+      background: var(--surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: 10px;
+      padding: 1rem 1.1rem;
+      transition: all 0.2s;
+    }
+    .market-card:hover { border-color: var(--border); transform: translateY(-1px); }
+    .market-label {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .market-price {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 1.35rem;
+      font-weight: 600;
+      margin: 0.3rem 0 0.15rem;
+    }
+    .market-change {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.82rem;
+      font-weight: 500;
+      padding: 0.15rem 0.5rem;
+      border-radius: 6px;
+      display: inline-block;
+    }
+    .market-change.up { color: var(--green); background: var(--green-bg); }
+    .market-change.down { color: var(--red); background: var(--red-bg); }
+    .market-change.flat { color: var(--text-muted); }
+
+    /* Weather */
+    .weather-main {
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+      margin-bottom: 0.75rem;
+    }
+    .weather-temp {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 2.8rem;
+      font-weight: 300;
+      line-height: 1;
+      background: var(--gradient-2);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .weather-details { flex: 1; }
+    .weather-condition { font-size: 1rem; font-weight: 500; margin-bottom: 0.2rem; }
+    .weather-location { font-size: 0.82rem; color: var(--text-muted); }
+    .weather-stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0.75rem;
+    }
+    .weather-stat {
+      background: var(--surface);
+      border-radius: 8px;
+      padding: 0.65rem 0.8rem;
+      text-align: center;
+    }
+    .weather-stat-label { font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
+    .weather-stat-value { font-family: 'JetBrains Mono', monospace; font-size: 0.95rem; font-weight: 500; margin-top: 0.2rem; }
+
+    /* News articles */
+    .news-item {
+      padding: 0.9rem 0;
+      border-bottom: 1px solid var(--border-subtle);
+    }
+    .news-item:last-child { border-bottom: none; padding-bottom: 0; }
+    .news-item:first-child { padding-top: 0; }
+    .news-meta {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 0.35rem;
+    }
+    .news-category {
+      font-size: 0.68rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--accent);
+      background: var(--accent-glow);
+      padding: 0.15rem 0.5rem;
+      border-radius: 4px;
+    }
+    .news-source {
+      font-size: 0.7rem;
+      color: var(--text-muted);
+    }
+    .news-headline {
+      font-size: 0.95rem;
+      font-weight: 600;
+      line-height: 1.4;
+      margin-bottom: 0.25rem;
+    }
+    .news-headline a {
+      color: var(--text);
+      text-decoration: none;
+      transition: color 0.15s;
+    }
     .news-headline a:hover { color: var(--accent); }
-    .news-summary { font-size: 0.85rem; color: var(--muted); line-height: 1.5; }
-    .empty { text-align: center; color: var(--muted); padding: 4rem 0; }
-    .nav { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
-    .nav button { background: var(--card); border: 1px solid var(--border); color: var(--text); padding: 0.4rem 0.8rem; border-radius: 6px; cursor: pointer; font-size: 0.85rem; }
-    .nav button:hover, .nav button.active { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+    .news-summary {
+      font-size: 0.83rem;
+      color: var(--text-secondary);
+      line-height: 1.55;
+    }
+    .news-symbols {
+      display: flex;
+      gap: 4px;
+      margin-top: 0.4rem;
+      flex-wrap: wrap;
+    }
+    .news-symbol {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.68rem;
+      font-weight: 500;
+      color: var(--blue);
+      background: rgba(78, 205, 196, 0.08);
+      padding: 0.1rem 0.4rem;
+      border-radius: 4px;
+    }
+
+    /* Market news */
+    .market-news-item {
+      display: flex;
+      gap: 1rem;
+      padding: 0.85rem 0;
+      border-bottom: 1px solid var(--border-subtle);
+    }
+    .market-news-item:last-child { border-bottom: none; }
+    .market-news-item:first-child { padding-top: 0; }
+    .market-news-num {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      min-width: 20px;
+      padding-top: 2px;
+    }
+    .market-news-content { flex: 1; }
+
+    /* Footer */
+    .footer {
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.75rem;
+      margin-top: 2.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border-subtle);
+    }
+
+    .empty {
+      text-align: center;
+      color: var(--text-muted);
+      padding: 5rem 0;
+      font-size: 1rem;
+    }
+
+    /* Responsive */
+    @media (max-width: 600px) {
+      .container { padding: 1rem 1rem 3rem; }
+      .header h1 { font-size: 1.5rem; }
+      .weather-main { flex-direction: column; align-items: flex-start; gap: 0.75rem; }
+      .weather-temp { font-size: 2.2rem; }
+      .weather-stats { grid-template-columns: repeat(3, 1fr); }
+      .market-grid { grid-template-columns: 1fr; }
+      .market-news-item { flex-direction: column; gap: 0.3rem; }
+      .market-news-num { display: none; }
+    }
   </style>
 </head>
 <body>
-  <h1>📰 Daily Brief</h1>
-  <p class="subtitle">Markets · Weather · News — updated daily at 7 AM PT</p>
-  <div class="nav" id="nav"></div>
-  <div id="content"></div>
+  <div class="container">
+    <div class="header">
+      <h1>Daily Brief</h1>
+      <div class="tagline">Markets · Weather · News — Updated 7 AM PT</div>
+    </div>
+    <div class="nav" id="nav"></div>
+    <div id="content"><div class="empty">Loading...</div></div>
+    <div class="footer" id="footer"></div>
+  </div>
+
   <script>
     const DATA_URL = 'data/briefs.json';
     let allBriefs = [];
@@ -49,9 +333,9 @@
       try {
         const resp = await fetch(DATA_URL + '?t=' + Date.now());
         allBriefs = await resp.json();
-        if (!allBriefs.length) { show(null); return; }
+        if (!allBriefs.length) { document.getElementById('content').innerHTML = '<div class="empty">No briefs yet. Check back tomorrow morning.</div>'; return; }
         buildNav();
-        show(allBriefs[0]);
+        show(0);
       } catch (e) {
         document.getElementById('content').innerHTML = '<div class="empty">Failed to load briefs.</div>';
       }
@@ -61,47 +345,77 @@
       const nav = document.getElementById('nav');
       nav.innerHTML = allBriefs.slice(0, 14).map((b, i) => {
         const d = new Date(b.date + 'T12:00:00');
-        const label = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-        return `<button onclick="selectDay(${i})" id="nav-${i}">${label}</button>`;
+        const label = d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
+        return `<button onclick="show(${i})" id="nav-${i}">${label}</button>`;
       }).join('');
-      document.getElementById('nav-0')?.classList.add('active');
     }
 
-    function selectDay(i) {
+    function show(idx) {
       document.querySelectorAll('.nav button').forEach(b => b.classList.remove('active'));
-      document.getElementById('nav-' + i)?.classList.add('active');
-      show(allBriefs[i]);
-    }
+      document.getElementById('nav-' + idx)?.classList.add('active');
+      const brief = allBriefs[idx];
+      if (!brief) return;
 
-    function show(brief) {
       const el = document.getElementById('content');
-      if (!brief) { el.innerHTML = '<div class="empty">No briefs yet.</div>'; return; }
 
+      // Markets
       const markets = (brief.markets || []).map(m => {
-        const cls = m.change?.includes('▲') ? 'up' : m.change?.includes('▼') ? 'down' : '';
-        return `<div class="market-row"><span class="market-label">${esc(m.label)}</span><span class="market-val ${cls}">${esc(m.value)} ${esc(m.change)}</span></div>`;
+        const dir = m.direction || (m.change?.includes('▲') ? 'up' : m.change?.includes('▼') ? 'down' : 'flat');
+        return `<div class="market-card">
+          <div class="market-label">${esc(m.label)}</div>
+          <div class="market-price">${esc(m.value)}</div>
+          ${m.change ? `<span class="market-change ${dir}">${esc(m.change)}</span>` : ''}
+        </div>`;
       }).join('');
 
+      // Weather
       const w = brief.weather || {};
       const weather = `
-        <div class="weather-grid">
-          <div class="weather-item">${esc(w.conditions || 'N/A')}<br><span>${esc(w.location || '')}</span></div>
-          <div class="weather-item">${esc(w.temp || 'N/A')} <span>(feels ${esc(w.feelsLike || 'N/A')})</span></div>
-          <div class="weather-item"><span>High</span> ${esc(w.high || 'N/A')} / <span>Low</span> ${esc(w.low || 'N/A')}</div>
-          <div class="weather-item"><span>Precip:</span> ${esc(w.precipChance || 'N/A')}</div>
+        <div class="weather-main">
+          <div class="weather-temp">${esc(w.temp || '--')}</div>
+          <div class="weather-details">
+            <div class="weather-condition">${esc(w.conditions || 'N/A')}</div>
+            <div class="weather-location">${esc(w.location || '')}</div>
+          </div>
+        </div>
+        <div class="weather-stats">
+          <div class="weather-stat"><div class="weather-stat-label">Feels like</div><div class="weather-stat-value">${esc(w.feelsLike || '--')}</div></div>
+          <div class="weather-stat"><div class="weather-stat-label">Hi / Lo</div><div class="weather-stat-value">${esc(w.high || '--')} / ${esc(w.low || '--')}</div></div>
+          <div class="weather-stat"><div class="weather-stat-label">Precip</div><div class="weather-stat-value">${esc(w.precipChance || '--')}</div></div>
         </div>`;
 
-      const news = (brief.news || []).map(n =>
-        `<div class="news-item"><div class="news-cat">${esc(n.category)}</div><div class="news-headline">${n.url ? `<a href="${esc(n.url)}" target="_blank">${esc(n.headline)}</a>` : esc(n.headline)}</div>${n.summary ? `<div class="news-summary">${esc(n.summary)}</div>` : ''}</div>`
-      ).join('');
+      // Market News
+      const marketNews = (brief.marketNews || []).map((n, i) => `
+        <div class="market-news-item">
+          <div class="market-news-num">${i + 1}</div>
+          <div class="market-news-content">
+            <div class="news-meta">
+              <span class="news-source">${esc(n.source || '')}</span>
+            </div>
+            <div class="news-headline">${n.url ? `<a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.headline)}</a>` : esc(n.headline)}</div>
+            ${n.summary ? `<div class="news-summary">${esc(n.summary)}</div>` : ''}
+            ${n.symbols?.length ? `<div class="news-symbols">${n.symbols.map(s => `<span class="news-symbol">${esc(s)}</span>`).join('')}</div>` : ''}
+          </div>
+        </div>`).join('');
+
+      // World/Tech News
+      const news = (brief.news || []).map(n => `
+        <div class="news-item">
+          <div class="news-meta"><span class="news-category">${esc(n.category)}</span></div>
+          <div class="news-headline">${n.url ? `<a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.headline)}</a>` : esc(n.headline)}</div>
+          ${n.summary ? `<div class="news-summary">${esc(n.summary)}</div>` : ''}
+        </div>`).join('');
 
       el.innerHTML = `
-        <div class="brief">
-          <div class="brief-date">${esc(brief.title || brief.date)}</div>
-          <div class="section"><h3>Markets</h3>${markets}</div>
-          <div class="section"><h3>Weather</h3>${weather}</div>
-          <div class="section"><h3>News</h3>${news}</div>
-        </div>`;
+        <div class="section"><div class="section-header"><span class="section-icon">📈</span><span class="section-title">Markets</span></div><div class="market-grid">${markets}</div></div>
+        ${marketNews ? `<div class="section"><div class="section-header"><span class="section-icon">📰</span><span class="section-title">Market News</span></div>${marketNews}</div>` : ''}
+        <div class="section"><div class="section-header"><span class="section-icon">🌤</span><span class="section-title">Weather</span></div>${weather}</div>
+        <div class="section"><div class="section-header"><span class="section-icon">🌍</span><span class="section-title">World & Tech</span></div>${news}</div>
+      `;
+
+      // Footer
+      const gen = brief.generatedAt ? new Date(brief.generatedAt).toLocaleString('en-US', { dateStyle: 'medium', timeStyle: 'short' }) : '';
+      document.getElementById('footer').textContent = gen ? `Generated ${gen}` : '';
     }
 
     function esc(s) { if (!s) return ''; const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }

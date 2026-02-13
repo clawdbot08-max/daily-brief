@@ -1,32 +1,88 @@
 [
   {
     "date": "2026-02-12",
-    "generatedAt": "2026-02-12T13:20:41.656943-08:00",
+    "generatedAt": "2026-02-12T23:14:04.742165-08:00",
     "title": "Morning Brief \u2014 Thu Feb 12, 2026",
     "markets": [
       {
-        "label": "S&P 500",
-        "value": "6,832.76",
-        "change": "\u25bc -1.87%"
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "'BarSet' object has no attribute 'get'",
+        "direction": "flat"
       },
       {
-        "label": "Dow",
-        "value": "49,451.98",
-        "change": "\u25bc -1.43%"
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "'BarSet' object has no attribute 'get'",
+        "direction": "flat"
       },
       {
-        "label": "Nasdaq 100",
-        "value": "24,687.61",
-        "change": "\u25bc -2.33%"
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "'BarSet' object has no attribute 'get'",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "US, Taiwan Seal Trade Pact With $84 Billion Purchase Commitment, Lower Tariffs",
+        "source": "benzinga",
+        "symbols": [
+          "TSM"
+        ],
+        "summary": "The United States and Taiwan have signed a trade agreement, which will lower\u00a0tariffs on Taiwanese exports to\u00a015% and open Taiwan&#39;s market to U.S. goods.",
+        "url": "https://www.benzinga.com/markets/macro-economic-events/26/02/50602401/us-taiwan-seal-trade-pact-with-84-billion-purchase-commitment-lower-tariffs",
+        "created": "2026-02-13T06:57:18+00:00"
+      },
+      {
+        "headline": "What Sparked Quince Therapeutics (QNCX) Stock To Rise 53% After Hours",
+        "source": "benzinga",
+        "symbols": [
+          "QNCX"
+        ],
+        "summary": "Quince Therapeutics shares surged 53% after hours Thursday following the engagement of LifeSci Capital as financial advisor amid restructuring and strategic plans.\n",
+        "url": "https://www.benzinga.com/markets/equities/26/02/50602390/what-sparked-quince-therapeutics-qncx-stock-to-rise-53-after-hours",
+        "created": "2026-02-13T06:51:11+00:00"
+      },
+      {
+        "headline": "Dogecoin Touts Strategy Of Lowering Inflation By Minting 5 Billion DOGE Each Year: 'Money Is For Moving, Not Collecting Like Rare Pokemon Cards'",
+        "source": "benzinga",
+        "symbols": [
+          "BTCUSD",
+          "DOGEUSD",
+          "SHIBUSD",
+          "ZECUSD"
+        ],
+        "summary": "Dogecoin (CRYPTO: DOGE) highlighted its inflationary model on Thursday, claiming that the fixed annual issuance effectively reduces the overall inflation rate.",
+        "url": "https://www.benzinga.com/crypto/cryptocurrency/26/02/50602310/dogecoin-touts-strategy-of-lowering-inflation-by-minting-5-billion-doge-each-year-money-is-for-moving-not-collecting-like-rare-pokemon-cards",
+        "created": "2026-02-13T06:35:13+00:00"
+      },
+      {
+        "headline": "Norsk Hydro Q4 Adj. EPS $0.07 Beats $0.03 Estimate, Sales $4.684B Down From $4.994B YoY",
+        "source": "benzinga",
+        "symbols": [
+          "NHYDY"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/earnings/26/02/50602301/norsk-hydro-q4-adj-eps-0-07-beats-0-03-estimate-sales-4-684b-down-from-4-994b-yoy",
+        "created": "2026-02-13T06:33:18+00:00"
+      },
+      {
+        "headline": "Will The Government Shut Down Again On Valentine's Day? Prediction Market Says This Might Happen",
+        "source": "benzinga",
+        "symbols": [],
+        "summary": "Another government shutdown looms as Democrats block funding bills for Department of Homeland Security. Prediction market bets on 96% chance.",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/02/50602047/will-the-government-shut-down-again-on-valentines-day-prediction-market-says-this-might-happen",
+        "created": "2026-02-13T05:37:44+00:00"
       }
     ],
     "weather": {
       "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "67.1\u00b0F",
-      "feelsLike": "64.9\u00b0F",
-      "high": "67.7\u00b0F",
-      "low": "48.5\u00b0F",
+      "conditions": "Overcast",
+      "temp": "54\u00b0F",
+      "feelsLike": "52\u00b0F",
+      "high": "66\u00b0F",
+      "low": "48\u00b0F",
       "precipChance": "0%"
     },
     "news": [
@@ -38,15 +94,15 @@
       },
       {
         "category": "Middle East/Global",
-        "headline": "T20 World Cup: How India vs Pakistan relations went from bad to worse",
-        "summary": "From handshake row to match boycott - a look at the post-conflict controversial incidents in cricket's biggest rivalry.",
-        "url": "https://www.aljazeera.com/sports/2026/2/12/t20-world-cup-how-india-vs-pakistan-relations-went-from-bad-to-worse?traffic_source=rss"
+        "headline": "Top Goldman Sachs lawyer Kathy Ruemmler resigns over Epstein ties",
+        "summary": "Ruemmler's resignation comes after emails revealed her links to the late sex offender.",
+        "url": "https://www.aljazeera.com/economy/2026/2/13/top-goldman-sachs-lawyer-kathy-ruemmler-resigns-over-epstein-ties?traffic_source=rss"
       },
       {
         "category": "Tech",
-        "headline": "Microsoft: New Windows LNK spoofing issues aren't vulnerabilities",
-        "summary": "Today, at Wild West Hackin' Fest, security researcher Wietze Beukema disclosed multiple vulnerabilities in Windows LK shortcut files that allow attackers to deploy malicious payloads. [...]",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/"
+        "headline": "Russia tries to block WhatsApp, Telegram in communication blockade",
+        "summary": "The Russian government is attempting to block WhatsApp in the country as its crackdown on communication platforms not under its control intensifies. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/"
       }
     ]
   }
