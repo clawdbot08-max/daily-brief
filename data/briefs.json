@@ -1,5 +1,118 @@
 [
   {
+    "date": "2026-02-14",
+    "generatedAt": "2026-02-14T07:05:10.461268-08:00",
+    "title": "Morning Brief \u2014 Sat Feb 14, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$681.75",
+        "change": "\u25b2 +0.07%",
+        "direction": "up"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$495.28",
+        "change": "\u25b2 +0.12%",
+        "direction": "up"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$601.92",
+        "change": "\u25b2 +0.21%",
+        "direction": "up"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "EXCLUSIVE: 'Inference Infrastructure Gap To Widen' \u2014 Bitcoin Miner Cango's AI Pivot Signals An ETF Opportunity",
+        "source": "benzinga",
+        "symbols": [
+          "AIQ",
+          "BLOK",
+          "BOTZ",
+          "CANG"
+        ],
+        "summary": "Crypto miner Cango is pivoting to AI infrastructure. A senior Cango executive cites growing power demand as a reason. This shift hides ETF opportunities.",
+        "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/02/50632407/exclusive-inference-infrastructure-gap-to-widen-bitcoin-miner-cangos-ai-pivot-signals-an-etf-opportunity",
+        "created": "2026-02-14T14:02:19+00:00"
+      },
+      {
+        "headline": "Benzinga Bulls And Bears: Cloudfare, Meta, Lyft \u2014 And AI Fears Spook Investors",
+        "source": "benzinga",
+        "symbols": [
+          "AMAT",
+          "AMZN",
+          "APP",
+          "CSCO"
+        ],
+        "summary": "Benzinga examined the prospects for many investors&#39; favorite stocks over the last week \u2014 here&#39;s a look at some of our top stories.",
+        "url": "https://www.benzinga.com/markets/market-summary/26/02/50632378/benzinga-bulls-and-bears-cloudfare-meta-lyft-and-ai-fears-spook-investors",
+        "created": "2026-02-14T13:31:56+00:00"
+      },
+      {
+        "headline": "GameStop, Palantir, Tesla And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+        "source": "benzinga",
+        "symbols": [
+          "AMZN",
+          "BTCUSD",
+          "GME",
+          "NVDA"
+        ],
+        "summary": "Retail investors talked up five hot stocks this week (Feb. 9 to Feb. 13) on X and Reddit&#39;s r/WallStreetBets, driven by retail hype, earnings, AI buzz, and corporate news flow.",
+        "url": "https://www.benzinga.com/markets/equities/26/02/50632340/gamestop-palantir-tesla-and-more-5-stocks-investors-couldnt-stop-buzzing-about-this-week",
+        "created": "2026-02-14T13:02:48+00:00"
+      },
+      {
+        "headline": "CORRECTION: Mohawk Industries Q4 Adj. EPS $2.00 Beats $1.98 Estimate, Sales $2.699B Beat $2.682B Estimate",
+        "source": "benzinga",
+        "symbols": [
+          "MHK"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/earnings/26/02/50632049/correction-mohawk-industries-q4-adj-eps-2-00-beats-1-98-estimate-sales-2-699b-beat-2-682b-estimate",
+        "created": "2026-02-14T08:39:43+00:00"
+      },
+      {
+        "headline": "OpenAI's Engineering Lead Says AI Era Will Create Thousands Of Niche Startups: 'It's Hard For Me To Imagine...'",
+        "source": "benzinga",
+        "symbols": [],
+        "summary": "Sherwin Wu says AI will likely drive a surge in smaller startups, reshaping the startup and venture capital landscape.",
+        "url": "https://www.benzinga.com/markets/tech/26/02/50632038/openais-engineering-lead-says-ai-era-will-create-thousands-of-niche-startups-its-hard-for-me-to-imagine",
+        "created": "2026-02-14T08:32:19+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "50\u00b0F",
+      "feelsLike": "46\u00b0F",
+      "high": "66\u00b0F",
+      "low": "50\u00b0F",
+      "precipChance": "1%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Gis\u00e8le Pelicot tells BBC: I felt crushed by horror - but I don't feel anger",
+        "summary": "In an extensive interview with Newsnight, the woman at the heart of France's biggest rape trial speaks about betrayal, healing and choosing the right path.",
+        "url": "https://www.bbc.com/news/articles/c9q5l22ryy4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Deadly drone strikes cloud US-brokered Russia-Ukraine talks in Geneva",
+        "summary": "Ukrainian President Volodymyr Zelenskyy and US Secretary of State Marco Rubio hint at difficulties in next week's talks.",
+        "url": "https://www.aljazeera.com/news/2026/2/14/deadly-drone-strikes-cloud-us-brokered-russia-ukraine-talks-in-geneva?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Fake job recruiters hide malware in developer coding challenges",
+        "summary": "A new variation of the fake recruiter campaign from North Korean threat actors is targeting JavaScript and Python developers with cryptocurrency-related tasks. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/"
+      }
+    ]
+  },
+  {
     "date": "2026-02-13",
     "generatedAt": "2026-02-13T07:05:08.946201-08:00",
     "title": "Morning Brief \u2014 Fri Feb 13, 2026",
