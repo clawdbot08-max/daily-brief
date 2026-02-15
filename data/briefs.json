@@ -1,5 +1,116 @@
 [
   {
+    "date": "2026-02-15",
+    "generatedAt": "2026-02-15T07:05:09.852612-08:00",
+    "title": "Morning Brief \u2014 Sun Feb 15, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$681.75",
+        "change": "\u25b2 +0.07%",
+        "direction": "up"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$495.28",
+        "change": "\u25b2 +0.12%",
+        "direction": "up"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$601.92",
+        "change": "\u25b2 +0.21%",
+        "direction": "up"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "Weekend Round-Up: Bitcoin's Wild Ride, Schiff's Bitcoin Blast And Pudgy Penguins' Valentine's Day Pop-Up",
+        "source": "benzinga",
+        "symbols": [],
+        "summary": "",
+        "url": "https://www.benzinga.com/crypto/cryptocurrency/26/02/50634625/weekend-round-up-bitcoins-wild-ride-schiffs-bitcoin-blast-and-pudgy-penguins-valentines-day-pop-up",
+        "created": "2026-02-15T15:01:13+00:00"
+      },
+      {
+        "headline": "Consumer Tech News (Feb 9-13): AI Energy Push, And Mixed Tech Earnings Dominate Headlines & More",
+        "source": "benzinga",
+        "symbols": [
+          "AAPL",
+          "AI",
+          "AIIO",
+          "AMAT"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/markets/tech/26/02/50634624/consumer-tech-news-feb-9-13-ai-energy-push-and-mixed-tech-earnings-dominate-headlines-more",
+        "created": "2026-02-15T15:00:51+00:00"
+      },
+      {
+        "headline": "Benzinga's 'Stock Whisper' Index: 5 Stocks Investors Secretly Monitor But Don't Talk About Yet",
+        "source": "benzinga",
+        "symbols": [
+          "ADT",
+          "EVMN",
+          "GILT",
+          "LYFT"
+        ],
+        "summary": "The Benzinga Stock Whisper Index highlights five stocks seeing strong interest from readers during the week and a look at the catalysts driving the attention. ",
+        "url": "https://www.benzinga.com/markets/market-summary/26/02/50634611/benzingas-stock-whisper-index-5-stocks-investors-secretly-monitor-but-dont-talk-about-yet-101",
+        "created": "2026-02-15T14:59:59+00:00"
+      },
+      {
+        "headline": "Rivian, Magna International, And Akamai Are Among the Top 10 Large-Cap Gainers Last Week (Feb. 9-Feb. 13): Are the Others in Your Portfolio?",
+        "source": "benzinga",
+        "symbols": [
+          "AKAM",
+          "BWA",
+          "GNRC",
+          "MGA"
+        ],
+        "summary": "Large-cap gainers were led by Magna, Rivian, and Generac after strong Q4 results and upbeat 2026 guidance, while QXO jumped on its Kodiak deal and Akamai/Vertiv rose on guidance pl...",
+        "url": "https://www.benzinga.com/markets/equities/26/02/50634583/rivian-magna-international-and-akamai-are-among-the-top-10-large-cap-gainers-last-week-feb-9-feb-13-are-the-others-in-your-portfolio",
+        "created": "2026-02-15T14:32:20+00:00"
+      },
+      {
+        "headline": "Weekend Round-Up: Tesla's Semi Pricing, Trump's EPA Rollback, Pentagon's Chinese Military List And Waymo's Hyundai Deal",
+        "source": "benzinga",
+        "symbols": [],
+        "summary": "This week featured major business and political developments, including Tesla&#39;s semi pricing undercutting competitors, the Trump administration&#39;s rollback of EPA regulation...",
+        "url": "https://www.benzinga.com/markets/tech/26/02/50634556/weekend-round-up-teslas-semi-pricing-trumps-epa-rollback-pentagons-chinese-military-list-and-waymos-hyundai-deal",
+        "created": "2026-02-15T14:02:21+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "54\u00b0F",
+      "feelsLike": "53\u00b0F",
+      "high": "64\u00b0F",
+      "low": "54\u00b0F",
+      "precipChance": "5%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran",
+        "summary": "Majid Takht-Ravanchi, Iran's deputy foreign minister, tells the BBC's Lyse Doucet that the ball was \"in America's court to prove that they want to do a deal\".",
+        "url": "https://www.bbc.com/news/articles/clyz4y3zwz5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "As Sudanese city returns to life after two-year siege, drone threat lingers",
+        "summary": "Markets reopen in Dilling, South Kordofan\u2019s second largest city. Yet residents face persistent aerial attacks.",
+        "url": "https://www.aljazeera.com/features/2026/2/15/as-sudanese-city-returns-to-life-after-two-year-siege-drone-threat-lingers?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "One threat actor responsible for 83% of recent Ivanti RCE attacks",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/"
+      }
+    ]
+  },
+  {
     "date": "2026-02-14",
     "generatedAt": "2026-02-14T07:05:10.461268-08:00",
     "title": "Morning Brief \u2014 Sat Feb 14, 2026",
