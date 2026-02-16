@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-02-16",
+    "generatedAt": "2026-02-16T07:05:27.104666-08:00",
+    "title": "Morning Brief \u2014 Mon Feb 16, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$681.75",
+        "change": "\u25b2 +0.07%",
+        "direction": "up"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$495.28",
+        "change": "\u25b2 +0.12%",
+        "direction": "up"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$601.92",
+        "change": "\u25b2 +0.21%",
+        "direction": "up"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "Insights Ahead: Iamgold's Quarterly Earnings",
+        "source": "benzinga",
+        "symbols": [
+          "IAG"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50637812/insights-ahead-iamgolds-quarterly-earnings",
+        "created": "2026-02-16T15:02:08+00:00"
+      },
+      {
+        "headline": "Insights Ahead: Hecla Mining's Quarterly Earnings",
+        "source": "benzinga",
+        "symbols": [
+          "HL"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50637807/insights-ahead-hecla-minings-quarterly-earnings",
+        "created": "2026-02-16T15:01:59+00:00"
+      },
+      {
+        "headline": "Preview: Devon Energy's Earnings",
+        "source": "benzinga",
+        "symbols": [
+          "DVN"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50637800/preview-devon-energys-earnings",
+        "created": "2026-02-16T15:01:52+00:00"
+      },
+      {
+        "headline": "MKS Instruments's Earnings: A Preview",
+        "source": "benzinga",
+        "symbols": [
+          "MKSI"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50637793/mks-instrumentss-earnings-a-preview",
+        "created": "2026-02-16T15:01:44+00:00"
+      },
+      {
+        "headline": "EQT's Earnings Outlook",
+        "source": "benzinga",
+        "symbols": [
+          "EQT"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50637787/eqts-earnings-outlook",
+        "created": "2026-02-16T15:01:36+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "54\u00b0F",
+      "feelsLike": "48\u00b0F",
+      "high": "56\u00b0F",
+      "low": "49\u00b0F",
+      "precipChance": "100%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "'It's never too late': Savannah Guthrie's new plea for mother's release as FBI analyses glove",
+        "summary": "The FBI says it recovered a DNA sample from the glove, which was found in a field a few miles from Guthrie's home.",
+        "url": "https://www.bbc.com/news/articles/c5yrv2g16e2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "UN staffers back Francesca Albanese, condemn European ministers for attacks",
+        "summary": "United Staff for Gaza, group of UN staffers, backs the special rapporteur after pro-Israel NGO floats disinformation.",
+        "url": "https://www.aljazeera.com/news/2026/2/16/un-staffers-back-francesca-albanese-condemn-european-ministers-for-attacks?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "CISA gives feds 3 days to patch actively exploited BeyondTrust flaw",
+        "summary": "CISA ordered U.S. government agencies on Friday to secure their BeyondTrust Remote Support instances against an actively exploited vulnerability within three days. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/"
+      }
+    ]
+  },
+  {
     "date": "2026-02-15",
     "generatedAt": "2026-02-15T07:05:09.852612-08:00",
     "title": "Morning Brief \u2014 Sun Feb 15, 2026",
