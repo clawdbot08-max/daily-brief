@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-02-17",
+    "generatedAt": "2026-02-17T07:05:13.929224-08:00",
+    "title": "Morning Brief \u2014 Tue Feb 17, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$678.13",
+        "change": "\u25bc -0.53%",
+        "direction": "down"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$494.20",
+        "change": "\u25bc -0.22%",
+        "direction": "down"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$595.85",
+        "change": "\u25bc -1.01%",
+        "direction": "down"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "A Look at Occidental Petroleum's Upcoming Earnings Report",
+        "source": "benzinga",
+        "symbols": [
+          "OXY"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50653290/a-look-at-occidental-petroleums-upcoming-earnings-report",
+        "created": "2026-02-17T15:02:34+00:00"
+      },
+      {
+        "headline": "Insights Ahead: Global Payments's Quarterly Earnings",
+        "source": "benzinga",
+        "symbols": [
+          "GPN"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50653284/insights-ahead-global-paymentss-quarterly-earnings",
+        "created": "2026-02-17T15:02:27+00:00"
+      },
+      {
+        "headline": "Earnings Preview For Royal Gold",
+        "source": "benzinga",
+        "symbols": [
+          "RGLD"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50653274/earnings-preview-for-royal-gold",
+        "created": "2026-02-17T15:02:18+00:00"
+      },
+      {
+        "headline": "Wedbush Reiterates Outperform on Apple, Maintains $350 Price Target",
+        "source": "benzinga",
+        "symbols": [
+          "AAPL"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/02/50653267/wedbush-reiterates-outperform-on-apple-maintains-350-price-target",
+        "created": "2026-02-17T15:02:12+00:00"
+      },
+      {
+        "headline": "What to Expect from Kinross Gold's Earnings",
+        "source": "benzinga",
+        "symbols": [
+          "KGC"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50653264/what-to-expect-from-kinross-golds-earnings",
+        "created": "2026-02-17T15:02:08+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "49\u00b0F",
+      "feelsLike": "46\u00b0F",
+      "high": "57\u00b0F",
+      "low": "48\u00b0F",
+      "precipChance": "82%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Hillary Clinton accuses Trump administration of Epstein files 'cover-up' in BBC interview",
+        "summary": "\"Get the files out. They are slow-walking it,\" the former US secretary of state says. The White House says it has done \"more for the victims than Democrats ever did\".",
+        "url": "https://www.bbc.com/news/articles/czx47k34yqxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "The injustice in Chagos continues",
+        "summary": "Expressions of regret have not translated into enabling return or providing reparations.",
+        "url": "https://www.aljazeera.com/opinions/2026/2/17/the-injustice-in-chagos-continues?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "What 5 Million Apps Revealed About Secrets in JavaScript",
+        "summary": "Leaked API keys are nothing new, but the scale of the problem in front-end code has been largely a mystery - until now.",
+        "url": "https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/"
+      }
+    ]
+  },
+  {
     "date": "2026-02-16",
     "generatedAt": "2026-02-16T07:05:27.104666-08:00",
     "title": "Morning Brief \u2014 Mon Feb 16, 2026",
