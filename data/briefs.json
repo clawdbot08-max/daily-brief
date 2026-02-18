@@ -1,5 +1,112 @@
 [
   {
+    "date": "2026-02-18",
+    "generatedAt": "2026-02-18T07:05:12.401782-08:00",
+    "title": "Morning Brief \u2014 Wed Feb 18, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$687.58",
+        "change": "\u25b2 +0.69%",
+        "direction": "up"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$498.36",
+        "change": "\u25b2 +0.51%",
+        "direction": "up"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$607.05",
+        "change": "\u25b2 +0.96%",
+        "direction": "up"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "Guggenheim Maintains Buy on PepGen, Raises Price Target to $7",
+        "source": "benzinga",
+        "symbols": [
+          "PEPG"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/02/50688476/guggenheim-maintains-buy-on-pepgen-raises-price-target-to-7",
+        "created": "2026-02-18T15:03:10+00:00"
+      },
+      {
+        "headline": "Amazon's Diminished Free Cash Flow Makes It 'Difficult To Own:' Jim Cramer",
+        "source": "benzinga",
+        "symbols": [
+          "AMZN",
+          "GOOGL"
+        ],
+        "summary": "Jim Cramer weighed in on Amazon.com Inc. (AMZN) Wednesday morning before markets opened, posting on X: &#34;Amazon is difficult to own because it has diminished free cash flow from...",
+        "url": "https://www.benzinga.com/trading-ideas/movers/26/02/50688419/amazons-diminished-free-cash-flow-makes-it-difficult-to-own-jim-cramer",
+        "created": "2026-02-18T15:02:13+00:00"
+      },
+      {
+        "headline": "Insights Ahead: Live Nation Entertainment's Quarterly Earnings",
+        "source": "benzinga",
+        "symbols": [
+          "LYV"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50688433/insights-ahead-live-nation-entertainments-quarterly-earnings",
+        "created": "2026-02-18T15:02:38+00:00"
+      },
+      {
+        "headline": "Exploring Evergy's Earnings Expectations",
+        "source": "benzinga",
+        "symbols": [
+          "EVRG"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50688426/exploring-evergys-earnings-expectations",
+        "created": "2026-02-18T15:02:29+00:00"
+      },
+      {
+        "headline": "Exploring Onto Innovation's Earnings Expectations",
+        "source": "benzinga",
+        "symbols": [
+          "ONTO"
+        ],
+        "summary": " ",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50688416/exploring-onto-innovations-earnings-expectations",
+        "created": "2026-02-18T15:02:18+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "46\u00b0F",
+      "feelsLike": "41\u00b0F",
+      "high": "54\u00b0F",
+      "low": "43\u00b0F",
+      "precipChance": "85%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
+        "summary": "The second day of negotiations between Ukraine and Russia ended after just two hours.",
+        "url": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Russia-Ukraine talks: All the mediation efforts, and where they stand",
+        "summary": "Nearly four years into Russia's war on Ukraine, multiple peace efforts have been started, but no end is in sight.",
+        "url": "https://www.aljazeera.com/news/2026/2/18/russia-ukraine-talks-all-the-mediation-efforts-and-where-they-stand?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Data breach at fintech firm Figure affects nearly 1 million accounts",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/"
+      }
+    ]
+  },
+  {
     "date": "2026-02-17",
     "generatedAt": "2026-02-17T07:05:13.929224-08:00",
     "title": "Morning Brief \u2014 Tue Feb 17, 2026",
