@@ -1,5 +1,112 @@
 [
   {
+    "date": "2026-02-19",
+    "generatedAt": "2026-02-19T07:05:13.637500-08:00",
+    "title": "Morning Brief \u2014 Thu Feb 19, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$685.51",
+        "change": "\u25bc -0.11%",
+        "direction": "down"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$495.38",
+        "change": "\u25bc -0.33%",
+        "direction": "down"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$604.98",
+        "change": "\u25bc -0.13%",
+        "direction": "down"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "President Trump Says Good Talks Being Had With Iran; We Have To Make A Meaningful Deal With Iran",
+        "source": "benzinga",
+        "symbols": [
+          "SPY",
+          "USO"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/economics/macro-economic-events/26/02/50721769/president-trump-says-good-talks-being-had-with-iran-we-have-to-make-a-meaningful-",
+        "created": "2026-02-19T15:04:03+00:00"
+      },
+      {
+        "headline": "Wells Fargo Maintains Equal-Weight on MKS, Raises Price Target to $255",
+        "source": "benzinga",
+        "symbols": [
+          "MKSI"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/02/50721764/wells-fargo-maintains-equal-weight-on-mks-raises-price-target-to-255",
+        "created": "2026-02-19T15:03:53+00:00"
+      },
+      {
+        "headline": "SKYX Platforms Expects To Continue Growth With SKYFAN & Turbo Heater In 2026; Expects To Supply Advanced And Smart Home Technologies To Upcoming And Future Key Projects In US And Globally",
+        "source": "benzinga",
+        "symbols": [
+          "SKYX"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/02/50721759/skyx-platforms-expects-to-continue-growth-with-skyfan-turbo-heater-in-2026-expects-to-supply-advance",
+        "created": "2026-02-19T15:03:39+00:00"
+      },
+      {
+        "headline": "Wells Fargo Maintains Overweight on Global Payments, Raises Price Target to $105",
+        "source": "benzinga",
+        "symbols": [
+          "GPN"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/02/50721725/wells-fargo-maintains-overweight-on-global-payments-raises-price-target-to-105",
+        "created": "2026-02-19T15:02:58+00:00"
+      },
+      {
+        "headline": "USA Pending Home Sales (MoM) For January -0.8% Vs 1.4% Est.",
+        "source": "benzinga",
+        "symbols": [
+          "SPY"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/economics/macro-economic-events/26/02/50721603/usa-pending-home-sales-mom-for-january-0-8-vs-1-4-est",
+        "created": "2026-02-19T15:00:36+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "46\u00b0F",
+      "feelsLike": "42\u00b0F",
+      "high": "54\u00b0F",
+      "low": "42\u00b0F",
+      "precipChance": "89%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "South Korea's ex-president jailed for life over martial law attempt",
+        "summary": "Yoon Suk Yeol's December 2024 martial law bid fundamentally damaged South Korea's democracy, a judge told the court.",
+        "url": "https://www.bbc.com/news/articles/cx28y8xd1vjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "UN says Israel is stoking \u2018ethnic cleansing\u2019 fears in Gaza, West Bank",
+        "summary": "Intensified attacks, methodical destruction of entire neighbourhoods appear aimed at permanent displacement, UN says.",
+        "url": "https://www.aljazeera.com/news/2026/2/19/un-says-israel-is-stoking-ethnic-cleansing-fears-in-gaza-west-bank?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Nigerian man gets eight years in prison for hacking tax firms",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/"
+      }
+    ]
+  },
+  {
     "date": "2026-02-18",
     "generatedAt": "2026-02-18T07:05:12.401782-08:00",
     "title": "Morning Brief \u2014 Wed Feb 18, 2026",
