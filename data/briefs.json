@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-02-20",
+    "generatedAt": "2026-02-20T07:05:14.452119-08:00",
+    "title": "Morning Brief \u2014 Fri Feb 20, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$686.93",
+        "change": "\u25b2 +0.36%",
+        "direction": "up"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$495.47",
+        "change": "\u25b2 +0.22%",
+        "direction": "up"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$606.37",
+        "change": "\u25b2 +0.48%",
+        "direction": "up"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "Stagflation Trade Is Back \u2013 Gold, Silver Rally After GDP Miss, Hot Inflation",
+        "source": "benzinga",
+        "symbols": [
+          "GLD"
+        ],
+        "summary": "Gold and silver surged after Q4 GDP slowed to 1.4% and core PCE rose to 3%, reviving stagflation fears. Economists are split on whether shutdown effects distorted the data or signa...",
+        "url": "https://www.benzinga.com/markets/economic-data/26/02/50750352/stagflation-trade-gold-silver-surge-gdp-pce-december-2025",
+        "created": "2026-02-20T15:03:06+00:00"
+      },
+      {
+        "headline": "What to Expect from Black Stone Minerals's Earnings",
+        "source": "benzinga",
+        "symbols": [
+          "BSM"
+        ],
+        "summary": " ",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50750326/what-to-expect-from-black-stone-mineralss-earnings",
+        "created": "2026-02-20T15:02:34+00:00"
+      },
+      {
+        "headline": "Insights Ahead: V2X's Quarterly Earnings",
+        "source": "benzinga",
+        "symbols": [
+          "VVX"
+        ],
+        "summary": " ",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50750313/insights-ahead-v2xs-quarterly-earnings",
+        "created": "2026-02-20T15:02:26+00:00"
+      },
+      {
+        "headline": "An Overview of Paymentus Holdings's Earnings",
+        "source": "benzinga",
+        "symbols": [
+          "PAY"
+        ],
+        "summary": " ",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50750305/an-overview-of-paymentus-holdingss-earnings",
+        "created": "2026-02-20T15:02:15+00:00"
+      },
+      {
+        "headline": "An Overview of Ultra Clean Hldgs's Earnings",
+        "source": "benzinga",
+        "symbols": [
+          "UCTT"
+        ],
+        "summary": " ",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50750300/an-overview-of-ultra-clean-hldgss-earnings",
+        "created": "2026-02-20T15:02:05+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "40\u00b0F",
+      "feelsLike": "34\u00b0F",
+      "high": "57\u00b0F",
+      "low": "40\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Trump says world has 10 days to see if Iran agrees deal or 'bad things happen'",
+        "summary": "The US is surging forces to the Middle East amid negotiations with the Islamic Republic over its nuclear programme.",
+        "url": "https://www.bbc.com/news/articles/c86yjnw4x49o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "UN emergency food aid in Somalia may halt by April amid severe hunger",
+        "summary": "Families in Somalia pushed to the brink amid severe hunger; urgent food aid needed to avert worsening conditions.",
+        "url": "https://www.aljazeera.com/news/2026/2/20/un-emergency-food-aid-in-somalia-may-halt-by-april-amid-severe-hunger?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Why the shift left dream has become a nightmare for security and developers",
+        "summary": "The \"shift left\" approach has increased pressure on developers, as speed demands override security checks in modern CI pipelines.",
+        "url": "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/"
+      }
+    ]
+  },
+  {
     "date": "2026-02-19",
     "generatedAt": "2026-02-19T07:05:13.637500-08:00",
     "title": "Morning Brief \u2014 Thu Feb 19, 2026",
