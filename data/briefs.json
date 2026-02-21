@@ -1,5 +1,113 @@
 [
   {
+    "date": "2026-02-21",
+    "generatedAt": "2026-02-21T07:05:12.054603-08:00",
+    "title": "Morning Brief \u2014 Sat Feb 21, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$689.43",
+        "change": "\u25b2 +0.72%",
+        "direction": "up"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$496.08",
+        "change": "\u25b2 +0.34%",
+        "direction": "up"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$608.81",
+        "change": "\u25b2 +0.88%",
+        "direction": "up"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "Elon Musk Is Betting Big On Data Centers In Space, But OpenAI's Sam Altman Just Gave His 'Ridiculous' Idea A Reality Check: 'How Hard It Is To\u2026'",
+        "source": "benzinga",
+        "symbols": [],
+        "summary": "Elon Musk&#39;s ambitious plan to deploy massive data centers in orbit is drawing sharp criticism from OpenAI CEO Sam Altman, who dismissed the idea as &#34;ridiculous&#34; \u2014 at le...",
+        "url": "https://www.benzinga.com/markets/tech/26/02/50769445/elon-musk-is-betting-big-on-data-centers-in-space-but-openais-sam-altman-just-gave-his-ridiculous-idea-a-reality-check-how-hard-it-is-to",
+        "created": "2026-02-21T14:01:08+00:00"
+      },
+      {
+        "headline": "Super Micro Computer, Blue Owl, Hims & Hers And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+        "source": "benzinga",
+        "symbols": [
+          "HIMS",
+          "MSFT",
+          "OWL",
+          "SMCI"
+        ],
+        "summary": "Retail investors talked up five hot stocks this week on X and Reddit, driven by hype, earnings, AI, and news flow.",
+        "url": "https://www.benzinga.com/markets/equities/26/02/50769412/super-micro-computer-blue-owl-hims-hers-and-more-5-stocks-investors-couldnt-stop-buzzing-about-this-week",
+        "created": "2026-02-21T13:31:14+00:00"
+      },
+      {
+        "headline": "Benzinga Bulls And Bears: eBay, Carvana, Devon \u2014 And Supreme Court Nixes Trump Tariffs",
+        "source": "benzinga",
+        "symbols": [
+          "CVNA",
+          "DNY",
+          "DVN",
+          "EBAY"
+        ],
+        "summary": "Benzinga examined the prospects for many investors&#39; favorite stocks over the last week \u2014 here&#39;s a look at some of our top stories.",
+        "url": "https://www.benzinga.com/markets/market-summary/26/02/50769384/benzinga-bulls-and-bears-ebay-carvana-devon-and-supreme-court-nixes-trump-tariffs",
+        "created": "2026-02-21T13:01:22+00:00"
+      },
+      {
+        "headline": "Trump To Remove Vietnam From Restricted US Tech List, Hanoi Says",
+        "source": "benzinga",
+        "symbols": [
+          "BA"
+        ],
+        "summary": "President Donald Trump told Vietnam&#39;s Communist Party chief To Lam that he will remove the country from a list restricted from accessing advanced U.S. technologies, the Asian n...",
+        "url": "https://www.benzinga.com/markets/asia/26/02/50769069/trump-to-remove-vietnam-from-restricted-us-tech-list-hanoi-says",
+        "created": "2026-02-21T07:04:57+00:00"
+      },
+      {
+        "headline": "Peter Schiff Says 'No Country Has Been Ripping Off America' As Trump Lashes Out After SCOTUS Tariff Ruling",
+        "source": "benzinga",
+        "symbols": [],
+        "summary": "Peter Schiff criticized U.S. trade policy as President Donald Trump responded to a Supreme Court ruling blocking emergency tariff powers by announcing a new 10% global tariff, even...",
+        "url": "https://www.benzinga.com/news/politics/26/02/50769080/peter-schiff-says-no-country-has-been-ripping-off-america-as-trump-lashes-out-after-scotus-tariff-ruling",
+        "created": "2026-02-21T07:24:59+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "41\u00b0F",
+      "feelsLike": "35\u00b0F",
+      "high": "66\u00b0F",
+      "low": "41\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Trump brings in new 10% tariff as Supreme Court rejects his global import taxes",
+        "summary": "The Supreme Court decision striking down some of Trump's most sweeping tariffs injects new uncertainty into global trade.",
+        "url": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Russian attack on Kharkiv kills two, Ukraine hits missile plant",
+        "summary": "Kharkiv regional administration head, Oleh Syniehubov, reported that 175 'combat clashes' were recorded.",
+        "url": "https://www.aljazeera.com/news/2026/2/21/russian-attack-on-kharkiv-kills-two-ukraine-hits-missile-plant?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Amazon: AI-assisted hacker breached 600 FortiGate firewalls in 5 weeks",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/"
+      }
+    ]
+  },
+  {
     "date": "2026-02-20",
     "generatedAt": "2026-02-20T07:05:14.452119-08:00",
     "title": "Morning Brief \u2014 Fri Feb 20, 2026",
