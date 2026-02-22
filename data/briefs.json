@@ -1,5 +1,116 @@
 [
   {
+    "date": "2026-02-22",
+    "generatedAt": "2026-02-22T07:05:16.074376-08:00",
+    "title": "Morning Brief \u2014 Sun Feb 22, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$689.43",
+        "change": "\u25b2 +0.72%",
+        "direction": "up"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$496.08",
+        "change": "\u25b2 +0.34%",
+        "direction": "up"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$608.81",
+        "change": "\u25b2 +0.88%",
+        "direction": "up"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "Blue Owl, Genuine Parts, And Okta Are Among Top 10 Large Cap Losers Last Week (Feb. 16-Feb. 20): Are the Others in Your Portfolio?",
+        "source": "benzinga",
+        "symbols": [
+          "BBIO",
+          "BWA",
+          "EXPE",
+          "FLUT"
+        ],
+        "summary": "Ten large-cap stocks sank last week as weak earnings, lowered guidance, analyst downgrades, and deal-related headlines weighed on shares.",
+        "url": "https://www.benzinga.com/markets/equities/26/02/50770711/blue-owl-genuine-parts-and-okta-are-among-top-10-large-cap-losers-last-week-feb-16-feb-20-are-the-others-in-your-portfolio",
+        "created": "2026-02-22T15:00:39+00:00"
+      },
+      {
+        "headline": "Moderna, Coinbase, And Global Payments Are Among the Top 10 Large-Cap Gainers Last Week (Feb. 16-Feb. 20): Are the Others in Your Portfolio?",
+        "source": "benzinga",
+        "symbols": [
+          "AG",
+          "BNTX",
+          "COIN",
+          "FIG"
+        ],
+        "summary": "Ten large-cap stocks led last week&#39;s gains, driven by upbeat earnings, guidance, buybacks, and key regulatory or legal catalysts.",
+        "url": "https://www.benzinga.com/markets/equities/26/02/50770653/moderna-coinbase-and-global-payments-are-among-the-top-10-large-cap-gainers-last-week-feb-16-feb-20-are-the-others-in-your-portfolio",
+        "created": "2026-02-22T14:05:58+00:00"
+      },
+      {
+        "headline": "Weekend Round-Up: Warren's Auto Lending Probe, EV Satisfaction Soars And More",
+        "source": "benzinga",
+        "symbols": [],
+        "summary": "This week in the auto industry saw Sen. Elizabeth Warren probe rising auto repossessions, EV owner satisfaction hit 96%, Bezos-backed Slate Auto tease affordable pickup pricing, Fo...",
+        "url": "https://www.benzinga.com/markets/tech/26/02/50770639/weekend-round-up-warrens-auto-lending-probe-ev-satisfaction-soars-and-more",
+        "created": "2026-02-22T14:02:03+00:00"
+      },
+      {
+        "headline": "Consumer Tech News (Feb 16-20): Big Techs To Boost AI in India, EV Policy Shifts & More",
+        "source": "benzinga",
+        "symbols": [
+          "AAPL",
+          "AMD",
+          "AMZN",
+          "APP"
+        ],
+        "summary": "This week&#39;s top tech and policy headlines include AI investment surges, robotaxi restrictions, EV rule changes, and major moves from Meta, Microsoft, Google, Tesla, and OpenAI.",
+        "url": "https://www.benzinga.com/markets/tech/26/02/50770613/consumer-tech-news-feb-16-20-big-techs-to-boost-ai-in-india-ev-policy-shifts-more",
+        "created": "2026-02-22T13:30:25+00:00"
+      },
+      {
+        "headline": "Weekend Round-Up: Zuckerberg's Court Testimony, Nvidia's OpenAI Stake, Meta's Equity Cuts, Netflix-WBD Deal Concerns And More",
+        "source": "benzinga",
+        "symbols": [],
+        "summary": "This week in tech featured Mark Zuckerberg&#39;s court testimony, Nvidia&#39;s $30 billion OpenAI stake, Meta&#39;s equity cuts to fund AI expansion, concerns over a potential Netf...",
+        "url": "https://www.benzinga.com/markets/tech/26/02/50770574/weekend-round-up-zuckerbergs-court-testimony-nvidias-openai-stake-metas-equity-cuts-netflix-wbd-deal-concerns-and-more",
+        "created": "2026-02-22T13:01:25+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "49\u00b0F",
+      "feelsLike": "42\u00b0F",
+      "high": "77\u00b0F",
+      "low": "48\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Iran students stage first large anti-government protests since deadly crackdown",
+        "summary": "Student protesters honoured thousands of those killed when nationwide mass protests were put down by Iranian authorities last month.",
+        "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Man killed after entering perimeter of Trump\u2019s Mar-a-Lago resort",
+        "summary": "The incident in Florida took place on Sunday when US President Donald Trump was in Washington, DC.",
+        "url": "https://www.aljazeera.com/news/2026/2/22/man-killed-after-entering-perimeter-of-trumps-mar-a-lago-resort?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Predator spyware hooks iOS SpringBoard to hide mic, camera activity",
+        "summary": "Intellexa's Predator spyware can hide iOS recording indicators while secretly streaming camera and microphone feeds to its operators. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/"
+      }
+    ]
+  },
+  {
     "date": "2026-02-21",
     "generatedAt": "2026-02-21T07:05:12.054603-08:00",
     "title": "Morning Brief \u2014 Sat Feb 21, 2026",
