@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-02-23",
+    "generatedAt": "2026-02-23T07:05:14.325037-08:00",
+    "title": "Morning Brief \u2014 Mon Feb 23, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$685.28",
+        "change": "\u25bc -0.60%",
+        "direction": "down"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$491.03",
+        "change": "\u25bc -1.02%",
+        "direction": "down"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$603.84",
+        "change": "\u25bc -0.82%",
+        "direction": "down"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "Insights Ahead: BridgeBio Pharma's Quarterly Earnings",
+        "source": "benzinga",
+        "symbols": [
+          "BBIO"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50781681/insights-ahead-bridgebio-pharmas-quarterly-earnings",
+        "created": "2026-02-23T15:02:03+00:00"
+      },
+      {
+        "headline": "RBC Capital Maintains Outperform on Nutrien, Raises Price Target to $80",
+        "source": "benzinga",
+        "symbols": [
+          "NTR"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/02/50781677/rbc-capital-maintains-outperform-on-nutrien-raises-price-target-to-80",
+        "created": "2026-02-23T15:01:57+00:00"
+      },
+      {
+        "headline": "Earnings Preview: Alcon",
+        "source": "benzinga",
+        "symbols": [
+          "ALC"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50781662/earnings-preview-alcon",
+        "created": "2026-02-23T15:01:42+00:00"
+      },
+      {
+        "headline": "What's Next: Jazz Pharmaceuticals's Earnings Preview",
+        "source": "benzinga",
+        "symbols": [
+          "JAZZ"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/02/50781650/whats-next-jazz-pharmaceuticalss-earnings-preview",
+        "created": "2026-02-23T15:01:32+00:00"
+      },
+      {
+        "headline": "Jefferies Downgrades Workday to Hold, Lowers Price Target to $150",
+        "source": "benzinga",
+        "symbols": [
+          "WDAY"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/02/50781641/jefferies-downgrades-workday-to-hold-lowers-price-target-to-150",
+        "created": "2026-02-23T15:01:20+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "51\u00b0F",
+      "feelsLike": "45\u00b0F",
+      "high": "82\u00b0F",
+      "low": "51\u00b0F",
+      "precipChance": "1%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Four years into its full-scale war in Ukraine, Russia is feeling the effects",
+        "summary": "Steve Rosenberg reports on the economic consequences of Russia's war, and how people are coping.",
+        "url": "https://www.bbc.com/news/articles/c4gj20xzw39o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Who was El Mencho? What drug lord\u2019s killing means for Mexico",
+        "summary": "US-backed operation that killed El Mencho sparks a wave of violence across the country.",
+        "url": "https://www.aljazeera.com/news/2026/2/23/who-was-el-mencho-what-drug-lords-killing-means-for-mexico?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "CISA: Recently patched RoundCube flaws now exploited in attacks",
+        "summary": "CISA flagged two Roundcube Webmail vulnerabilities as actively exploited in attacks and ordered U.S. federal agencies to patch them within three weeks. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/"
+      }
+    ]
+  },
+  {
     "date": "2026-02-22",
     "generatedAt": "2026-02-22T07:05:16.074376-08:00",
     "title": "Morning Brief \u2014 Sun Feb 22, 2026",
