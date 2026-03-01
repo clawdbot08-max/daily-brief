@@ -1,5 +1,118 @@
 [
   {
+    "date": "2026-03-01",
+    "generatedAt": "2026-03-01T07:05:17.269117-08:00",
+    "title": "Morning Brief \u2014 Sun Mar 01, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$685.99",
+        "change": "\u25bc -0.48%",
+        "direction": "down"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$489.66",
+        "change": "\u25bc -1.05%",
+        "direction": "down"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$607.29",
+        "change": "\u25bc -0.32%",
+        "direction": "down"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "The Insider Report: The Two Way Tape Continues as Bears Hold Firm",
+        "source": "benzinga",
+        "symbols": [
+          "GPRK",
+          "HTHT",
+          "TWST"
+        ],
+        "summary": " ",
+        "url": "https://www.benzinga.com/opinion/26/03/50954464/the-insider-report-the-two-way-tape-continues-as-bears-hold-firm",
+        "created": "2026-03-01T14:47:15+00:00"
+      },
+      {
+        "headline": "Reuters Reported Earlier: Alireza Arafi Appointed As Jurist Member Of Iran's Leadership Council To Fulfill Supreme Leader's Role Until Assembly Of Experts Elects New Leader, Citing Iran's IRNA",
+        "source": "benzinga",
+        "symbols": [
+          "EIS",
+          "SPY",
+          "USO"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/economics/macro-economic-events/26/03/50954409/reuters-reported-earlier-alireza-arafi-appointed-as-jurist-member-of-irans-leader",
+        "created": "2026-03-01T14:22:19+00:00"
+      },
+      {
+        "headline": "Analysts: Iran War Could Push Oil Close To $100",
+        "source": "benzinga",
+        "symbols": [],
+        "summary": "Following US and Israeli strikes on Iran, concerns have grown that the Strait of Hormuz could face disruption \u2014 a development analysts warn could push oil prices toward $100 per ba...",
+        "url": "https://www.benzinga.com/markets/commodities/26/03/50954400/analysts-iran-war-could-push-oil-close-to-100",
+        "created": "2026-03-01T14:21:25+00:00"
+      },
+      {
+        "headline": "Benzinga's 'Stock Whisper' Index: 5 Stocks Investors Secretly Monitor But Don't Talk About Yet",
+        "source": "benzinga",
+        "symbols": [
+          "BRAI",
+          "FIG",
+          "RNG",
+          "RXT"
+        ],
+        "summary": "The Benzinga Stock Whisper Index highlights five stocks seeing increased attention from readers and looks at the catalysts that could be driving the spotlight.",
+        "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/03/50954390/benzingas-stock-whisper-index-5-stocks-investors-secretly-monitor-but-dont-talk-about-yet-103",
+        "created": "2026-03-01T14:20:19+00:00"
+      },
+      {
+        "headline": "Iran's Press TV Reported Earlier:  Iran Attacked An Oil Tanker In The Gulf Of Oman That Was Intended To Pass Through The Strait Of Hormuz Despite Warnings. All 20 Crew Members Were Evacuated.",
+        "source": "benzinga",
+        "symbols": [
+          "EIS",
+          "SPY",
+          "USO"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/economics/macro-economic-events/26/03/50954380/irans-press-tv-reported-earlier-iran-attacked-an-oil-tanker-in-the-gulf-of-oman-t",
+        "created": "2026-03-01T14:16:28+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "59\u00b0F",
+      "feelsLike": "57\u00b0F",
+      "high": "84\u00b0F",
+      "low": "58\u00b0F",
+      "precipChance": "1%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "At least 148 dead after reported strike on school, Iran says",
+        "summary": "Iran has blamed the US and Israel for the strike; the US is looking into reports of the incident, while the IDF says it is \"not aware\" of operations in the area.",
+        "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "US-Israel attacks on Iran: Death toll and injuries live tracker",
+        "summary": "Preliminary figures are 201 dead and 747 injured in Iran and at least nine killed and 121 injured in Israel.",
+        "url": "https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-death-toll-and-injuries-live-tracker?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "QuickLens Chrome extension steals crypto, shows ClickFix attack",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/"
+      }
+    ]
+  },
+  {
     "date": "2026-02-28",
     "generatedAt": "2026-02-28T07:05:19.347549-08:00",
     "title": "Morning Brief \u2014 Sat Feb 28, 2026",
