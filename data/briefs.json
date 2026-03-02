@@ -1,5 +1,112 @@
 [
   {
+    "date": "2026-03-02",
+    "generatedAt": "2026-03-02T07:05:23.877126-08:00",
+    "title": "Morning Brief \u2014 Mon Mar 02, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$684.24",
+        "change": "\u25bc -0.26%",
+        "direction": "down"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$488.41",
+        "change": "\u25bc -0.26%",
+        "direction": "down"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$604.83",
+        "change": "\u25bc -0.41%",
+        "direction": "down"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "Earnings Outlook For Strata Critical Medical",
+        "source": "benzinga",
+        "symbols": [
+          "SRTA"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/03/50967886/earnings-outlook-for-strata-critical-medical",
+        "created": "2026-03-02T15:02:52+00:00"
+      },
+      {
+        "headline": "Why Are CoreWeave Shares Sliding Monday?",
+        "source": "benzinga",
+        "symbols": [
+          "CRWV"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/trading-ideas/movers/26/03/50967876/why-are-coreweave-shares-sliding-monday",
+        "created": "2026-03-02T15:02:45+00:00"
+      },
+      {
+        "headline": "Earnings Outlook For Webtoon Entertainment",
+        "source": "benzinga",
+        "symbols": [
+          "WBTN"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/03/50967871/earnings-outlook-for-webtoon-entertainment",
+        "created": "2026-03-02T15:02:42+00:00"
+      },
+      {
+        "headline": "'JPMorgan to Start Debt Deal for $55 Billion EA Buyout Next Week' - Bloomberg",
+        "source": "benzinga",
+        "symbols": [
+          "EA",
+          "JPM"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/03/50967863/jpmorgan-to-start-debt-deal-for-55-billion-ea-buyout-next-week-bloomberg",
+        "created": "2026-03-02T15:02:37+00:00"
+      },
+      {
+        "headline": "A Preview Of Accel Entertainment's Earnings",
+        "source": "benzinga",
+        "symbols": [
+          "ACEL"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/03/50967851/a-preview-of-accel-entertainments-earnings",
+        "created": "2026-03-02T15:02:31+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Fog",
+      "temp": "58\u00b0F",
+      "feelsLike": "60\u00b0F",
+      "high": "72\u00b0F",
+      "low": "56\u00b0F",
+      "precipChance": "1%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Allies of US in the Gulf bear brunt of Iran attacks",
+        "summary": "Iran's attacks on Gulf Arab states suggest the Islamic Republic is targeting not just the US military but also civilian infrastructure.",
+        "url": "https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "What is Iran\u2019s military strategy? How has it changed since June 2025 war?",
+        "summary": "Defence analysts tell Al Jazeera that Iran has revised its military strategy since 12-day war with Israel.",
+        "url": "https://www.aljazeera.com/news/2026/3/2/what-is-irans-military-strategy-how-it-has-changed-since-june-2025-war?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Anthropic confirms Claude is down in a worldwide outage",
+        "summary": "Claude appears to be having a major outage right now, with elevated errors reported across all platforms. [...]",
+        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-01",
     "generatedAt": "2026-03-01T07:05:17.269117-08:00",
     "title": "Morning Brief \u2014 Sun Mar 01, 2026",
