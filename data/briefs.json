@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-03-06",
+    "generatedAt": "2026-03-06T07:05:25.626269-08:00",
+    "title": "Morning Brief \u2014 Fri Mar 06, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$672.83",
+        "change": "\u25bc -1.24%",
+        "direction": "down"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$472.83",
+        "change": "\u25bc -1.46%",
+        "direction": "down"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$602.30",
+        "change": "\u25bc -1.09%",
+        "direction": "down"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "Uncovering Potential: Fluent's Earnings Preview",
+        "source": "benzinga",
+        "symbols": [
+          "FLNT"
+        ],
+        "summary": " ",
+        "url": "https://www.benzinga.com/insights/earnings/26/03/51097751/uncovering-potential-fluents-earnings-preview",
+        "created": "2026-03-06T15:02:40+00:00"
+      },
+      {
+        "headline": "Insights into Arq's Upcoming Earnings",
+        "source": "benzinga",
+        "symbols": [
+          "ARQ"
+        ],
+        "summary": " ",
+        "url": "https://www.benzinga.com/insights/earnings/26/03/51097742/insights-into-arqs-upcoming-earnings",
+        "created": "2026-03-06T15:02:27+00:00"
+      },
+      {
+        "headline": "An Overview of FreightCar America's Earnings",
+        "source": "benzinga",
+        "symbols": [
+          "RAIL"
+        ],
+        "summary": " ",
+        "url": "https://www.benzinga.com/insights/earnings/26/03/51097734/an-overview-of-freightcar-americas-earnings",
+        "created": "2026-03-06T15:02:18+00:00"
+      },
+      {
+        "headline": "Earnings Preview: NET Power",
+        "source": "benzinga",
+        "symbols": [
+          "NPWR"
+        ],
+        "summary": " ",
+        "url": "https://www.benzinga.com/insights/earnings/26/03/51097724/earnings-preview-net-power",
+        "created": "2026-03-06T15:02:08+00:00"
+      },
+      {
+        "headline": "Fed's Goolsbee Says If Consumer Sentiment Deteriorates On Gas Price Rise, Historically That Would Be A Thing To Watch Out For; Might Be More Running Room To Go With Productivity Growth",
+        "source": "benzinga",
+        "symbols": [
+          "SPY"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/03/51097719/feds-goolsbee-says-if-consumer-sentiment-deteriorates-on-gas-price-rise-historically-that-would-be-a",
+        "created": "2026-03-06T15:02:03+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "53\u00b0F",
+      "feelsLike": "49\u00b0F",
+      "high": "78\u00b0F",
+      "low": "50\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
+        "summary": "China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples.",
+        "url": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Qatar warns Iran war could halt Gulf energy exports \u2018within weeks\u2019",
+        "summary": "Global economies will be affected if the war on Iran continues for weeks, according to Qatar's energy minister.",
+        "url": "https://www.aljazeera.com/news/2026/3/6/qatar-warns-iran-war-could-halt-gulf-energy-exports-within-weeks?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Fake Claude Code install guides push infostealers in InstallFix attacks",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-05",
     "generatedAt": "2026-03-05T07:05:25.391080-08:00",
     "title": "Morning Brief \u2014 Thu Mar 05, 2026",
