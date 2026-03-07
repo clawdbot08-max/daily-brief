@@ -1,5 +1,123 @@
 [
   {
+    "date": "2026-03-07",
+    "generatedAt": "2026-03-07T07:05:35.768817-08:00",
+    "title": "Morning Brief \u2014 Sat Mar 07, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$672.38",
+        "change": "\u25bc -1.31%",
+        "direction": "down"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$475.23",
+        "change": "\u25bc -0.96%",
+        "direction": "down"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$599.75",
+        "change": "\u25bc -1.50%",
+        "direction": "down"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "Marc Benioff Said Mass AI Layoffs Weren't Coming. Then Came A Brutal Week For White-Collar Jobs.",
+        "source": "benzinga",
+        "symbols": [
+          "COF",
+          "CRM",
+          "MS",
+          "ORCL"
+        ],
+        "summary": "Salesforce CEO Marc Benioff downplayed fears of AI causing mass layoffs, but Morgan Stanley, Oracle, Capital One made headlines on job cuts during the same week. A comment that did...",
+        "url": "https://www.benzinga.com/markets/tech/26/03/51115886/marc-benioff-said-mass-ai-layoffs-werent-coming-then-came-a-brutal-week-for-white-collar-jobs",
+        "created": "2026-03-07T14:00:44+00:00"
+      },
+      {
+        "headline": "ORCL, BULL, SNDK And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+        "source": "benzinga",
+        "symbols": [
+          "AMZN",
+          "AVGO",
+          "BULL",
+          "ORCL"
+        ],
+        "summary": "Retail investors talked up five hot stocks this week (March 2 to March 6) on X and Reddit&#39;s r/WallStreetBets: ORCL, BULL, SNDK, PLTR, AVGO.",
+        "url": "https://www.benzinga.com/markets/equities/26/03/51115847/orcl-bull-sndk-and-more-5-stocks-investors-couldnt-stop-buzzing-about-this-week",
+        "created": "2026-03-07T13:31:07+00:00"
+      },
+      {
+        "headline": "Benzinga Bulls And Bears: Costco, Plug Power, Berkshire \u2014 And Oil Prices Rise As Iran War Continues",
+        "source": "benzinga",
+        "symbols": [
+          "BRK",
+          "BULL",
+          "COST",
+          "CVX"
+        ],
+        "summary": "Benzinga examined the prospects for many investors&#39; favorite stocks over the last week \u2014 here&#39;s a look at some of our top stories.",
+        "url": "https://www.benzinga.com/markets/market-summary/26/03/51115787/benzinga-bulls-and-bears-costco-plug-power-berkshire-and-oil-prices-rise-as-iran-war-continues",
+        "created": "2026-03-07T13:00:28+00:00"
+      },
+      {
+        "headline": "Wendy's Offers 'A Job AI Can't Steal'\u2014 Could You Be Their $100K Chief Tasting Officer?",
+        "source": "benzinga",
+        "symbols": [
+          "MCD",
+          "QSR",
+          "WEN"
+        ],
+        "summary": "Fast-food chain\u00a0Wendy&#39;s\u00a0(NASDAQ: WEN)\u00a0has launched a nationwide contest, promising a $100,000 package for the role of &#34;Chief Tasting Officer&#34;. The contest, which starte...",
+        "url": "https://www.benzinga.com/news/restaurants/26/03/51115620/wendys-offers-a-job-ai-cant-steal-could-you-be-their-100k-chief-tasting-officer",
+        "created": "2026-03-07T11:01:06+00:00"
+      },
+      {
+        "headline": "What To Know About Google CEO Sundar Pichai's New $692 Million Equity Pay Package",
+        "source": "benzinga",
+        "symbols": [
+          "GOOG",
+          "GOOGL"
+        ],
+        "summary": "Alphabet ties CEO Sundar Pichai&#39;s new equity package to the performance of Waymo and Wing, reflecting confidence in the growth potential of its &#34;Other Bets.&#34;",
+        "url": "https://www.benzinga.com/markets/tech/26/03/51115237/what-to-know-about-google-ceo-sundar-pichais-new-692-million-equity-pay-package",
+        "created": "2026-03-07T08:28:49+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "61\u00b0F",
+      "feelsLike": "49\u00b0F",
+      "high": "77\u00b0F",
+      "low": "57\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Iran will continue to defend itself against aggression, ambassador to UK says",
+        "summary": "Seyed Ali Mousavi tells Laura Kuenssberg Iran's response depends on the actions of the US and Israel.",
+        "url": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Israel kills father, daughter in Gaza as genocide continues amid wider war",
+        "summary": "Suffering in Gaza and occupied West Bank remains acute as the world focuses on the US-Israeli war on Iran.",
+        "url": "https://www.aljazeera.com/news/2026/3/7/israel-kills-father-daughter-in-gaza-as-genocide-continues-amid-wider-war?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Cognizant TriZetto breach exposes health data of 3.4 million patients",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-06",
     "generatedAt": "2026-03-06T07:05:25.626269-08:00",
     "title": "Morning Brief \u2014 Fri Mar 06, 2026",
