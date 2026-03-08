@@ -1,5 +1,110 @@
 [
   {
+    "date": "2026-03-08",
+    "generatedAt": "2026-03-08T07:05:40.173250-07:00",
+    "title": "Morning Brief \u2014 Sun Mar 08, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$672.38",
+        "change": "\u25bc -1.31%",
+        "direction": "down"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$475.23",
+        "change": "\u25bc -0.96%",
+        "direction": "down"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$599.75",
+        "change": "\u25bc -1.50%",
+        "direction": "down"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "Benzinga's 'Stock Whisper' Index: 5 Stocks Investors Secretly Monitor But Don't Talk About Yet",
+        "source": "benzinga",
+        "symbols": [
+          "BATL",
+          "BFLY",
+          "PLUG",
+          "TMUS"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/03/51118120/benzingas-stock-whisper-index-5-stocks-investors-secretly-monitor-but-dont-talk-about-yet-104",
+        "created": "2026-03-08T14:01:07+00:00"
+      },
+      {
+        "headline": "Crypto Weekend Round-Up: Binance's Iran-Linked Crypto Controversy, Kazakhstan's Crypto Investment And More",
+        "source": "benzinga",
+        "symbols": [],
+        "summary": "This week in crypto saw Binance deny allegations of Iran-linked crypto flows, National Bank of Kazakhstan announce a $350 million investment in crypto infrastructure, Andreessen Ho...",
+        "url": "https://www.benzinga.com/crypto/26/03/51118050/crypto-weekend-round-up-binances-iran-linked-crypto-controversy-kazakhstans-crypto-investment-and-more",
+        "created": "2026-03-08T13:00:34+00:00"
+      },
+      {
+        "headline": "Weekend Round-Up: Anthropic, Amazon, Google, Microsoft, Alibaba And Adobe Make Headlines",
+        "source": "benzinga",
+        "symbols": [],
+        "summary": "This week in tech saw Netflix drop its pursuit of Warner to focus on organic growth, Amazon, Google and Microsoft continue supporting Anthropic despite Pentagon restrictions, Aliba...",
+        "url": "https://www.benzinga.com/markets/tech/26/03/51118020/weekend-round-up-anthropic-amazon-google-microsoft-alibaba-and-adobe-make-headlines",
+        "created": "2026-03-08T12:30:28+00:00"
+      },
+      {
+        "headline": "Weekend Round-Up: Xiaomi's Humanoid Robots, BYD's Canada Move, Geely's Sales Lead, Tesla's Europe Registrations And More",
+        "source": "benzinga",
+        "symbols": [],
+        "summary": "The week in autos saw Xiaomi deploy humanoid robots in EV manufacturing, BYD move toward entering the Canadian market, Geely outsell BYD for a second straight month, Tesla post hig...",
+        "url": "https://www.benzinga.com/news/travel/26/03/51117979/weekend-round-up-xiaomis-humanoid-robots-byds-canada-move-geelys-sales-lead-teslas-europe-registrations-and-more",
+        "created": "2026-03-08T12:00:50+00:00"
+      },
+      {
+        "headline": "Apple's Ai-Powered Products, Google's Cybersecurity Threat And More: This Week In Appleverse",
+        "source": "benzinga",
+        "symbols": [
+          "AAPL",
+          "QXO",
+          "ROKU"
+        ],
+        "summary": "Weekend tech and finance roundup: Apple unveils AI-powered Macs and MacBook Neo, Apple TV joins Roku, and Google flags a major iOS cybersecurity threat.",
+        "url": "https://www.benzinga.com/markets/tech/26/03/51117929/apples-ai-powered-products-googles-cybersecurity-threat-and-more-this-week-in-appleverse",
+        "created": "2026-03-08T11:00:26+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "58\u00b0F",
+      "feelsLike": "51\u00b0F",
+      "high": "88\u00b0F",
+      "low": "58\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
+        "summary": "Overnight, one Israeli operation saw at least 41 people killed and 40 injured, according to the Lebanese health ministry.",
+        "url": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "UNICEF spokesman enraged over child casualties from Israeli-US Iran war",
+        "summary": "UNICEF spokesman James Elder stressed the importance of growing numbers of children killed in global conflicts.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/8/unicef-spokesman-enraged-over-child-casualties-from-israeli-us-iran-war?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
+        "summary": "Ransomware threat actors tracked as Velvet Tempest are using the ClickFix technique and legitimate Windows utilities to deploy the DonutLoader malware and the CastleRAT backdoor.",
+        "url": "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-07",
     "generatedAt": "2026-03-07T07:05:35.768817-08:00",
     "title": "Morning Brief \u2014 Sat Mar 07, 2026",
