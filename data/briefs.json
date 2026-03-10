@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-03-10",
+    "generatedAt": "2026-03-10T07:05:30.730951-07:00",
+    "title": "Morning Brief \u2014 Tue Mar 10, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$676.17",
+        "change": "\u25bc -0.31%",
+        "direction": "down"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$476.03",
+        "change": "\u25bc -0.39%",
+        "direction": "down"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$607.22",
+        "change": "\u25bc -0.09%",
+        "direction": "down"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "A Peek at Bumble's Future Earnings",
+        "source": "benzinga",
+        "symbols": [
+          "BMBL"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/03/51158559/a-peek-at-bumbles-future-earnings",
+        "created": "2026-03-10T14:03:03+00:00"
+      },
+      {
+        "headline": "Earnings Preview: North American",
+        "source": "benzinga",
+        "symbols": [
+          "NOA"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/03/51158546/earnings-preview-north-american",
+        "created": "2026-03-10T14:02:50+00:00"
+      },
+      {
+        "headline": "A Look Ahead: Sprinklr's Earnings Forecast",
+        "source": "benzinga",
+        "symbols": [
+          "CXM"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/03/51158541/a-look-ahead-sprinklrs-earnings-forecast",
+        "created": "2026-03-10T14:02:41+00:00"
+      },
+      {
+        "headline": "Examining the Future: Flotek Industries's Earnings Outlook",
+        "source": "benzinga",
+        "symbols": [
+          "FTK"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/03/51158528/examining-the-future-flotek-industriess-earnings-outlook",
+        "created": "2026-03-10T14:02:29+00:00"
+      },
+      {
+        "headline": "Earnings Preview For Velocity Financial",
+        "source": "benzinga",
+        "symbols": [
+          "VEL"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/insights/earnings/26/03/51158515/earnings-preview-for-velocity-financial",
+        "created": "2026-03-10T14:02:17+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "57\u00b0F",
+      "feelsLike": "58\u00b0F",
+      "high": "67\u00b0F",
+      "low": "54\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Mixed messages from Trump leave more questions than answers over war's end",
+        "summary": "The US president has tried to soothe nerves over oil and markets, but his comments still lack clarity, writes Anthony Zurcher.",
+        "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Women\u2019s football team to be welcomed home with open arms, Iran says",
+        "summary": "Iran's Foreign Ministry and general prosecutor say the team is invited to return home 'with peace and confidence'.",
+        "url": "https://www.aljazeera.com/sports/2026/3/10/womens-football-team-to-be-welcomed-home-with-open-arms-iran-says?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "CISA: Recently patched Ivanti EPM flaw now actively exploited",
+        "summary": "CISA flagged a high-severity Ivanti Endpoint Manager (EPM) vulnerability as actively exploited in attacks and ordered U.S. federal agencies to patch systems within three weeks.",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-09",
     "generatedAt": "2026-03-09T07:05:26.222224-07:00",
     "title": "Morning Brief \u2014 Mon Mar 09, 2026",
