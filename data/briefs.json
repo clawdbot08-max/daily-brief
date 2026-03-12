@@ -1,5 +1,114 @@
 [
   {
+    "date": "2026-03-12",
+    "generatedAt": "2026-03-12T07:05:54.696145-07:00",
+    "title": "Morning Brief \u2014 Thu Mar 12, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$670.29",
+        "change": "\u25bc -0.89%",
+        "direction": "down"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$470.23",
+        "change": "\u25bc -0.96%",
+        "direction": "down"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$601.35",
+        "change": "\u25bc -1.04%",
+        "direction": "down"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "Bumble, Lightwave Logic, Profrac Holding And Other Big Stocks Moving Higher On Thursday",
+        "source": "benzinga",
+        "symbols": [
+          "ABVX",
+          "ACDC",
+          "BATL",
+          "BMBL"
+        ],
+        "summary": "U.S. stocks lower, Dow Jones down 600+ points. Bumble shares jump nearly 40% after Q4 earnings report. Other big gains for LWLG, WOOF, HIMX, BATL, ACDC, FUFU, CAST, FLY, CF, ABVX, ...",
+        "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51213673/bumble-lightwave-logic-profrac-holding-and-other-big-stocks-moving-higher-on-thursday",
+        "created": "2026-03-12T14:01:28+00:00"
+      },
+      {
+        "headline": "Nio Gets Wall Street Boost, But Analysts Warn EV Race Is Getting Fierce",
+        "source": "benzinga",
+        "symbols": [
+          "NIO"
+        ],
+        "summary": "Nio shares rise after Q4 earnings. Wall Street debates improving margins vs. long-term competition. Get the latest analyst price targets.",
+        "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/03/51213611/nio-gets-wall-street-boost-but-analysts-warn-ev-race-is-getting-fierce",
+        "created": "2026-03-12T14:00:51+00:00"
+      },
+      {
+        "headline": "Here's How Much You Would Have Made Owning Fidelity MSCI Information Technology Index ETF Stock In The Last 5 Years",
+        "source": "benzinga",
+        "symbols": [
+          "FTEC"
+        ],
+        "summary": " ",
+        "url": "https://www.benzinga.com/insights/news/26/03/51213607/heres-how-much-you-would-have-made-owning-fidelity-msci-information-technology-index-etf-stock-in-t",
+        "created": "2026-03-12T14:00:45+00:00"
+      },
+      {
+        "headline": "Citigroup Upgrades Dow to Buy, Raises Price Target to $40",
+        "source": "benzinga",
+        "symbols": [
+          "DOW"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/03/51213490/citigroup-upgrades-dow-to-buy-raises-price-target-to-40",
+        "created": "2026-03-12T13:58:42+00:00"
+      },
+      {
+        "headline": "What's Going On With UiPath Stock Today?",
+        "source": "benzinga",
+        "symbols": [
+          "PATH"
+        ],
+        "summary": "UiPath fell Thursday as a strong quarterly beat was overshadowed by cautious fiscal 2027 guidance and mixed analyst reactions.",
+        "url": "https://www.benzinga.com/markets/equities/26/03/51213435/whats-going-on-with-uipath-stock-today",
+        "created": "2026-03-12T13:57:26+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "58\u00b0F",
+      "feelsLike": "52\u00b0F",
+      "high": "92\u00b0F",
+      "low": "55\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "'Fingers on the trigger': Deadly warnings for Iranians being urged to take action",
+        "summary": "Iran's police chief has warned that his forces would treat anyone taking to the streets \"at the enemy's request\" as an enemy.",
+        "url": "https://www.bbc.com/news/articles/c5y5rldz897o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Can Iran\u2019s asymmetric warfare hold US-Israeli military power at bay?",
+        "summary": "Iran has resorted to unconventional tactics in its retaliatory strikes against the US and Israel.",
+        "url": "https://www.aljazeera.com/news/2026/3/12/can-irans-asymmetric-warfare-hold-us-israeli-military-power-at-bay?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Apple patches older iPhones and iPads against Coruna exploits",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-11",
     "generatedAt": "2026-03-11T07:05:26.925418-07:00",
     "title": "Morning Brief \u2014 Wed Mar 11, 2026",
