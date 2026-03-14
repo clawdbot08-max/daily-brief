@@ -1,5 +1,120 @@
 [
   {
+    "date": "2026-03-14",
+    "generatedAt": "2026-03-14T07:05:15.157069-07:00",
+    "title": "Morning Brief \u2014 Sat Mar 14, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$662.29",
+        "change": "\u25bc -0.57%",
+        "direction": "down"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$466.41",
+        "change": "\u25bc -0.23%",
+        "direction": "down"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$593.72",
+        "change": "\u25bc -0.59%",
+        "direction": "down"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "Palantir Shows AI Is The New Battlefield, Puts Defense Tech ETFs In The Spotlight",
+        "source": "benzinga",
+        "symbols": [
+          "AIQ",
+          "AMZN",
+          "ARKQ",
+          "GOOGL"
+        ],
+        "summary": "Defense technology ETFs including ITA, XAR and SHLD are in focus as AI platforms increasingly power modern military operations and intelligence.",
+        "url": "https://www.benzinga.com/etfs/sector-etfs/26/03/51257412/palantir-shows-ai-is-the-new-battlefield-puts-defense-tech-etfs-in-the-spotlight",
+        "created": "2026-03-14T13:31:09+00:00"
+      },
+      {
+        "headline": "Benzinga Bulls And Bears: Kodak, Tesla, Adobe \u2014 And Iran War Keeps Markets Volatile",
+        "source": "benzinga",
+        "symbols": [
+          "ACHR",
+          "ADBE",
+          "AVAV",
+          "BETA"
+        ],
+        "summary": "Benzinga examined the prospects for many investors&#39; favorite stocks over the last week \u2014 here&#39;s a look at some of our top stories.",
+        "url": "https://www.benzinga.com/markets/market-summary/26/03/51257352/benzinga-bulls-and-bears-kodak-tesla-adobe-and-iran-war-keeps-markets-volatile",
+        "created": "2026-03-14T12:31:09+00:00"
+      },
+      {
+        "headline": "OWL, HIMS, TSLA And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+        "source": "benzinga",
+        "symbols": [
+          "BTCUSD",
+          "HIMS",
+          "MSTR",
+          "NVO"
+        ],
+        "summary": "Retail investors talked up five hot stocks this week (March 9 to March 13) on X and Reddit&#39;s r/WallStreetBets, driven by retail hype, earnings, AI buzz, and corporate news flow...",
+        "url": "https://www.benzinga.com/markets/equities/26/03/51257282/owl-hims-tsla-and-more-5-stocks-investors-couldnt-stop-buzzing-about-this-week",
+        "created": "2026-03-14T12:00:48+00:00"
+      },
+      {
+        "headline": "These Analysts Slash Their Forecasts On Sleep Number Following Q4 Earnings",
+        "source": "benzinga",
+        "symbols": [
+          "SNBR"
+        ],
+        "summary": "Sleep Number (NASDAQ: SNBR) reported better-than-expected Q4 earnings. CEO stated they exceeded 2025 guidance and anticipate growth in 2026. Stock fell 6%.",
+        "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/03/51257096/these-analysts-slash-their-forecasts-on-sleep-number-following-q4-earnings",
+        "created": "2026-03-14T09:23:52+00:00"
+      },
+      {
+        "headline": "Vivid Seats Analysts Cut Their Forecasts After Q4 Loss",
+        "source": "benzinga",
+        "symbols": [
+          "SEAT"
+        ],
+        "summary": "Vivid Seats (NASDAQ:SEAT) reports Q4 loss of $428.7M, revenue down 37% to $126.8M. Shares up 4.4% to $5.90. Analysts adjust price targets.",
+        "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/03/51257083/vivid-seats-analysts-cut-their-forecasts-after-q4-loss",
+        "created": "2026-03-14T09:18:10+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "58\u00b0F",
+      "feelsLike": "56\u00b0F",
+      "high": "84\u00b0F",
+      "low": "58\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Why has the US targeted Iran's Kharg Island?",
+        "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
+        "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Smoke rises from Fujairah oil facility in UAE",
+        "summary": "Smoke rises from Fujairah oil facility in UAE",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/smoke-rises-from-fujairah-oil-facility-in-uae?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-13",
     "generatedAt": "2026-03-13T07:05:34.876779-07:00",
     "title": "Morning Brief \u2014 Fri Mar 13, 2026",
@@ -3141,115 +3256,6 @@
         "headline": "CISA flags critical Microsoft SCCM flaw as exploited in attacks",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-12",
-    "generatedAt": "2026-02-12T23:18:34.677654-08:00",
-    "title": "Morning Brief \u2014 Thu Feb 12, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$681.27",
-        "change": "\u25bc -1.54%",
-        "direction": "down"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$494.67",
-        "change": "\u25bc -1.33%",
-        "direction": "down"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$600.64",
-        "change": "\u25bc -2.03%",
-        "direction": "down"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Moderna Gears Up For Q4 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts",
-        "source": "benzinga",
-        "symbols": [
-          "MRNA"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/02/50602456/moderna-gears-up-for-q4-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts-2",
-        "created": "2026-02-13T07:13:57+00:00"
-      },
-      {
-        "headline": "US, Taiwan Seal Trade Pact With $84 Billion Purchase Commitment, Lower Tariffs",
-        "source": "benzinga",
-        "symbols": [
-          "TSM"
-        ],
-        "summary": "The United States and Taiwan have signed a trade agreement, which will lower\u00a0tariffs on Taiwanese exports to\u00a015% and open Taiwan&#39;s market to U.S. goods.",
-        "url": "https://www.benzinga.com/markets/macro-economic-events/26/02/50602401/us-taiwan-seal-trade-pact-with-84-billion-purchase-commitment-lower-tariffs",
-        "created": "2026-02-13T06:57:18+00:00"
-      },
-      {
-        "headline": "What Sparked Quince Therapeutics (QNCX) Stock To Rise 53% After Hours",
-        "source": "benzinga",
-        "symbols": [
-          "QNCX"
-        ],
-        "summary": "Quince Therapeutics shares surged 53% after hours Thursday following the engagement of LifeSci Capital as financial advisor amid restructuring and strategic plans.\n",
-        "url": "https://www.benzinga.com/markets/equities/26/02/50602390/what-sparked-quince-therapeutics-qncx-stock-to-rise-53-after-hours",
-        "created": "2026-02-13T06:51:11+00:00"
-      },
-      {
-        "headline": "Dogecoin Touts Strategy Of Lowering Inflation By Minting 5 Billion DOGE Each Year: 'Money Is For Moving, Not Collecting Like Rare Pokemon Cards'",
-        "source": "benzinga",
-        "symbols": [
-          "BTCUSD",
-          "DOGEUSD",
-          "SHIBUSD",
-          "ZECUSD"
-        ],
-        "summary": "Dogecoin (CRYPTO: DOGE) highlighted its inflationary model on Thursday, claiming that the fixed annual issuance effectively reduces the overall inflation rate.",
-        "url": "https://www.benzinga.com/crypto/cryptocurrency/26/02/50602310/dogecoin-touts-strategy-of-lowering-inflation-by-minting-5-billion-doge-each-year-money-is-for-moving-not-collecting-like-rare-pokemon-cards",
-        "created": "2026-02-13T06:35:13+00:00"
-      },
-      {
-        "headline": "Norsk Hydro Q4 Adj. EPS $0.07 Beats $0.03 Estimate, Sales $4.684B Down From $4.994B YoY",
-        "source": "benzinga",
-        "symbols": [
-          "NHYDY"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/earnings/26/02/50602301/norsk-hydro-q4-adj-eps-0-07-beats-0-03-estimate-sales-4-684b-down-from-4-994b-yoy",
-        "created": "2026-02-13T06:33:18+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "54\u00b0F",
-      "feelsLike": "52\u00b0F",
-      "high": "66\u00b0F",
-      "low": "48\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Trump revokes landmark ruling that greenhouse gases endanger public health",
-        "summary": "The White House calls it the largest deregulation in US history, but environmentalists say it will prove costly for Americans.",
-        "url": "https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Top Goldman Sachs lawyer Kathy Ruemmler resigns over Epstein ties",
-        "summary": "Ruemmler's resignation comes after emails revealed her links to the late sex offender.",
-        "url": "https://www.aljazeera.com/economy/2026/2/13/top-goldman-sachs-lawyer-kathy-ruemmler-resigns-over-epstein-ties?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Russia tries to block WhatsApp, Telegram in communication blockade",
-        "summary": "The Russian government is attempting to block WhatsApp in the country as its crackdown on communication platforms not under its control intensifies. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/"
       }
     ]
   }
