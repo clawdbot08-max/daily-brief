@@ -1,5 +1,112 @@
 [
   {
+    "date": "2026-03-17",
+    "generatedAt": "2026-03-17T07:05:16.563672-07:00",
+    "title": "Morning Brief \u2014 Tue Mar 17, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$673.20",
+        "change": "\u25b2 +0.62%",
+        "direction": "up"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$473.53",
+        "change": "\u25b2 +0.69%",
+        "direction": "up"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$604.72",
+        "change": "\u25b2 +0.72%",
+        "direction": "up"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "Jet AI Fires Up $5M Buyback in Data Center Push \u2014 Stock Soars",
+        "source": "benzinga",
+        "symbols": [
+          "JTAI"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51297592/jet-ai-fires-up-5m-buyback-in-data-center-push-stock-soars",
+        "created": "2026-03-17T14:03:51+00:00"
+      },
+      {
+        "headline": "RBC Capital Maintains Outperform on Perspective Therapeutics, Lowers Price Target to $14",
+        "source": "benzinga",
+        "symbols": [
+          "CATX"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/03/51297559/rbc-capital-maintains-outperform-on-perspective-therapeutics-lowers-price-target-to-14",
+        "created": "2026-03-17T14:03:15+00:00"
+      },
+      {
+        "headline": "Truist Securities Maintains Hold on Cousins Props, Lowers Price Target to $24",
+        "source": "benzinga",
+        "symbols": [
+          "CUZ"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/03/51297553/truist-securities-maintains-hold-on-cousins-props-lowers-price-target-to-24",
+        "created": "2026-03-17T14:03:09+00:00"
+      },
+      {
+        "headline": "What NVDA Investors Need To Know About Nvidia's Biggest Challenge Yet",
+        "source": "benzinga",
+        "symbols": [
+          "META",
+          "NVDA"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/03/51297544/what-nvda-investors-need-to-know-about-nvidias-biggest-challenge-yet",
+        "created": "2026-03-17T14:02:56+00:00"
+      },
+      {
+        "headline": "USA Pending Home Sales (MoM) For February 1.8% Vs -0.6% Est.",
+        "source": "benzinga",
+        "symbols": [
+          "SPY"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/economics/macro-economic-events/26/03/51297495/usa-pending-home-sales-mom-for-february-1-8-vs-0-6-est",
+        "created": "2026-03-17T14:01:27+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "66\u00b0F",
+      "feelsLike": "60\u00b0F",
+      "high": "99\u00b0F",
+      "low": "63\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Trump seeks to delay meeting with Xi in China",
+        "summary": "The escalating war in Iran has overshadowed many of the US' foreign policy objectives",
+        "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Gavaskar links Sunrisers signing of Pakistan\u2019s Abrar to Indian deaths",
+        "summary": "The signing of Pakistan bowler Abrar Ahmed by Hundred franchise Sunrisers bucked trend by Indian-owned teams.",
+        "url": "https://www.aljazeera.com/sports/2026/3/17/gavaskar-links-sunrisers-signing-of-pakistan-abrar-to-indian-deaths?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
+        "summary": "AI agents are autonomous actors with real access to data and systems, not just copilots.",
+        "url": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-16",
     "generatedAt": "2026-03-16T07:05:16.878210-07:00",
     "title": "Morning Brief \u2014 Mon Mar 16, 2026",
@@ -3136,117 +3243,6 @@
         "headline": "CISA gives feds 3 days to patch actively exploited BeyondTrust flaw",
         "summary": "CISA ordered U.S. government agencies on Friday to secure their BeyondTrust Remote Support instances against an actively exploited vulnerability within three days. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-15",
-    "generatedAt": "2026-02-15T07:05:09.852612-08:00",
-    "title": "Morning Brief \u2014 Sun Feb 15, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$681.75",
-        "change": "\u25b2 +0.07%",
-        "direction": "up"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$495.28",
-        "change": "\u25b2 +0.12%",
-        "direction": "up"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$601.92",
-        "change": "\u25b2 +0.21%",
-        "direction": "up"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Weekend Round-Up: Bitcoin's Wild Ride, Schiff's Bitcoin Blast And Pudgy Penguins' Valentine's Day Pop-Up",
-        "source": "benzinga",
-        "symbols": [],
-        "summary": "",
-        "url": "https://www.benzinga.com/crypto/cryptocurrency/26/02/50634625/weekend-round-up-bitcoins-wild-ride-schiffs-bitcoin-blast-and-pudgy-penguins-valentines-day-pop-up",
-        "created": "2026-02-15T15:01:13+00:00"
-      },
-      {
-        "headline": "Consumer Tech News (Feb 9-13): AI Energy Push, And Mixed Tech Earnings Dominate Headlines & More",
-        "source": "benzinga",
-        "symbols": [
-          "AAPL",
-          "AI",
-          "AIIO",
-          "AMAT"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/markets/tech/26/02/50634624/consumer-tech-news-feb-9-13-ai-energy-push-and-mixed-tech-earnings-dominate-headlines-more",
-        "created": "2026-02-15T15:00:51+00:00"
-      },
-      {
-        "headline": "Benzinga's 'Stock Whisper' Index: 5 Stocks Investors Secretly Monitor But Don't Talk About Yet",
-        "source": "benzinga",
-        "symbols": [
-          "ADT",
-          "EVMN",
-          "GILT",
-          "LYFT"
-        ],
-        "summary": "The Benzinga Stock Whisper Index highlights five stocks seeing strong interest from readers during the week and a look at the catalysts driving the attention. ",
-        "url": "https://www.benzinga.com/markets/market-summary/26/02/50634611/benzingas-stock-whisper-index-5-stocks-investors-secretly-monitor-but-dont-talk-about-yet-101",
-        "created": "2026-02-15T14:59:59+00:00"
-      },
-      {
-        "headline": "Rivian, Magna International, And Akamai Are Among the Top 10 Large-Cap Gainers Last Week (Feb. 9-Feb. 13): Are the Others in Your Portfolio?",
-        "source": "benzinga",
-        "symbols": [
-          "AKAM",
-          "BWA",
-          "GNRC",
-          "MGA"
-        ],
-        "summary": "Large-cap gainers were led by Magna, Rivian, and Generac after strong Q4 results and upbeat 2026 guidance, while QXO jumped on its Kodiak deal and Akamai/Vertiv rose on guidance pl...",
-        "url": "https://www.benzinga.com/markets/equities/26/02/50634583/rivian-magna-international-and-akamai-are-among-the-top-10-large-cap-gainers-last-week-feb-9-feb-13-are-the-others-in-your-portfolio",
-        "created": "2026-02-15T14:32:20+00:00"
-      },
-      {
-        "headline": "Weekend Round-Up: Tesla's Semi Pricing, Trump's EPA Rollback, Pentagon's Chinese Military List And Waymo's Hyundai Deal",
-        "source": "benzinga",
-        "symbols": [],
-        "summary": "This week featured major business and political developments, including Tesla&#39;s semi pricing undercutting competitors, the Trump administration&#39;s rollback of EPA regulation...",
-        "url": "https://www.benzinga.com/markets/tech/26/02/50634556/weekend-round-up-teslas-semi-pricing-trumps-epa-rollback-pentagons-chinese-military-list-and-waymos-hyundai-deal",
-        "created": "2026-02-15T14:02:21+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "54\u00b0F",
-      "feelsLike": "53\u00b0F",
-      "high": "64\u00b0F",
-      "low": "54\u00b0F",
-      "precipChance": "5%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran",
-        "summary": "Majid Takht-Ravanchi, Iran's deputy foreign minister, tells the BBC's Lyse Doucet that the ball was \"in America's court to prove that they want to do a deal\".",
-        "url": "https://www.bbc.com/news/articles/clyz4y3zwz5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "As Sudanese city returns to life after two-year siege, drone threat lingers",
-        "summary": "Markets reopen in Dilling, South Kordofan\u2019s second largest city. Yet residents face persistent aerial attacks.",
-        "url": "https://www.aljazeera.com/features/2026/2/15/as-sudanese-city-returns-to-life-after-two-year-siege-drone-threat-lingers?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "One threat actor responsible for 83% of recent Ivanti RCE attacks",
-        "summary": "",
-        "url": "https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/"
       }
     ]
   }
