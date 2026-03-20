@@ -1,5 +1,114 @@
 [
   {
+    "date": "2026-03-20",
+    "generatedAt": "2026-03-20T07:05:15.895520-07:00",
+    "title": "Morning Brief \u2014 Fri Mar 20, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$653.09",
+        "change": "\u25bc -1.02%",
+        "direction": "down"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$458.42",
+        "change": "\u25bc -0.57%",
+        "direction": "down"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$586.57",
+        "change": "\u25bc -1.09%",
+        "direction": "down"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "Incyte To Highlight New, Late-Breaking 54-Week Data For Povorcitinib In Hidradenitis Suppurativa At 2026 AAD Annual Meeting",
+        "source": "benzinga",
+        "symbols": [
+          "INCY"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/03/51379043/incyte-to-highlight-new-late-breaking-54-week-data-for-povorcitinib-in-hidradenitis-suppurativa-at-2",
+        "created": "2026-03-20T14:02:10+00:00"
+      },
+      {
+        "headline": "'Laffont's $70 Billion Coatue Looks to Launch New AI, Tech Fund' - Bloomberg",
+        "source": "benzinga",
+        "symbols": [
+          "AMZN",
+          "CRWV",
+          "GOOG",
+          "GOOGL"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/03/51379001/laffonts-70-billion-coatue-looks-to-launch-new-ai-tech-fund-bloomberg",
+        "created": "2026-03-20T14:00:52+00:00"
+      },
+      {
+        "headline": "Why Planet Labs Stock Just Hit 52-Week High",
+        "source": "benzinga",
+        "symbols": [
+          "PL"
+        ],
+        "summary": "Planet Labs (PL) hits a 52-week high after a Q4 revenue beat and strong 2027 guidance. See why analysts are hiking price targets to $40.",
+        "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51378943/why-planet-labs-stock-just-hit-52-week-high",
+        "created": "2026-03-20T13:59:53+00:00"
+      },
+      {
+        "headline": "Mizuho Maintains Neutral on Progressive, Lowers Price Target to $223",
+        "source": "benzinga",
+        "symbols": [
+          "PGR"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/03/51378897/mizuho-maintains-neutral-on-progressive-lowers-price-target-to-223",
+        "created": "2026-03-20T13:58:27+00:00"
+      },
+      {
+        "headline": "Apple CEO Tim Cook Says, \"Mac just had its best launch week ever for first-time Mac customers. We love seeing the enthusiasm!\"",
+        "source": "benzinga",
+        "symbols": [
+          "AAPL"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/03/51378875/apple-ceo-tim-cook-says-mac-just-had-its-best-launch-week-ever-for-first-time-mac-customers-we-love",
+        "created": "2026-03-20T13:58:04+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "64\u00b0F",
+      "feelsLike": "63\u00b0F",
+      "high": "95\u00b0F",
+      "low": "61\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Russia, China and the US \u2013 the global winners and losers of the Iran war",
+        "summary": "As the conflict triggers economic disruption some risk being hit hard, while others stand to benefit.",
+        "url": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Iran\u2019s IRGC says spokesman Ali Mohammad Naini killed in US-Israeli attack",
+        "summary": "Israeli and US air attacks pound Iran as assassination campaign of country's leadership continues.",
+        "url": "https://www.aljazeera.com/news/2026/3/20/irans-irgc-says-spokesman-ali-mohammad-naini-killed-in-us-israeli-attack?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Musician admits to $10M streaming royalty fraud using AI bots",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-19",
     "generatedAt": "2026-03-19T07:05:21.063417-07:00",
     "title": "Morning Brief \u2014 Thu Mar 19, 2026",
@@ -3134,113 +3243,6 @@
         "headline": "Nigerian man gets eight years in prison for hacking tax firms",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-18",
-    "generatedAt": "2026-02-18T07:05:12.401782-08:00",
-    "title": "Morning Brief \u2014 Wed Feb 18, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$687.58",
-        "change": "\u25b2 +0.69%",
-        "direction": "up"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$498.36",
-        "change": "\u25b2 +0.51%",
-        "direction": "up"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$607.05",
-        "change": "\u25b2 +0.96%",
-        "direction": "up"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Guggenheim Maintains Buy on PepGen, Raises Price Target to $7",
-        "source": "benzinga",
-        "symbols": [
-          "PEPG"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/02/50688476/guggenheim-maintains-buy-on-pepgen-raises-price-target-to-7",
-        "created": "2026-02-18T15:03:10+00:00"
-      },
-      {
-        "headline": "Amazon's Diminished Free Cash Flow Makes It 'Difficult To Own:' Jim Cramer",
-        "source": "benzinga",
-        "symbols": [
-          "AMZN",
-          "GOOGL"
-        ],
-        "summary": "Jim Cramer weighed in on Amazon.com Inc. (AMZN) Wednesday morning before markets opened, posting on X: &#34;Amazon is difficult to own because it has diminished free cash flow from...",
-        "url": "https://www.benzinga.com/trading-ideas/movers/26/02/50688419/amazons-diminished-free-cash-flow-makes-it-difficult-to-own-jim-cramer",
-        "created": "2026-02-18T15:02:13+00:00"
-      },
-      {
-        "headline": "Insights Ahead: Live Nation Entertainment's Quarterly Earnings",
-        "source": "benzinga",
-        "symbols": [
-          "LYV"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50688433/insights-ahead-live-nation-entertainments-quarterly-earnings",
-        "created": "2026-02-18T15:02:38+00:00"
-      },
-      {
-        "headline": "Exploring Evergy's Earnings Expectations",
-        "source": "benzinga",
-        "symbols": [
-          "EVRG"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50688426/exploring-evergys-earnings-expectations",
-        "created": "2026-02-18T15:02:29+00:00"
-      },
-      {
-        "headline": "Exploring Onto Innovation's Earnings Expectations",
-        "source": "benzinga",
-        "symbols": [
-          "ONTO"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50688416/exploring-onto-innovations-earnings-expectations",
-        "created": "2026-02-18T15:02:18+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "46\u00b0F",
-      "feelsLike": "41\u00b0F",
-      "high": "54\u00b0F",
-      "low": "43\u00b0F",
-      "precipChance": "85%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
-        "summary": "The second day of negotiations between Ukraine and Russia ended after just two hours.",
-        "url": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Russia-Ukraine talks: All the mediation efforts, and where they stand",
-        "summary": "Nearly four years into Russia's war on Ukraine, multiple peace efforts have been started, but no end is in sight.",
-        "url": "https://www.aljazeera.com/news/2026/2/18/russia-ukraine-talks-all-the-mediation-efforts-and-where-they-stand?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Data breach at fintech firm Figure affects nearly 1 million accounts",
-        "summary": "",
-        "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/"
       }
     ]
   }
