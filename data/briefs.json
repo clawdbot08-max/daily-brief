@@ -1,5 +1,101 @@
 [
   {
+    "date": "2026-03-22",
+    "generatedAt": "2026-03-22T07:05:15.667341-07:00",
+    "title": "Morning Brief \u2014 Sun Mar 22, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$648.57",
+        "change": "\u25bc -1.70%",
+        "direction": "down"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$455.89",
+        "change": "\u25bc -1.12%",
+        "direction": "down"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$582.06",
+        "change": "\u25bc -1.85%",
+        "direction": "down"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "Weekend Round-Up: Bitcoin Holds $70,000, Ethereum's 'Buy Zone', Nasdaq's Blockchain Stocks, SEC's Crypto Framework And More",
+        "source": "benzinga",
+        "symbols": [],
+        "summary": "The week in crypto saw Bitcoin hold near $70,000 as Ethereum entered a &#34;buy zone,&#34; while Nasdaq, Inc. gained SEC approval for tokenized stocks, U.S. Securities and Exchange...",
+        "url": "https://www.benzinga.com/crypto/26/03/51396890/weekend-round-up-bitcoin-holds-70000-ethereums-buy-zone-nasdaqs-blockchain-stocks-secs-crypto-framework-and-more",
+        "created": "2026-03-22T14:01:14+00:00"
+      },
+      {
+        "headline": "Kevin O'Leary: Hormuz Crisis Will Get 'Cleaned Up In The Next 30 Days'",
+        "source": "benzinga",
+        "symbols": [],
+        "summary": "Kevin O&#39;Leary on Saturday said that investors are pricing in a quick resolution to tensions tied to the Strait of Hormuz, arguing the next month is the key window the market is...",
+        "url": "https://www.benzinga.com/markets/macro-economic-events/26/03/51396837/kevin-oleary-hormuz-crisis-will-get-cleaned-up-in-the-next-30-days",
+        "created": "2026-03-22T13:32:55+00:00"
+      },
+      {
+        "headline": "Trump Proposes Shifting ICE Agents To Airports",
+        "source": "benzinga",
+        "symbols": [],
+        "summary": "On Saturday, President Donald Trump said he could shift ICE agents into U.S. airports to take over security duties and carry out on-the-spot detentions of people in the country ill...",
+        "url": "https://www.benzinga.com/news/politics/26/03/51396822/trump-proposes-shifting-ice-agents-to-airports",
+        "created": "2026-03-22T13:31:01+00:00"
+      },
+      {
+        "headline": "Weekend Round-Up: Rivian's Uber Deal, Gerber's EV Push, Canada's Auto Strategy, Tesla's Battery Plant And United Airlines' Flight Cuts",
+        "source": "benzinga",
+        "symbols": [],
+        "summary": "The week in business and tech saw Rivian Automotive strike a $1.25 billion robotaxi deal with Uber Technologies, investor Ross Gerber push EV adoption amid rising oil prices, Canad...",
+        "url": "https://www.benzinga.com/markets/tech/26/03/51396760/weekend-round-up-rivians-uber-deal-gerbers-ev-push-canadas-auto-strategy-teslas-battery-plant-and-united-airlines-flight-cuts",
+        "created": "2026-03-22T13:02:21+00:00"
+      },
+      {
+        "headline": "Weekend Round-Up: Palantir's Pentagon Win, Nvidia's Trillion-Dollar Vision, Super Micro's DOJ Woes And Musk's Legal Setback",
+        "source": "benzinga",
+        "symbols": [],
+        "summary": "The week in tech saw Palantir Technologies secure a major Pentagon AI contract win, NVIDIA outline a $1 trillion revenue vision, Super Micro Computer face DOJ-related setbacks, Mic...",
+        "url": "https://www.benzinga.com/markets/tech/26/03/51396679/weekend-round-up-palantirs-pentagon-win-nvidias-trillion-dollar-vision-super-micros-doj-woes-and-musks-legal-setback",
+        "created": "2026-03-22T12:10:05+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "62\u00b0F",
+      "feelsLike": "64\u00b0F",
+      "high": "78\u00b0F",
+      "low": "59\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Iranian missiles injure 160 in towns near Israeli nuclear site",
+        "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
+        "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Hezbollah attack kills one in north Israel as assault on Lebanon continues",
+        "summary": "Hezbollah has been launching attacks in response to US-Israel war on Iran as more Israeli troops enter southern Lebanon.",
+        "url": "https://www.aljazeera.com/news/2026/3/22/hezbollah-attack-kills-one-in-north-israel-as-assault-on-lebanon-continues?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-21",
     "generatedAt": "2026-03-21T07:05:15.595043-07:00",
     "title": "Morning Brief \u2014 Sat Mar 21, 2026",
@@ -3139,112 +3235,6 @@
         "headline": "Amazon: AI-assisted hacker breached 600 FortiGate firewalls in 5 weeks",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-20",
-    "generatedAt": "2026-02-20T07:05:14.452119-08:00",
-    "title": "Morning Brief \u2014 Fri Feb 20, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$686.93",
-        "change": "\u25b2 +0.36%",
-        "direction": "up"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$495.47",
-        "change": "\u25b2 +0.22%",
-        "direction": "up"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$606.37",
-        "change": "\u25b2 +0.48%",
-        "direction": "up"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Stagflation Trade Is Back \u2013 Gold, Silver Rally After GDP Miss, Hot Inflation",
-        "source": "benzinga",
-        "symbols": [
-          "GLD"
-        ],
-        "summary": "Gold and silver surged after Q4 GDP slowed to 1.4% and core PCE rose to 3%, reviving stagflation fears. Economists are split on whether shutdown effects distorted the data or signa...",
-        "url": "https://www.benzinga.com/markets/economic-data/26/02/50750352/stagflation-trade-gold-silver-surge-gdp-pce-december-2025",
-        "created": "2026-02-20T15:03:06+00:00"
-      },
-      {
-        "headline": "What to Expect from Black Stone Minerals's Earnings",
-        "source": "benzinga",
-        "symbols": [
-          "BSM"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50750326/what-to-expect-from-black-stone-mineralss-earnings",
-        "created": "2026-02-20T15:02:34+00:00"
-      },
-      {
-        "headline": "Insights Ahead: V2X's Quarterly Earnings",
-        "source": "benzinga",
-        "symbols": [
-          "VVX"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50750313/insights-ahead-v2xs-quarterly-earnings",
-        "created": "2026-02-20T15:02:26+00:00"
-      },
-      {
-        "headline": "An Overview of Paymentus Holdings's Earnings",
-        "source": "benzinga",
-        "symbols": [
-          "PAY"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50750305/an-overview-of-paymentus-holdingss-earnings",
-        "created": "2026-02-20T15:02:15+00:00"
-      },
-      {
-        "headline": "An Overview of Ultra Clean Hldgs's Earnings",
-        "source": "benzinga",
-        "symbols": [
-          "UCTT"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50750300/an-overview-of-ultra-clean-hldgss-earnings",
-        "created": "2026-02-20T15:02:05+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "40\u00b0F",
-      "feelsLike": "34\u00b0F",
-      "high": "57\u00b0F",
-      "low": "40\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Trump says world has 10 days to see if Iran agrees deal or 'bad things happen'",
-        "summary": "The US is surging forces to the Middle East amid negotiations with the Islamic Republic over its nuclear programme.",
-        "url": "https://www.bbc.com/news/articles/c86yjnw4x49o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "UN emergency food aid in Somalia may halt by April amid severe hunger",
-        "summary": "Families in Somalia pushed to the brink amid severe hunger; urgent food aid needed to avert worsening conditions.",
-        "url": "https://www.aljazeera.com/news/2026/2/20/un-emergency-food-aid-in-somalia-may-halt-by-april-amid-severe-hunger?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Why the shift left dream has become a nightmare for security and developers",
-        "summary": "The \"shift left\" approach has increased pressure on developers, as speed demands override security checks in modern CI pipelines.",
-        "url": "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/"
       }
     ]
   }
