@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-03-24",
+    "generatedAt": "2026-03-24T07:05:17.152351-07:00",
+    "title": "Morning Brief \u2014 Tue Mar 24, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$652.32",
+        "change": "\u25bc -0.47%",
+        "direction": "down"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$459.80",
+        "change": "\u25bc -0.47%",
+        "direction": "down"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$584.34",
+        "change": "\u25bc -0.62%",
+        "direction": "down"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "$100 Invested In Cloudflare 5 Years Ago Would Be Worth This Much Today",
+        "source": "benzinga",
+        "symbols": [
+          "NET"
+        ],
+        "summary": " ",
+        "url": "https://www.benzinga.com/insights/news/26/03/51432121/100-invested-in-cloudflare-5-years-ago-would-be-worth-this-much-today",
+        "created": "2026-03-24T14:00:30+00:00"
+      },
+      {
+        "headline": "Barclays Maintains Overweight on Abivax, Raises Price Target to $148",
+        "source": "benzinga",
+        "symbols": [
+          "ABVX"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/03/51432058/barclays-maintains-overweight-on-abivax-raises-price-target-to-148",
+        "created": "2026-03-24T14:00:01+00:00"
+      },
+      {
+        "headline": "Expro Lands Key Role In Europe's Geothermal-Lithium Project",
+        "source": "benzinga",
+        "symbols": [
+          "XPRO"
+        ],
+        "summary": "Expro (XPRO) shares rise after partnering with VERCANA for Germany&#39;s Lionheart geothermal &amp; lithium project. Get the full project scope here.",
+        "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51432052/expro-lands-key-role-in-europes-geothermal-lithium-project",
+        "created": "2026-03-24T13:59:44+00:00"
+      },
+      {
+        "headline": "Leatt Q4 EPS $0.08 Up From $(0.07) YoY, Sales $16.020M Up From $11.200M YoY",
+        "source": "benzinga",
+        "symbols": [
+          "LEAT"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/earnings/26/03/51432026/leatt-q4-eps-0-08-up-from-0-07-yoy-sales-16-020m-up-from-11-200m-yoy",
+        "created": "2026-03-24T13:59:07+00:00"
+      },
+      {
+        "headline": "LevelBlue Collaborates With SentinelOne To Offer Integrated, Intelligence-Driven Security Operations For Firms Globally",
+        "source": "benzinga",
+        "symbols": [
+          "S"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/03/51432003/levelblue-collaborates-with-sentinelone-to-offer-integrated-intelligence-driven-security-operations",
+        "created": "2026-03-24T13:58:28+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "62\u00b0F",
+      "feelsLike": "64\u00b0F",
+      "high": "80\u00b0F",
+      "low": "60\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Israel says it will take control of large buffer zone in southern Lebanon",
+        "summary": "Thousands of displaced Lebanese residents will not be allowed to return home until northern Israel is safe, he says.",
+        "url": "https://www.bbc.com/news/articles/cy91j9qwp4do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Pakistan world\u2019s most polluted country in 2025: Report",
+        "summary": "Fine particulates in Pakistan's air highest in the world last year, exceeding WHO guidelines by up to 13 times.",
+        "url": "https://www.aljazeera.com/news/2026/3/24/pakistan-worlds-most-polluted-country-in-2025-report?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Infinite Campus warns of breach after ShinyHunters claims data theft",
+        "summary": "Infinite Campus, a widely used K-12 student information system, is warning customers of a data breach following an extortion attempt by a threat actor. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-23",
     "generatedAt": "2026-03-23T07:05:20.327058-07:00",
     "title": "Morning Brief \u2014 Mon Mar 23, 2026",
@@ -3123,117 +3229,6 @@
         "headline": "CISA: Recently patched RoundCube flaws now exploited in attacks",
         "summary": "CISA flagged two Roundcube Webmail vulnerabilities as actively exploited in attacks and ordered U.S. federal agencies to patch them within three weeks. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-22",
-    "generatedAt": "2026-02-22T07:05:16.074376-08:00",
-    "title": "Morning Brief \u2014 Sun Feb 22, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$689.43",
-        "change": "\u25b2 +0.72%",
-        "direction": "up"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$496.08",
-        "change": "\u25b2 +0.34%",
-        "direction": "up"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$608.81",
-        "change": "\u25b2 +0.88%",
-        "direction": "up"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Blue Owl, Genuine Parts, And Okta Are Among Top 10 Large Cap Losers Last Week (Feb. 16-Feb. 20): Are the Others in Your Portfolio?",
-        "source": "benzinga",
-        "symbols": [
-          "BBIO",
-          "BWA",
-          "EXPE",
-          "FLUT"
-        ],
-        "summary": "Ten large-cap stocks sank last week as weak earnings, lowered guidance, analyst downgrades, and deal-related headlines weighed on shares.",
-        "url": "https://www.benzinga.com/markets/equities/26/02/50770711/blue-owl-genuine-parts-and-okta-are-among-top-10-large-cap-losers-last-week-feb-16-feb-20-are-the-others-in-your-portfolio",
-        "created": "2026-02-22T15:00:39+00:00"
-      },
-      {
-        "headline": "Moderna, Coinbase, And Global Payments Are Among the Top 10 Large-Cap Gainers Last Week (Feb. 16-Feb. 20): Are the Others in Your Portfolio?",
-        "source": "benzinga",
-        "symbols": [
-          "AG",
-          "BNTX",
-          "COIN",
-          "FIG"
-        ],
-        "summary": "Ten large-cap stocks led last week&#39;s gains, driven by upbeat earnings, guidance, buybacks, and key regulatory or legal catalysts.",
-        "url": "https://www.benzinga.com/markets/equities/26/02/50770653/moderna-coinbase-and-global-payments-are-among-the-top-10-large-cap-gainers-last-week-feb-16-feb-20-are-the-others-in-your-portfolio",
-        "created": "2026-02-22T14:05:58+00:00"
-      },
-      {
-        "headline": "Weekend Round-Up: Warren's Auto Lending Probe, EV Satisfaction Soars And More",
-        "source": "benzinga",
-        "symbols": [],
-        "summary": "This week in the auto industry saw Sen. Elizabeth Warren probe rising auto repossessions, EV owner satisfaction hit 96%, Bezos-backed Slate Auto tease affordable pickup pricing, Fo...",
-        "url": "https://www.benzinga.com/markets/tech/26/02/50770639/weekend-round-up-warrens-auto-lending-probe-ev-satisfaction-soars-and-more",
-        "created": "2026-02-22T14:02:03+00:00"
-      },
-      {
-        "headline": "Consumer Tech News (Feb 16-20): Big Techs To Boost AI in India, EV Policy Shifts & More",
-        "source": "benzinga",
-        "symbols": [
-          "AAPL",
-          "AMD",
-          "AMZN",
-          "APP"
-        ],
-        "summary": "This week&#39;s top tech and policy headlines include AI investment surges, robotaxi restrictions, EV rule changes, and major moves from Meta, Microsoft, Google, Tesla, and OpenAI.",
-        "url": "https://www.benzinga.com/markets/tech/26/02/50770613/consumer-tech-news-feb-16-20-big-techs-to-boost-ai-in-india-ev-policy-shifts-more",
-        "created": "2026-02-22T13:30:25+00:00"
-      },
-      {
-        "headline": "Weekend Round-Up: Zuckerberg's Court Testimony, Nvidia's OpenAI Stake, Meta's Equity Cuts, Netflix-WBD Deal Concerns And More",
-        "source": "benzinga",
-        "symbols": [],
-        "summary": "This week in tech featured Mark Zuckerberg&#39;s court testimony, Nvidia&#39;s $30 billion OpenAI stake, Meta&#39;s equity cuts to fund AI expansion, concerns over a potential Netf...",
-        "url": "https://www.benzinga.com/markets/tech/26/02/50770574/weekend-round-up-zuckerbergs-court-testimony-nvidias-openai-stake-metas-equity-cuts-netflix-wbd-deal-concerns-and-more",
-        "created": "2026-02-22T13:01:25+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "49\u00b0F",
-      "feelsLike": "42\u00b0F",
-      "high": "77\u00b0F",
-      "low": "48\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Iran students stage first large anti-government protests since deadly crackdown",
-        "summary": "Student protesters honoured thousands of those killed when nationwide mass protests were put down by Iranian authorities last month.",
-        "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Man killed after entering perimeter of Trump\u2019s Mar-a-Lago resort",
-        "summary": "The incident in Florida took place on Sunday when US President Donald Trump was in Washington, DC.",
-        "url": "https://www.aljazeera.com/news/2026/2/22/man-killed-after-entering-perimeter-of-trumps-mar-a-lago-resort?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Predator spyware hooks iOS SpringBoard to hide mic, camera activity",
-        "summary": "Intellexa's Predator spyware can hide iOS recording indicators while secretly streaming camera and microphone feeds to its operators. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/"
       }
     ]
   }
