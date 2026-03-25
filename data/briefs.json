@@ -1,5 +1,116 @@
 [
   {
+    "date": "2026-03-25",
+    "generatedAt": "2026-03-25T07:05:21.329969-07:00",
+    "title": "Morning Brief \u2014 Wed Mar 25, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "$657.00",
+        "change": "\u25b2 +0.59%",
+        "direction": "up"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "$463.99",
+        "change": "\u25b2 +0.61%",
+        "direction": "up"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "$588.28",
+        "change": "\u25b2 +0.74%",
+        "direction": "up"
+      }
+    ],
+    "marketNews": [
+      {
+        "headline": "If You Invested $100 In BeOne Medicines Stock 10 Years Ago, You Would Have This Much Today",
+        "source": "benzinga",
+        "symbols": [
+          "ONC"
+        ],
+        "summary": " ",
+        "url": "https://www.benzinga.com/insights/news/26/03/51457179/if-you-invested-100-in-beone-medicines-stock-10-years-ago-you-would-have-this-much-today",
+        "created": "2026-03-25T14:00:25+00:00"
+      },
+      {
+        "headline": "Canaccord Genuity Maintains Buy on TELA Bio, Lowers Price Target to $2",
+        "source": "benzinga",
+        "symbols": [
+          "TELA"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/03/51457169/canaccord-genuity-maintains-buy-on-tela-bio-lowers-price-target-to-2",
+        "created": "2026-03-25T14:00:15+00:00"
+      },
+      {
+        "headline": "RBC Capital Reiterates Outperform on Zillow Group, Maintains $95 Price Target",
+        "source": "benzinga",
+        "symbols": [
+          "ZG"
+        ],
+        "summary": "",
+        "url": "https://www.benzinga.com/news/26/03/51457109/rbc-capital-reiterates-outperform-on-zillow-group-maintains-95-price-target",
+        "created": "2026-03-25T13:59:41+00:00"
+      },
+      {
+        "headline": "What's Going On With Hewlett Packard Enterprise Stock Today?",
+        "source": "benzinga",
+        "symbols": [
+          "HPE",
+          "NUMV",
+          "ONEY",
+          "PFXF"
+        ],
+        "summary": "Hewlett Packard Enterprise introduces advanced AI security solutions, expanding hybrid mesh architecture and Threat Labs.",
+        "url": "https://www.benzinga.com/markets/large-cap/26/03/51457013/whats-going-on-with-hewlett-packard-enterprise-stock-today",
+        "created": "2026-03-25T13:56:53+00:00"
+      },
+      {
+        "headline": "Four Corners Property Trust Has An 18% Dividend Buffer And A 2029 Debt Wall - That Combination Deserves A Closer Look",
+        "source": "benzinga",
+        "symbols": [
+          "FCPT",
+          "NNN",
+          "O"
+        ],
+        "summary": " ",
+        "url": "https://www.benzinga.com/Opinion/26/03/51457008/four-corners-property-trust-has-an-18-dividend-buffer-and-a-2029-debt-wall-that-combination-deserves-a-closer-look",
+        "created": "2026-03-25T13:56:38+00:00"
+      }
+    ],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "61\u00b0F",
+      "feelsLike": "62\u00b0F",
+      "high": "78\u00b0F",
+      "low": "60\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "'There's no safety anymore': Palestinians warn of expanding West Bank settler violence",
+        "summary": "There has been a surge of attacks by Israeli settlers on Palestinian villages across the occupied territory since the start of the Iran war.",
+        "url": "https://www.bbc.com/news/articles/c747x00m83vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Iranian attacks amount to violation of sovereignty, Gulf states tell UN",
+        "summary": "GCC states, UN rights chief Volker Turk warn of grave repercussions amid war on Iran.",
+        "url": "https://www.aljazeera.com/news/2026/3/25/iranian-attacks-amount-to-violation-of-sovereignty-gulf-states-tell-un?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Paid AI Accounts Are Now a Hot Underground Commodity",
+        "summary": "AI accounts are becoming part of the cybercrime supply chain, sold like email accounts or VPS access.",
+        "url": "https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-24",
     "generatedAt": "2026-03-24T07:05:17.152351-07:00",
     "title": "Morning Brief \u2014 Tue Mar 24, 2026",
@@ -3123,112 +3234,6 @@
         "headline": "UK fines Reddit $19 million for using children\u2019s data unlawfully",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/security/uk-fines-reddit-19-million-for-using-childrens-data-unlawfully/"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-23",
-    "generatedAt": "2026-02-23T07:05:14.325037-08:00",
-    "title": "Morning Brief \u2014 Mon Feb 23, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$685.28",
-        "change": "\u25bc -0.60%",
-        "direction": "down"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$491.03",
-        "change": "\u25bc -1.02%",
-        "direction": "down"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$603.84",
-        "change": "\u25bc -0.82%",
-        "direction": "down"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Insights Ahead: BridgeBio Pharma's Quarterly Earnings",
-        "source": "benzinga",
-        "symbols": [
-          "BBIO"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50781681/insights-ahead-bridgebio-pharmas-quarterly-earnings",
-        "created": "2026-02-23T15:02:03+00:00"
-      },
-      {
-        "headline": "RBC Capital Maintains Outperform on Nutrien, Raises Price Target to $80",
-        "source": "benzinga",
-        "symbols": [
-          "NTR"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/02/50781677/rbc-capital-maintains-outperform-on-nutrien-raises-price-target-to-80",
-        "created": "2026-02-23T15:01:57+00:00"
-      },
-      {
-        "headline": "Earnings Preview: Alcon",
-        "source": "benzinga",
-        "symbols": [
-          "ALC"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50781662/earnings-preview-alcon",
-        "created": "2026-02-23T15:01:42+00:00"
-      },
-      {
-        "headline": "What's Next: Jazz Pharmaceuticals's Earnings Preview",
-        "source": "benzinga",
-        "symbols": [
-          "JAZZ"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50781650/whats-next-jazz-pharmaceuticalss-earnings-preview",
-        "created": "2026-02-23T15:01:32+00:00"
-      },
-      {
-        "headline": "Jefferies Downgrades Workday to Hold, Lowers Price Target to $150",
-        "source": "benzinga",
-        "symbols": [
-          "WDAY"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/02/50781641/jefferies-downgrades-workday-to-hold-lowers-price-target-to-150",
-        "created": "2026-02-23T15:01:20+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "51\u00b0F",
-      "feelsLike": "45\u00b0F",
-      "high": "82\u00b0F",
-      "low": "51\u00b0F",
-      "precipChance": "1%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Four years into its full-scale war in Ukraine, Russia is feeling the effects",
-        "summary": "Steve Rosenberg reports on the economic consequences of Russia's war, and how people are coping.",
-        "url": "https://www.bbc.com/news/articles/c4gj20xzw39o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Who was El Mencho? What drug lord\u2019s killing means for Mexico",
-        "summary": "US-backed operation that killed El Mencho sparks a wave of violence across the country.",
-        "url": "https://www.aljazeera.com/news/2026/2/23/who-was-el-mencho-what-drug-lords-killing-means-for-mexico?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "CISA: Recently patched RoundCube flaws now exploited in attacks",
-        "summary": "CISA flagged two Roundcube Webmail vulnerabilities as actively exploited in attacks and ordered U.S. federal agencies to patch them within three weeks. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/"
       }
     ]
   }
