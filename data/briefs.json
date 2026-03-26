@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-03-26",
+    "generatedAt": "2026-03-26T07:05:22.303233-07:00",
+    "title": "Morning Brief \u2014 Thu Mar 26, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "58\u00b0F",
+      "feelsLike": "58\u00b0F",
+      "high": "84\u00b0F",
+      "low": "56\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
+        "summary": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear.",
+        "url": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Russian officials meet US counterparts as Moscow denies aiding Iran",
+        "summary": "Kremlin spokesperson says talks are part of '\u200bnecessary dialogue' with Washington as war in Ukraine continues.",
+        "url": "https://www.aljazeera.com/news/2026/3/26/russian-officials-meet-us-counterparts-as-moscow-denies-aiding-iran?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers",
+        "summary": "Multi-stage fraud attacks chain bots, proxies, and stolen credentials from signup to takeover. IPQS shows why correlating IP, device, identity, and behavior is critical to stop it.",
+        "url": "https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-25",
     "generatedAt": "2026-03-25T07:05:21.329969-07:00",
     "title": "Morning Brief \u2014 Wed Mar 25, 2026",
@@ -3128,112 +3183,6 @@
         "headline": "The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web",
         "summary": "OpenClaw has sparked heavy Telegram and dark web chatter, but Flare's data shows more research hype than mass exploitation.",
         "url": "https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-24",
-    "generatedAt": "2026-02-24T07:05:18.429091-08:00",
-    "title": "Morning Brief \u2014 Tue Feb 24, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$682.69",
-        "change": "\u25b2 +0.04%",
-        "direction": "up"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$490.07",
-        "change": "\u25b2 +0.42%",
-        "direction": "up"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$603.25",
-        "change": "\u25b2 +0.31%",
-        "direction": "up"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "A Peek at McGrath RentCorp's Future Earnings",
-        "source": "benzinga",
-        "symbols": [
-          "MGRC"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50817145/a-peek-at-mcgrath-rentcorps-future-earnings",
-        "created": "2026-02-24T15:02:57+00:00"
-      },
-      {
-        "headline": "'Mark Zuckerberg's Meta Is Planning Stablecoin Comeback In The Second Half Of This Year' - CoinDesk",
-        "source": "benzinga",
-        "symbols": [
-          "META"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/markets/cryptocurrency/26/02/50817139/mark-zuckerbergs-meta-is-planning-stablecoin-comeback-in-the-second-half-of-this-year-coin",
-        "created": "2026-02-24T15:02:50+00:00"
-      },
-      {
-        "headline": "JAKKS Pacific And COVER Corp Partner To Create And Distribute Officially Licensed Hololive Consumer Products In North America",
-        "source": "benzinga",
-        "symbols": [
-          "JAKK"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/02/50817138/jakks-pacific-and-cover-corp-partner-to-create-and-distribute-officially-licensed-hololive-consumer",
-        "created": "2026-02-24T15:02:50+00:00"
-      },
-      {
-        "headline": "Insights Ahead: United Therapeutics's Quarterly Earnings",
-        "source": "benzinga",
-        "symbols": [
-          "UTHR"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50817137/insights-ahead-united-therapeuticss-quarterly-earnings",
-        "created": "2026-02-24T15:02:48+00:00"
-      },
-      {
-        "headline": "A Look at Permian Resources's Upcoming Earnings Report",
-        "source": "benzinga",
-        "symbols": [
-          "PR"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50817119/a-look-at-permian-resourcess-upcoming-earnings-report",
-        "created": "2026-02-24T15:02:37+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Mainly clear",
-      "temp": "54\u00b0F",
-      "feelsLike": "49\u00b0F",
-      "high": "80\u00b0F",
-      "low": "54\u00b0F",
-      "precipChance": "1%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Russian soldiers tell BBC they saw fellow troops executed on commanders' orders",
-        "summary": "Four men expose the horror and brutality of conditions in the Ukraine war, with two saying they saw soldiers being shot for refusing orders.",
-        "url": "https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Three myths about the Russia economic war",
-        "summary": "Has Moscow really overcome the sanctions regime? It is time to talk facts, not fiction.",
-        "url": "https://www.aljazeera.com/opinions/2026/2/24/three-myths-about-the-russia-economic-war?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "UK fines Reddit $19 million for using children\u2019s data unlawfully",
-        "summary": "",
-        "url": "https://www.bleepingcomputer.com/news/security/uk-fines-reddit-19-million-for-using-childrens-data-unlawfully/"
       }
     ]
   }
