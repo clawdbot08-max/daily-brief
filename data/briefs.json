@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-03-27",
+    "generatedAt": "2026-03-27T07:05:22.914649-07:00",
+    "title": "Morning Brief \u2014 Fri Mar 27, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Fog",
+      "temp": "59\u00b0F",
+      "feelsLike": "61\u00b0F",
+      "high": "82\u00b0F",
+      "low": "57\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
+        "summary": "One month since the US and Israel launched strikes on Iran, Tehran residents tell the BBC their lives have been devastated.",
+        "url": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Saudi, UAE, Iraq: Can three pipelines help oil escape Strait of Hormuz?",
+        "summary": "Countries in the Middle East have ramped up oil exports via pipeline to bridge the Strait of Hormuz gap.",
+        "url": "https://www.aljazeera.com/economy/2026/3/27/saudi-uae-iraq-can-three-pipelines-help-oil-escape-strait-of-hormuz?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.",
+        "summary": "Agentic GRC automates workflows, forcing teams to rethink their role beyond operations. Anecdotes explains why the biggest challenge is shifting from execution to risk leadership.",
+        "url": "https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-26",
     "generatedAt": "2026-03-26T07:05:22.303233-07:00",
     "title": "Morning Brief \u2014 Thu Mar 26, 2026",
@@ -3077,112 +3132,6 @@
         "headline": "Ransomware payment rate drops to record low as attacks surge",
         "summary": "The number of ransomware victims paying threat actors has dropped to 28% last year, an all-time low, despite a significant increase in the number of claimed attacks. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-despite-attack-surge/"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-25",
-    "generatedAt": "2026-02-25T07:05:24.626672-08:00",
-    "title": "Morning Brief \u2014 Wed Feb 25, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$690.94",
-        "change": "\u25b2 +0.52%",
-        "direction": "up"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$492.66",
-        "change": "\u25b2 +0.18%",
-        "direction": "up"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$615.27",
-        "change": "\u25b2 +1.22%",
-        "direction": "up"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "RBC Capital Maintains Outperform on Qnity Electronics, Raises Price Target to $133",
-        "source": "benzinga",
-        "symbols": [
-          "Q"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/02/50851727/rbc-capital-maintains-outperform-on-qnity-electronics-raises-price-target-to-133",
-        "created": "2026-02-25T15:03:33+00:00"
-      },
-      {
-        "headline": "What's Next: TopBuild's Earnings Preview",
-        "source": "benzinga",
-        "symbols": [
-          "BLD"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50851679/whats-next-topbuilds-earnings-preview",
-        "created": "2026-02-25T15:02:50+00:00"
-      },
-      {
-        "headline": "A Preview Of Autodesk's Earnings",
-        "source": "benzinga",
-        "symbols": [
-          "ADSK"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50851673/a-preview-of-autodesks-earnings",
-        "created": "2026-02-25T15:02:42+00:00"
-      },
-      {
-        "headline": "Block's Earnings: A Preview",
-        "source": "benzinga",
-        "symbols": [
-          "XYZ"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50851663/blocks-earnings-a-preview",
-        "created": "2026-02-25T15:02:31+00:00"
-      },
-      {
-        "headline": "Wells Fargo Maintains Overweight on Ferguson Enterprises, Raises Price Target to $285",
-        "source": "benzinga",
-        "symbols": [
-          "FERG"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/02/50851657/wells-fargo-maintains-overweight-on-ferguson-enterprises-raises-price-target-to-285",
-        "created": "2026-02-25T15:02:24+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Mainly clear",
-      "temp": "54\u00b0F",
-      "feelsLike": "50\u00b0F",
-      "high": "78\u00b0F",
-      "low": "53\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Trump's theatrical State of the Union address offers little hint of any change in course",
-        "summary": "The BBC's Anthony Zurcher says the US president appealed to his base and taunted his opponents in a marathon speech.",
-        "url": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Pakistani players in the Hundred: What\u2019s the cricket controversy all about?",
-        "summary": "Breaking down row involving Pakistani cricketers' presence in a franchise league in which Indian businesses own teams.",
-        "url": "https://www.aljazeera.com/sports/2026/2/25/pakistani-players-in-the-hundred-whats-the-cricket-controversy-all-about?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web",
-        "summary": "OpenClaw has sparked heavy Telegram and dark web chatter, but Flare's data shows more research hype than mass exploitation.",
-        "url": "https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/"
       }
     ]
   }
