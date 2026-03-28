@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-03-28",
+    "generatedAt": "2026-03-28T07:05:26.896481-07:00",
+    "title": "Morning Brief \u2014 Sat Mar 28, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "54\u00b0F",
+      "feelsLike": "53\u00b0F",
+      "high": "81\u00b0F",
+      "low": "54\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
+        "summary": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
+        "url": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Defending champion Aryna Sabalenka and Coco Gauff meet in Miami Open final",
+        "summary": "Sabalenka seeks tennis's 'Sunshine Double', while Florida's own Gauff has reached the final for the first time.",
+        "url": "https://www.aljazeera.com/sports/2026/3/28/defending-champion-aryna-sabalenka-and-coco-gauff-meet-for-the-miami-open-t?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Backdoored Telnyx PyPI package pushes malware hidden in WAV audio",
+        "summary": "TeamPCP hackers compromised the Telnyx package on the Python Package Index today, uploading malicious versions that deliver credential-stealing malware hidden inside a WAV file.",
+        "url": "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-27",
     "generatedAt": "2026-03-27T07:05:22.914649-07:00",
     "title": "Morning Brief \u2014 Fri Mar 27, 2026",
@@ -3026,112 +3081,6 @@
         "headline": "Third-Party Patching and the Business Footprint We All Share",
         "summary": "Everyday tools like PDF readers, email clients, and archive utilities quietly define the real attack surface.",
         "url": "https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-26",
-    "generatedAt": "2026-02-26T07:05:23.710852-08:00",
-    "title": "Morning Brief \u2014 Thu Feb 26, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$690.33",
-        "change": "\u25bc -0.41%",
-        "direction": "down"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$496.05",
-        "change": "\u25b2 +0.25%",
-        "direction": "up"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$611.51",
-        "change": "\u25bc -0.84%",
-        "direction": "down"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Evercore ISI Group Maintains Outperform on Chime Financial, Lowers Price Target to $35",
-        "source": "benzinga",
-        "symbols": [
-          "CHYM"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/02/50891186/evercore-isi-group-maintains-outperform-on-chime-financial-lowers-price-target-to-35",
-        "created": "2026-02-26T15:05:11+00:00"
-      },
-      {
-        "headline": "'Blackstone Private Credit Fund Markets Bond Amid Software Tumult' - Bloomberg",
-        "source": "benzinga",
-        "symbols": [
-          "BX"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/02/50891162/blackstone-private-credit-fund-markets-bond-amid-software-tumult-bloomberg",
-        "created": "2026-02-26T15:04:42+00:00"
-      },
-      {
-        "headline": "Barclays Maintains Equal-Weight on Bank of Montreal, Raises Price Target to C$199",
-        "source": "benzinga",
-        "symbols": [
-          "TSX:BMO"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/02/50891151/barclays-maintains-equal-weight-on-bank-of-montreal-raises-price-target-to-c-199",
-        "created": "2026-02-26T15:04:33+00:00"
-      },
-      {
-        "headline": "Evercore ISI Group Maintains In-Line on APA, Raises Price Target to $25",
-        "source": "benzinga",
-        "symbols": [
-          "APA"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/02/50891126/evercore-isi-group-maintains-in-line-on-apa-raises-price-target-to-25",
-        "created": "2026-02-26T15:03:59+00:00"
-      },
-      {
-        "headline": "Reported Earlier: 'Shell reviewing some of its Shell Ventures portfolio with option to sell, sources say' - Reuters",
-        "source": "benzinga",
-        "symbols": [
-          "SHEL"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/02/50891097/reported-earlier-shell-reviewing-some-of-its-shell-ventures-portfolio-with-option-to-sell-sources-sa",
-        "created": "2026-02-26T15:03:35+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "54\u00b0F",
-      "feelsLike": "52\u00b0F",
-      "high": "80\u00b0F",
-      "low": "54\u00b0F",
-      "precipChance": "1%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Danish PM calls snap election with Greenland issue centre-stage",
-        "summary": "The issue of Greenland, which Donald Trump wants to annex, is likely to dominate the election campaign.",
-        "url": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Kim Jong Un oversees massive Pyongyang military parade",
-        "summary": "Kim Jong Un oversaw a massive military parade in Pyongyang to wrap up the once every-five-years Workers' Party congress.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/kim-jong-un-oversees-massive-pyongyang-military-parade?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Ransomware payment rate drops to record low as attacks surge",
-        "summary": "The number of ransomware victims paying threat actors has dropped to 28% last year, an all-time low, despite a significant increase in the number of claimed attacks. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-despite-attack-surge/"
       }
     ]
   }
