@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-03-29",
+    "generatedAt": "2026-03-29T07:05:27.287493-07:00",
+    "title": "Morning Brief \u2014 Sun Mar 29, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "55\u00b0F",
+      "feelsLike": "51\u00b0F",
+      "high": "87\u00b0F",
+      "low": "55\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
+        "summary": "One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective, writes the BBC's international editor.",
+        "url": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Israeli footballer\u2019s role in assault on southern Lebanon sparks outrage",
+        "summary": "Israeli Premier League player Menashe Zalka is seen opening fire with Israeli army soldiers in southern Lebanon assault.",
+        "url": "https://www.aljazeera.com/sports/2026/3/29/israeli-footballers-role-in-assault-on-southern-lebanon-sparks-outrage?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "New Infinity Stealer malware grabs macOS data via ClickFix lures",
+        "summary": "A new info-stealing malware named Infinity Stealer is targeting macOS systems with a Python payload packaged as an executable using the open-source Nuitka compiler. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-28",
     "generatedAt": "2026-03-28T07:05:26.896481-07:00",
     "title": "Morning Brief \u2014 Sat Mar 28, 2026",
@@ -2975,112 +3030,6 @@
         "headline": "Microsoft testing Windows 11 batch file security improvements",
         "summary": "Microsoft is rolling out new Windows 11 Insider Preview builds that improve security and performance during batch file or CMD script execution. [...]",
         "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-27",
-    "generatedAt": "2026-02-27T07:05:17.475494-08:00",
-    "title": "Morning Brief \u2014 Fri Feb 27, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$683.92",
-        "change": "\u25bc -0.78%",
-        "direction": "down"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$487.35",
-        "change": "\u25bc -1.52%",
-        "direction": "down"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$605.59",
-        "change": "\u25bc -0.60%",
-        "direction": "down"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Here's How Much $100 Invested In First Solar 5 Years Ago Would Be Worth Today",
-        "source": "benzinga",
-        "symbols": [
-          "FSLR"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/insights/news/26/02/50929335/heres-how-much-100-invested-in-first-solar-5-years-ago-would-be-worth-today",
-        "created": "2026-02-27T15:03:01+00:00"
-      },
-      {
-        "headline": "A Peek at Plug Power's Future Earnings",
-        "source": "benzinga",
-        "symbols": [
-          "PLUG"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50929292/a-peek-at-plug-powers-future-earnings",
-        "created": "2026-02-27T15:02:16+00:00"
-      },
-      {
-        "headline": "Earnings Preview For Core Scientific",
-        "source": "benzinga",
-        "symbols": [
-          "CORZ"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50929281/earnings-preview-for-core-scientific",
-        "created": "2026-02-27T15:02:07+00:00"
-      },
-      {
-        "headline": "Insights into Riot Platforms's Upcoming Earnings",
-        "source": "benzinga",
-        "symbols": [
-          "RIOT"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50929275/insights-into-riot-platformss-upcoming-earnings",
-        "created": "2026-02-27T15:01:57+00:00"
-      },
-      {
-        "headline": "What to Expect from AAON's Earnings",
-        "source": "benzinga",
-        "symbols": [
-          "AAON"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/insights/earnings/26/02/50929268/what-to-expect-from-aaons-earnings",
-        "created": "2026-02-27T15:01:47+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Partly cloudy",
-      "temp": "61\u00b0F",
-      "feelsLike": "58\u00b0F",
-      "high": "92\u00b0F",
-      "low": "60\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Pakistan defence minister says country in 'open war' with Afghanistan after strikes",
-        "summary": "The latest attacks by Pakistan follow months of clashes between the two countries. despite agreeing to a fragile ceasefire in October.",
-        "url": "https://www.bbc.com/news/articles/cvgjd7pv4y4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "100,000 pray at Al-Aqsa amid Israeli restrictions on 2nd Friday of Ramadan",
-        "summary": "Thousands of worshippers attend prayers at Al-Aqsa Mosque, with others turned away despite carrying required permits.",
-        "url": "https://www.aljazeera.com/news/2026/2/27/100000-pray-at-al-aqsa-amid-israeli-restrictions-on-2nd-friday-of-ramadan?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Third-Party Patching and the Business Footprint We All Share",
-        "summary": "Everyday tools like PDF readers, email clients, and archive utilities quietly define the real attack surface.",
-        "url": "https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/"
       }
     ]
   }
