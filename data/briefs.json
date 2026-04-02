@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-02",
+    "generatedAt": "2026-04-02T07:05:33.311747-07:00",
+    "title": "Morning Brief \u2014 Thu Apr 02, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "56\u00b0F",
+      "feelsLike": "56\u00b0F",
+      "high": "73\u00b0F",
+      "low": "56\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Macron calls Trump's remarks on his marriage 'inelegant'",
+        "summary": "French President Emmanuel Macron has said Donald Trump's comments about his marriage were \"neither elegant nor up to standard\".",
+        "url": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Spanish cyclist Guardeno airlifted to intensive care after training crash",
+        "summary": "A week after 23-year-old's participation in the Tour of Catalonia, Guardeno suffers head injuries in collision with car.",
+        "url": "https://www.aljazeera.com/sports/2026/4/2/spanish-cyclist-guardeno-airlifted-to-intensive-care-after-training-crash?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
+        "summary": "Threat actors are exploiting vacant homes as \"drop addresses\" to intercept mail and enable fraud.",
+        "url": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-01",
     "generatedAt": "2026-04-01T07:05:35.304349-07:00",
     "title": "Morning Brief \u2014 Wed Apr 01, 2026",
@@ -2749,115 +2804,6 @@
         "headline": "CISA flags VMware Aria Operations RCE flaw as exploited in attacks",
         "summary": "The U.S.",
         "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-03",
-    "generatedAt": "2026-03-03T07:05:27.274831-08:00",
-    "title": "Morning Brief \u2014 Tue Mar 03, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$672.18",
-        "change": "\u25bc -2.07%",
-        "direction": "down"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$478.29",
-        "change": "\u25bc -2.23%",
-        "direction": "down"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$595.11",
-        "change": "\u25bc -2.13%",
-        "direction": "down"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Goldman Sachs Maintains Neutral on MYR Group, Raises Price Target to $296",
-        "source": "benzinga",
-        "symbols": [
-          "MYRG"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/03/51002207/goldman-sachs-maintains-neutral-on-myr-group-raises-price-target-to-296",
-        "created": "2026-03-03T15:04:08+00:00"
-      },
-      {
-        "headline": "Wells Fargo Maintains Equal-Weight on The Campbell's, Lowers Price Target to $28",
-        "source": "benzinga",
-        "symbols": [
-          "CPB"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/03/51002187/wells-fargo-maintains-equal-weight-on-the-campbells-lowers-price-target-to-28",
-        "created": "2026-03-03T15:03:50+00:00"
-      },
-      {
-        "headline": "Tomahawk Economics: Missile Strikes Ignite Defense ETF Rally",
-        "source": "benzinga",
-        "symbols": [
-          "GCAD",
-          "ITA",
-          "LHX",
-          "XAR"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/etfs/sector-etfs/26/03/51002185/tomahawk-economics-missile-strikes-ignite-defense-etf-rally",
-        "created": "2026-03-03T15:03:48+00:00"
-      },
-      {
-        "headline": "Wedbush Maintains Outperform on Apogee Therapeutics, Raises Price Target to $95",
-        "source": "benzinga",
-        "symbols": [
-          "APGE"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/03/51002167/wedbush-maintains-outperform-on-apogee-therapeutics-raises-price-target-to-95",
-        "created": "2026-03-03T15:03:30+00:00"
-      },
-      {
-        "headline": "Examining the Future: Ocugen's Earnings Outlook",
-        "source": "benzinga",
-        "symbols": [
-          "OCGN"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/03/51002138/examining-the-future-ocugens-earnings-outlook",
-        "created": "2026-03-03T15:03:09+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Partly cloudy",
-      "temp": "53\u00b0F",
-      "feelsLike": "52\u00b0F",
-      "high": "74\u00b0F",
-      "low": "51\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
-        "summary": "Iranian official threatens to \"set fire\" to any ships passing through the Strait of Hormuz.",
-        "url": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Qatar says it downed Iranian missiles targeting its airport",
-        "summary": "Qatar\u2019s Foreign Ministry Spokesman Majed al-Ansari says it prevented Iranian missiles from attacking its airport.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/qatar-says-it-downed-iranian-missiles-targeting-its-airport?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Compromised Site Management Panels are a Hot Item in Cybercrime Markets",
-        "summary": "Compromised cPanel credentials are being sold in bulk across underground channels as plug-and-play phishing and scam infrastructure.",
-        "url": "https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/"
       }
     ]
   }
