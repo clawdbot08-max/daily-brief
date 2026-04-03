@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-03",
+    "generatedAt": "2026-04-03T07:05:28.431911-07:00",
+    "title": "Morning Brief \u2014 Fri Apr 03, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "53\u00b0F",
+      "feelsLike": "52\u00b0F",
+      "high": "82\u00b0F",
+      "low": "53\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Artemis II leaves Earth's orbit on track for far side of the Moon",
+        "summary": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
+        "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Gattuso out as Italy\u2019s coach after failure to qualify for 2026 World Cup",
+        "summary": "The Azzurri's failure to reach a third consecutive World Cup continues to send shockwaves through Italian football.",
+        "url": "https://www.aljazeera.com/sports/2026/4/3/gattuso-out-as-italys-coach-after-failure-to-qualify-for-2026-world-cup?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Microsoft still working to fix Exchange Online mailbox access issues",
+        "summary": "Microsoft is investigating and working to resolve Exchange Online mailbox access issues that have intermittently affected Outlook mobile and macOS users for weeks. [...]",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-02",
     "generatedAt": "2026-04-02T07:05:33.311747-07:00",
     "title": "Morning Brief \u2014 Thu Apr 02, 2026",
@@ -2698,112 +2753,6 @@
         "headline": "Google says 90 zero-days were exploited in attacks last year",
         "summary": "Google Threat Intelligence Group (GTIG) tracked 90 zero-day vulnerabilities actively exploited throughout 2025, almost half of them in enterprise software and appliances. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-04",
-    "generatedAt": "2026-03-04T07:05:42.657042-08:00",
-    "title": "Morning Brief \u2014 Wed Mar 04, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$681.58",
-        "change": "\u25b2 +0.18%",
-        "direction": "up"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$485.74",
-        "change": "\u25b2 +0.05%",
-        "direction": "up"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$605.96",
-        "change": "\u25b2 +0.73%",
-        "direction": "up"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Barclays Maintains Underweight on Target, Raises Price Target to $108",
-        "source": "benzinga",
-        "symbols": [
-          "TGT"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/03/51036391/barclays-maintains-underweight-on-target-raises-price-target-to-108",
-        "created": "2026-03-04T15:04:40+00:00"
-      },
-      {
-        "headline": "RBC Capital Maintains Sector Perform on Oracle, Lowers Price Target to $160",
-        "source": "benzinga",
-        "symbols": [
-          "ORCL"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/03/51036348/rbc-capital-maintains-sector-perform-on-oracle-lowers-price-target-to-160",
-        "created": "2026-03-04T15:04:08+00:00"
-      },
-      {
-        "headline": "Wendy's Announces Finalization Of Two New Franchise Agreements To Add More Than 60 New Wendy's Restaurants In Mexico",
-        "source": "benzinga",
-        "symbols": [
-          "WEN"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/03/51036341/wendys-announces-finalization-of-two-new-franchise-agreements-to-add-more-than-60-new-wendys-restaur",
-        "created": "2026-03-04T15:04:01+00:00"
-      },
-      {
-        "headline": "Nokia Federal Solutions Awarded U.S. Missile Defense Agency's SHIELD Contract With $151B Ceiling Value",
-        "source": "benzinga",
-        "symbols": [
-          "NOK"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/03/51036318/nokia-federal-solutions-awarded-u-s-missile-defense-agencys-shield-contract-with-151b-ceiling-value",
-        "created": "2026-03-04T15:03:37+00:00"
-      },
-      {
-        "headline": "A Look Ahead: Ituran Location & Control's Earnings Forecast",
-        "source": "benzinga",
-        "symbols": [
-          "ITRN"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/03/51036292/a-look-ahead-ituran-location-controls-earnings-forecast",
-        "created": "2026-03-04T15:03:13+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Fog",
-      "temp": "55\u00b0F",
-      "feelsLike": "55\u00b0F",
-      "high": "67\u00b0F",
-      "low": "52\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Spain's Pedro S\u00e1nchez hits back at Trump threat to sever trade saying 'no to war'",
-        "summary": "Spain's prime minister delivers a strong rebuttal to US President Donald Trump's threat to end trade with his country.",
-        "url": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Are the US and Israel planning an ethnic civil war in Iran?",
-        "summary": "Reports are emerging that the US and Israel are supporting separatist groups in Iran to launch attacks.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/4/are-the-us-and-israel-planning-an-ethnic-civil-war-in-iran?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "CISA flags VMware Aria Operations RCE flaw as exploited in attacks",
-        "summary": "The U.S.",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/"
       }
     ]
   }
