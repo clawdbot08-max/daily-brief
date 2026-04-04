@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-04",
+    "generatedAt": "2026-04-04T07:05:29.330862-07:00",
+    "title": "Morning Brief \u2014 Sat Apr 04, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Mainly clear",
+      "temp": "61\u00b0F",
+      "feelsLike": "55\u00b0F",
+      "high": "88\u00b0F",
+      "low": "59\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
+        "summary": "A former US marine tells the BBC the priority of any recovery team would be to look for signs of life.",
+        "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Israeli strikes damage hospital in Lebanon\u2019s Tyre; ground invasion advances",
+        "summary": "At least 11 people are injured as Israel strikes near the Lebanese Italian Hospital in Tyre, damaging the facility.",
+        "url": "https://www.aljazeera.com/news/2026/4/4/israeli-strikes-damage-hospital-in-lebanons-tyre?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "LinkedIn secretely scans for 6,000+ Chrome extensions, collects data",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-03",
     "generatedAt": "2026-04-03T07:05:28.431911-07:00",
     "title": "Morning Brief \u2014 Fri Apr 03, 2026",
@@ -2647,112 +2702,6 @@
         "headline": "Fake Claude Code install guides push infostealers in InstallFix attacks",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-05",
-    "generatedAt": "2026-03-05T07:05:25.391080-08:00",
-    "title": "Morning Brief \u2014 Thu Mar 05, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$684.25",
-        "change": "\u25bc -0.13%",
-        "direction": "down"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$483.89",
-        "change": "\u25bc -0.79%",
-        "direction": "down"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$611.88",
-        "change": "\u25b2 +0.19%",
-        "direction": "up"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Zillow Stock Rises After $1.25B Share Buyback Authorization",
-        "source": "benzinga",
-        "symbols": [
-          "Z"
-        ],
-        "summary": "Zillow Group, Inc. (NASDAQ:Z) shares are trading higher Thursday after the company announced a $1.25 billion buyback plan.",
-        "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51068599/zillow-stock-rises-after-1-25b-share-buyback-authorization",
-        "created": "2026-03-05T15:01:53+00:00"
-      },
-      {
-        "headline": "What Does the Market Think About Freeport-McMoRan Inc?",
-        "source": "benzinga",
-        "symbols": [
-          "FCX"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/insights/short-sellers/26/03/51068532/what-does-the-market-think-about-freeport-mcmoran-inc",
-        "created": "2026-03-05T15:00:58+00:00"
-      },
-      {
-        "headline": "Apple's Options Frenzy: What You Need to Know",
-        "source": "benzinga",
-        "symbols": [
-          "AAPL"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/insights/options/26/03/51068527/apples-options-frenzy-what-you-need-to-know",
-        "created": "2026-03-05T15:00:55+00:00"
-      },
-      {
-        "headline": "Is Comcast Corp Gaining or Losing Market Support?",
-        "source": "benzinga",
-        "symbols": [
-          "CMCSA"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/insights/short-sellers/26/03/51068525/is-comcast-corp-gaining-or-losing-market-support",
-        "created": "2026-03-05T15:00:52+00:00"
-      },
-      {
-        "headline": "Spotlight on Adobe: Analyzing the Surge in Options Activity",
-        "source": "benzinga",
-        "symbols": [
-          "ADBE"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/insights/options/26/03/51068520/spotlight-on-adobe-analyzing-the-surge-in-options-activity",
-        "created": "2026-03-05T15:00:48+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "54\u00b0F",
-      "feelsLike": "53\u00b0F",
-      "high": "76\u00b0F",
-      "low": "53\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Iran targets headquarters of Iranian Kurdish forces in Iraq",
-        "summary": "The Iranian military's strikes come amid speculation that the US wants Iranian Kurdish groups to join its conflict with Iran.",
-        "url": "https://www.bbc.com/news/articles/c2k88y1147jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Which Kurdish groups is the US rallying to fight Iran?",
-        "summary": "US President Donald Trump has spoken to at least three Kurdish groups in Iran and Iraq in recent days.",
-        "url": "https://www.aljazeera.com/news/2026/3/5/which-kurdish-groups-is-the-us-rallying-to-fight?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Google says 90 zero-days were exploited in attacks last year",
-        "summary": "Google Threat Intelligence Group (GTIG) tracked 90 zero-day vulnerabilities actively exploited throughout 2025, almost half of them in enterprise software and appliances. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/"
       }
     ]
   }
