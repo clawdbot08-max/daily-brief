@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-08",
+    "generatedAt": "2026-04-08T07:05:32.488636-07:00",
+    "title": "Morning Brief \u2014 Wed Apr 08, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Fog",
+      "temp": "56\u00b0F",
+      "feelsLike": "56\u00b0F",
+      "high": "80\u00b0F",
+      "low": "56\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
+        "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
+        "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "\u2018Stone Age\u2019 to \u2018Golden Age\u2019: How the final hours before the truce unfolded",
+        "summary": "Frantic diplomacy collides with 'genocidal' threats in lead-up to announcement of two-week ceasefire between US, Iran.",
+        "url": "https://www.aljazeera.com/news/2026/4/8/stone-age-to-golden-age-how-the-final-hours-before-the-truce-unfolded?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Microsoft rolls out fix for broken Windows Start Menu search",
+        "summary": "Microsoft has pushed a server-side fix for a known issue that broke the Windows Start Menu search feature on some Windows 11 23H2 devices. [...]",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-07",
     "generatedAt": "2026-04-07T07:05:32.144102-07:00",
     "title": "Morning Brief \u2014 Tue Apr 07, 2026",
@@ -2432,112 +2487,6 @@
         "headline": "CISA: Recently patched Ivanti EPM flaw now actively exploited",
         "summary": "CISA flagged a high-severity Ivanti Endpoint Manager (EPM) vulnerability as actively exploited in attacks and ordered U.S. federal agencies to patch systems within three weeks.",
         "url": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-09",
-    "generatedAt": "2026-03-09T07:05:26.222224-07:00",
-    "title": "Morning Brief \u2014 Mon Mar 09, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$665.84",
-        "change": "\u25bc -0.97%",
-        "direction": "down"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$469.19",
-        "change": "\u25bc -1.27%",
-        "direction": "down"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$595.08",
-        "change": "\u25bc -0.78%",
-        "direction": "down"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Evolv Technologies Earnings Preview",
-        "source": "benzinga",
-        "symbols": [
-          "EVLV"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/03/51128663/evolv-technologies-earnings-preview",
-        "created": "2026-03-09T14:02:56+00:00"
-      },
-      {
-        "headline": "ABM Indus's Earnings: A Preview",
-        "source": "benzinga",
-        "symbols": [
-          "ABM"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/03/51128650/abm-induss-earnings-a-preview",
-        "created": "2026-03-09T14:02:46+00:00"
-      },
-      {
-        "headline": "What's Next: Uranium Energy's Earnings Preview",
-        "source": "benzinga",
-        "symbols": [
-          "UEC"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/03/51128639/whats-next-uranium-energys-earnings-preview",
-        "created": "2026-03-09T14:02:37+00:00"
-      },
-      {
-        "headline": "Earnings Outlook For JOYY",
-        "source": "benzinga",
-        "symbols": [
-          "JOYY"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/03/51128627/earnings-outlook-for-joyy",
-        "created": "2026-03-09T14:02:28+00:00"
-      },
-      {
-        "headline": "An Overview of Legend Biotech's Earnings",
-        "source": "benzinga",
-        "symbols": [
-          "LEGN"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/03/51128614/an-overview-of-legend-biotechs-earnings",
-        "created": "2026-03-09T14:02:16+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "56\u00b0F",
-      "feelsLike": "51\u00b0F",
-      "high": "75\u00b0F",
-      "low": "56\u00b0F",
-      "precipChance": "1%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
-        "summary": "Many expect the 56-year-old, who has largely kept a low profile, to continue his father's hardline policies.",
-        "url": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "It is time for the world to move on without the United States",
-        "summary": "The US no longer wants to be the guarantor of the world order. It's time the rest of us take this responsibility.",
-        "url": "https://www.aljazeera.com/opinions/2026/3/9/it-is-time-for-the-world-to-move-on-without-the-united-states?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "EU court adviser says banks must immediately refund phishing victims",
-        "summary": "",
-        "url": "https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/"
       }
     ]
   }
