@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-09",
+    "generatedAt": "2026-04-09T07:05:32.740445-07:00",
+    "title": "Morning Brief \u2014 Thu Apr 09, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "62\u00b0F",
+      "feelsLike": "63\u00b0F",
+      "high": "80\u00b0F",
+      "low": "59\u00b0F",
+      "precipChance": "1%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC",
+        "summary": "Iran's deputy foreign minister says the US must choose between 'war and ceasefire'.",
+        "url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Is the world economy heading towards stagflation?",
+        "summary": "Is the world economy heading towards stagflation?",
+        "url": "https://www.aljazeera.com/video/money-works/2026/4/9/is-the-world-economy-heading-towards-stagflation?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Webinar: From noise to signal - What threat actors are targeting next",
+        "summary": "Threat actors often signal their intentions before launching attacks, from dark web chatter to access-broker listings and credential requests.",
+        "url": "https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-08",
     "generatedAt": "2026-04-08T07:05:32.488636-07:00",
     "title": "Morning Brief \u2014 Wed Apr 08, 2026",
@@ -2381,112 +2436,6 @@
         "headline": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools",
         "summary": "Meta is introducing new anti-scam protections across its platforms, deploying systems and user-facing warnings to protect users against scammers. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-10",
-    "generatedAt": "2026-03-10T07:05:30.730951-07:00",
-    "title": "Morning Brief \u2014 Tue Mar 10, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$676.17",
-        "change": "\u25bc -0.31%",
-        "direction": "down"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$476.03",
-        "change": "\u25bc -0.39%",
-        "direction": "down"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$607.22",
-        "change": "\u25bc -0.09%",
-        "direction": "down"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "A Peek at Bumble's Future Earnings",
-        "source": "benzinga",
-        "symbols": [
-          "BMBL"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/03/51158559/a-peek-at-bumbles-future-earnings",
-        "created": "2026-03-10T14:03:03+00:00"
-      },
-      {
-        "headline": "Earnings Preview: North American",
-        "source": "benzinga",
-        "symbols": [
-          "NOA"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/03/51158546/earnings-preview-north-american",
-        "created": "2026-03-10T14:02:50+00:00"
-      },
-      {
-        "headline": "A Look Ahead: Sprinklr's Earnings Forecast",
-        "source": "benzinga",
-        "symbols": [
-          "CXM"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/03/51158541/a-look-ahead-sprinklrs-earnings-forecast",
-        "created": "2026-03-10T14:02:41+00:00"
-      },
-      {
-        "headline": "Examining the Future: Flotek Industries's Earnings Outlook",
-        "source": "benzinga",
-        "symbols": [
-          "FTK"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/03/51158528/examining-the-future-flotek-industriess-earnings-outlook",
-        "created": "2026-03-10T14:02:29+00:00"
-      },
-      {
-        "headline": "Earnings Preview For Velocity Financial",
-        "source": "benzinga",
-        "symbols": [
-          "VEL"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/insights/earnings/26/03/51158515/earnings-preview-for-velocity-financial",
-        "created": "2026-03-10T14:02:17+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "57\u00b0F",
-      "feelsLike": "58\u00b0F",
-      "high": "67\u00b0F",
-      "low": "54\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Mixed messages from Trump leave more questions than answers over war's end",
-        "summary": "The US president has tried to soothe nerves over oil and markets, but his comments still lack clarity, writes Anthony Zurcher.",
-        "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Women\u2019s football team to be welcomed home with open arms, Iran says",
-        "summary": "Iran's Foreign Ministry and general prosecutor say the team is invited to return home 'with peace and confidence'.",
-        "url": "https://www.aljazeera.com/sports/2026/3/10/womens-football-team-to-be-welcomed-home-with-open-arms-iran-says?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "CISA: Recently patched Ivanti EPM flaw now actively exploited",
-        "summary": "CISA flagged a high-severity Ivanti Endpoint Manager (EPM) vulnerability as actively exploited in attacks and ordered U.S. federal agencies to patch systems within three weeks.",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/"
       }
     ]
   }
