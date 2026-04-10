@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-10",
+    "generatedAt": "2026-04-10T07:05:34.815691-07:00",
+    "title": "Morning Brief \u2014 Fri Apr 10, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "62\u00b0F",
+      "feelsLike": "64\u00b0F",
+      "high": "72\u00b0F",
+      "low": "60\u00b0F",
+      "precipChance": "9%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
+        "summary": "The US president accused Iran of \"doing a very poor job\" with the waterway as Israel and Lebanon to begin peace talks.",
+        "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Israel threatens healthcare as it continues to attack Lebanon",
+        "summary": "Israel threatens healthcare as it continues to attack Lebanon",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israel-threatens-healthcare-as-it-continues-to-attack-lebanon?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
+        "summary": "Analysis of 1 billion CISA KEV remediation records reveal a breaking point for human-scale security. Qualys shows most critical flaws are exploited before defenders can patch them.",
+        "url": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-09",
     "generatedAt": "2026-04-09T07:05:32.740445-07:00",
     "title": "Morning Brief \u2014 Thu Apr 09, 2026",
@@ -2325,117 +2380,6 @@
         "headline": "Apple patches older iPhones and iPads against Coruna exploits",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-11",
-    "generatedAt": "2026-03-11T07:05:26.925418-07:00",
-    "title": "Morning Brief \u2014 Wed Mar 11, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$678.35",
-        "change": "\u25b2 +0.17%",
-        "direction": "up"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$475.79",
-        "change": "\u25bc -0.40%",
-        "direction": "down"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$611.03",
-        "change": "\u25b2 +0.54%",
-        "direction": "up"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Super Micro Computer Is Rising Wednesday: What's Driving The Action?",
-        "source": "benzinga",
-        "symbols": [
-          "ORCL",
-          "SGN",
-          "SMCI"
-        ],
-        "summary": "Super Micro Computer Inc shares are trading higher Wednesday on AI infrastructure updates and broad optimism from Oracle&#39;s upbeat earnings.",
-        "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51187243/super-micro-computer-is-rising-wednesday-whats-driving-the-action",
-        "created": "2026-03-11T14:02:11+00:00"
-      },
-      {
-        "headline": "If You Invested $1000 In Seagate Technology Hldgs Stock 20 Years Ago, You Would Have This Much Today",
-        "source": "benzinga",
-        "symbols": [
-          "STX"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/insights/news/26/03/51187133/if-you-invested-1000-in-seagate-technology-hldgs-stock-20-years-ago-you-would-have-this-much-today",
-        "created": "2026-03-11T14:00:29+00:00"
-      },
-      {
-        "headline": "US Stocks Mixed; Dow Falls 300 Points",
-        "source": "benzinga",
-        "symbols": [
-          "ASNS",
-          "CPB",
-          "CVGI",
-          "ELPW"
-        ],
-        "summary": "US stocks traded mixed, with Dow down 0.63% while NASDAQ and S&amp;P 500 rose. Energy shares rose by 0.8% while materials stocks dipped by 1.4%. Campbell&#39;s reported worse-than-...",
-        "url": "https://www.benzinga.com/markets/market-summary/26/03/51187072/us-stocks-mixed-dow-falls-300-points",
-        "created": "2026-03-11T13:59:54+00:00"
-      },
-      {
-        "headline": "What's Going On With Nio Stock Wednesday?",
-        "source": "benzinga",
-        "symbols": [
-          "NIO"
-        ],
-        "summary": "NIO shares rise after Q4 revenue jumps 75.9% YoY to $4.95B. See why the EV maker beat analyst estimates and what&#39;s next for the stock.",
-        "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51186976/whats-going-on-with-nio-stock-wednesday-5",
-        "created": "2026-03-11T13:57:49+00:00"
-      },
-      {
-        "headline": "Citigroup Upgrades Intuitive Surgical to Buy, Maintains Price Target to $590",
-        "source": "benzinga",
-        "symbols": [
-          "ISRG"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/03/51187019/citigroup-upgrades-intuitive-surgical-to-buy-maintains-price-target-to-590",
-        "created": "2026-03-11T13:58:37+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "51\u00b0F",
-      "feelsLike": "48\u00b0F",
-      "high": "79\u00b0F",
-      "low": "51\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Record release of emergency oil reserves planned as prices surge",
-        "summary": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
-        "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "\u2018Nothing changes\u2019: Four decades in power, Congo\u2019s Nguesso seeks a new term",
-        "summary": "Is Brazzaville's stability a result of gradual democratic consolidation or carefully organised political continuity?",
-        "url": "https://www.aljazeera.com/features/2026/3/11/nothing-changes-four-decades-in-power-congos-nguesso-seeks-a-new-term?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools",
-        "summary": "Meta is introducing new anti-scam protections across its platforms, deploying systems and user-facing warnings to protect users against scammers. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/"
       }
     ]
   }
