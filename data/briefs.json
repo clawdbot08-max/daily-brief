@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-12",
+    "generatedAt": "2026-04-12T07:05:32.623801-07:00",
+    "title": "Morning Brief \u2014 Sun Apr 12, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "61\u00b0F",
+      "feelsLike": "57\u00b0F",
+      "high": "63\u00b0F",
+      "low": "52\u00b0F",
+      "precipChance": "46%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "After Iran talks falter, the big question is 'what happens next?'",
+        "summary": "Twenty-one hours was not enough to end 47 years of hostility between Iran and the US, writes the BBC's Lyse Doucet.",
+        "url": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Palestinians condemn storming of Al-Aqsa Mosque by Israel\u2019s Ben-Gvir",
+        "summary": "Israel\u2019s far-right security minister storms mosque compound with protection, drawing condemnation from Palestinians.",
+        "url": "https://www.aljazeera.com/news/2026/4/12/palestinians-condemn-storming-of-al-aqsa-mosque-by-israels-ben-gvir?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Over 20,000 crypto fraud victims identified in international crackdown",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-11",
     "generatedAt": "2026-04-11T07:06:59.223377-07:00",
     "title": "Morning Brief \u2014 Sat Apr 11, 2026",
@@ -2217,115 +2272,6 @@
         "headline": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-13",
-    "generatedAt": "2026-03-13T07:05:34.876779-07:00",
-    "title": "Morning Brief \u2014 Fri Mar 13, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$670.08",
-        "change": "\u25b2 +0.60%",
-        "direction": "up"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$470.17",
-        "change": "\u25b2 +0.58%",
-        "direction": "up"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$601.33",
-        "change": "\u25b2 +0.68%",
-        "direction": "up"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Michigan Consumer Expectations  For March 54.1 Vs 56.6 Prior",
-        "source": "benzinga",
-        "symbols": [
-          "SPY"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/economics/macro-economic-events/26/03/51241034/michigan-consumer-expectations-for-march-54-1-vs-56-6-prior",
-        "created": "2026-03-13T14:01:02+00:00"
-      },
-      {
-        "headline": "$100 Invested In Petrobras Brasileiro 5 Years Ago Would Be Worth This Much Today",
-        "source": "benzinga",
-        "symbols": [
-          "PBR"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/insights/news/26/03/51241021/100-invested-in-petrobras-brasileiro-5-years-ago-would-be-worth-this-much-today",
-        "created": "2026-03-13T14:00:46+00:00"
-      },
-      {
-        "headline": "Michigan Consumer Sentiment For March 55.0 Vs 55.0 Est",
-        "source": "benzinga",
-        "symbols": [
-          "SPY"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/economics/macro-economic-events/26/03/51241005/michigan-consumer-sentiment-for-march-55-0-vs-55-0-est",
-        "created": "2026-03-13T14:00:34+00:00"
-      },
-      {
-        "headline": "USA JOLTS Job Openings For January 6.946M Vs 6.760M Est",
-        "source": "benzinga",
-        "symbols": [
-          "SPY"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/economics/macro-economic-events/26/03/51240973/usa-jolts-job-openings-for-january-6-946m-vs-6-760m-est",
-        "created": "2026-03-13T14:00:13+00:00"
-      },
-      {
-        "headline": "El Pollo Loco Posts Upbeat Q4 Results, Joins Kyivstar Group, American Public Education And Other Big Stocks Moving Higher On Friday",
-        "source": "benzinga",
-        "symbols": [
-          "ALLO",
-          "APEI",
-          "AXTI",
-          "BBBY"
-        ],
-        "summary": "U.S. stocks higher as Dow Jones gains 300 points; El Pollo LoCo Holdings jumps 17.6% on better-than-expected Q4 results and Benchmark upgrade.",
-        "url": "https://www.benzinga.com/news/26/03/51240941/el-pollo-loco-posts-upbeat-q4-results-joins-kyivstar-group-american-public-education-and-other-big-stocks-moving-higher-on-friday",
-        "created": "2026-03-13T13:59:40+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "62\u00b0F",
-      "feelsLike": "55\u00b0F",
-      "high": "94\u00b0F",
-      "low": "62\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Four crew members killed after US refuelling plane crashes in Iraq",
-        "summary": "The US Central Command says rescue efforts continue after a refuelling aircraft went down over western Iraq.",
-        "url": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Cuban President Diaz-Canel says talks held with US amid Trump threats",
-        "summary": "Miguel Diaz-Canel says discussions held to find solutions 'through dialogue' as Washington tightens oil blockade.",
-        "url": "https://www.aljazeera.com/news/2026/3/13/cuban-president-diaz-canel-says-talks-held-with-us-amid-trump-threats?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Police sinkholes 45,000 IP addresses in cybercrime crackdown",
-        "summary": "",
-        "url": "https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/"
       }
     ]
   }
