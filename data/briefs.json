@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-13",
+    "generatedAt": "2026-04-13T07:05:37.752673-07:00",
+    "title": "Morning Brief \u2014 Mon Apr 13, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Partly cloudy",
+      "temp": "55\u00b0F",
+      "feelsLike": "53\u00b0F",
+      "high": "65\u00b0F",
+      "low": "54\u00b0F",
+      "precipChance": "12%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Orb\u00e1n era swept away by P\u00e9ter Magyar's Hungary election landslide",
+        "summary": "Viktor Orb\u00e1n's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
+        "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Israeli forces kill three Palestinians in Gaza, arrest dozens in West Bank",
+        "summary": "Attacks come as Palestinian groups meet mediators from Egypt, Turkiye and Qatar in Cairo to discuss fragile 'ceasefire'.",
+        "url": "https://www.aljazeera.com/news/2026/4/13/israeli-forces-kill-three-palestinians-in-gaza-arrest-dozens-in-west-bank?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Critical Marimo pre-auth RCE flaw now under active exploitation",
+        "summary": "A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-12",
     "generatedAt": "2026-04-12T07:05:32.623801-07:00",
     "title": "Morning Brief \u2014 Sun Apr 12, 2026",
@@ -2157,121 +2212,6 @@
         "headline": "Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-14",
-    "generatedAt": "2026-03-14T07:05:15.157069-07:00",
-    "title": "Morning Brief \u2014 Sat Mar 14, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$662.29",
-        "change": "\u25bc -0.57%",
-        "direction": "down"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$466.41",
-        "change": "\u25bc -0.23%",
-        "direction": "down"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$593.72",
-        "change": "\u25bc -0.59%",
-        "direction": "down"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Palantir Shows AI Is The New Battlefield, Puts Defense Tech ETFs In The Spotlight",
-        "source": "benzinga",
-        "symbols": [
-          "AIQ",
-          "AMZN",
-          "ARKQ",
-          "GOOGL"
-        ],
-        "summary": "Defense technology ETFs including ITA, XAR and SHLD are in focus as AI platforms increasingly power modern military operations and intelligence.",
-        "url": "https://www.benzinga.com/etfs/sector-etfs/26/03/51257412/palantir-shows-ai-is-the-new-battlefield-puts-defense-tech-etfs-in-the-spotlight",
-        "created": "2026-03-14T13:31:09+00:00"
-      },
-      {
-        "headline": "Benzinga Bulls And Bears: Kodak, Tesla, Adobe \u2014 And Iran War Keeps Markets Volatile",
-        "source": "benzinga",
-        "symbols": [
-          "ACHR",
-          "ADBE",
-          "AVAV",
-          "BETA"
-        ],
-        "summary": "Benzinga examined the prospects for many investors&#39; favorite stocks over the last week \u2014 here&#39;s a look at some of our top stories.",
-        "url": "https://www.benzinga.com/markets/market-summary/26/03/51257352/benzinga-bulls-and-bears-kodak-tesla-adobe-and-iran-war-keeps-markets-volatile",
-        "created": "2026-03-14T12:31:09+00:00"
-      },
-      {
-        "headline": "OWL, HIMS, TSLA And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
-        "source": "benzinga",
-        "symbols": [
-          "BTCUSD",
-          "HIMS",
-          "MSTR",
-          "NVO"
-        ],
-        "summary": "Retail investors talked up five hot stocks this week (March 9 to March 13) on X and Reddit&#39;s r/WallStreetBets, driven by retail hype, earnings, AI buzz, and corporate news flow...",
-        "url": "https://www.benzinga.com/markets/equities/26/03/51257282/owl-hims-tsla-and-more-5-stocks-investors-couldnt-stop-buzzing-about-this-week",
-        "created": "2026-03-14T12:00:48+00:00"
-      },
-      {
-        "headline": "These Analysts Slash Their Forecasts On Sleep Number Following Q4 Earnings",
-        "source": "benzinga",
-        "symbols": [
-          "SNBR"
-        ],
-        "summary": "Sleep Number (NASDAQ: SNBR) reported better-than-expected Q4 earnings. CEO stated they exceeded 2025 guidance and anticipate growth in 2026. Stock fell 6%.",
-        "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/03/51257096/these-analysts-slash-their-forecasts-on-sleep-number-following-q4-earnings",
-        "created": "2026-03-14T09:23:52+00:00"
-      },
-      {
-        "headline": "Vivid Seats Analysts Cut Their Forecasts After Q4 Loss",
-        "source": "benzinga",
-        "symbols": [
-          "SEAT"
-        ],
-        "summary": "Vivid Seats (NASDAQ:SEAT) reports Q4 loss of $428.7M, revenue down 37% to $126.8M. Shares up 4.4% to $5.90. Analysts adjust price targets.",
-        "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/03/51257083/vivid-seats-analysts-cut-their-forecasts-after-q4-loss",
-        "created": "2026-03-14T09:18:10+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "58\u00b0F",
-      "feelsLike": "56\u00b0F",
-      "high": "84\u00b0F",
-      "low": "58\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Why has the US targeted Iran's Kharg Island?",
-        "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
-        "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Smoke rises from Fujairah oil facility in UAE",
-        "summary": "Smoke rises from Fujairah oil facility in UAE",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/smoke-rises-from-fujairah-oil-facility-in-uae?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
-        "summary": "",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/"
       }
     ]
   }
