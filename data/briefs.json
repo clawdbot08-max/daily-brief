@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-14",
+    "generatedAt": "2026-04-14T07:05:19.952252-07:00",
+    "title": "Morning Brief \u2014 Tue Apr 14, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "51\u00b0F",
+      "feelsLike": "48\u00b0F",
+      "high": "73\u00b0F",
+      "low": "51\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
+        "summary": "The Lebanese government go into peace talks with limited influence over the group.",
+        "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Spain\u2019s Guardemo still critical in ICU 2 weeks after cycling crash with car",
+        "summary": "Jaume Guardeno sustained serious injuries after collision with a car at the end of a Volta a Catalunya cycling race.",
+        "url": "https://www.aljazeera.com/sports/2026/4/14/spains-guardemo-still-critical-in-icu-2-weeks-after-cycling-crash-with-car?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "European Gym giant Basic-Fit data breach affects 1 million members",
+        "summary": "Dutch fitness giant Basic-Fit announced that hackers breached its systems and gained access to information belonging to a million of its customers. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-13",
     "generatedAt": "2026-04-13T07:05:37.752673-07:00",
     "title": "Morning Brief \u2014 Mon Apr 13, 2026",
@@ -2106,112 +2161,6 @@
         "headline": "Microsoft pulls Samsung app blocking Windows C: drive from Store",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-15",
-    "generatedAt": "2026-03-15T07:05:15.720917-07:00",
-    "title": "Morning Brief \u2014 Sun Mar 15, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$662.29",
-        "change": "\u25bc -0.57%",
-        "direction": "down"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$466.41",
-        "change": "\u25bc -0.23%",
-        "direction": "down"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$593.72",
-        "change": "\u25bc -0.59%",
-        "direction": "down"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Bitcoin Bets, Corporate Sales And Crypto's Next Phase: Crypto Weekend Recap",
-        "source": "benzinga",
-        "symbols": [],
-        "summary": "The week in crypto saw AI-driven Bitcoin trading experiments, record corporate Bitcoin sell-offs, growing focus on payments utility from Circle Internet Group, new privacy initiati...",
-        "url": "https://www.benzinga.com/crypto/26/03/51259526/bitcoin-bets-corporate-sales-and-cryptos-next-phase-crypto-weekend-recap",
-        "created": "2026-03-15T14:01:22+00:00"
-      },
-      {
-        "headline": "Consumer Tech News (Mar 9-13): Trump Administration Sues California Over Emissions Targets, Nvidia Announces $26B AI Investment & More",
-        "source": "benzinga",
-        "symbols": [
-          "AAPL",
-          "ACHR",
-          "AMAT",
-          "AMD"
-        ],
-        "summary": "Broadcom, AMD, and Applied Materials expand AI semiconductor capabilities, developing next-gen memory and high-speed networking solutions.",
-        "url": "https://www.benzinga.com/markets/tech/26/03/51259469/consumer-tech-news-mar-9-13-trump-administration-sues-california-over-emissions-targets-nvidia-announces-26b-ai-investment-more",
-        "created": "2026-03-15T13:20:41+00:00"
-      },
-      {
-        "headline": "Nebius, Micron, And NIO Are Among the Top 10 Large-Cap Gainers Last Week (March 9-March 13): Are the Others in Your Portfolio?",
-        "source": "benzinga",
-        "symbols": [
-          "AMAT",
-          "BE",
-          "CIEN",
-          "CRCL"
-        ],
-        "summary": "AI infrastructure plays, EV names and power-demand beneficiaries led last week&#39;s large-cap winners list, with Nebius, Micron and NIO posting standout gains.",
-        "url": "https://www.benzinga.com/markets/equities/26/03/51259468/nebius-micron-and-nio-are-among-the-top-10-large-cap-gainers-last-week-march-9-march-13-are-the-others-in-your-portfolio",
-        "created": "2026-03-15T13:20:40+00:00"
-      },
-      {
-        "headline": "Weekend Round-Up: Nio's Big Bet, WeRide's Strategic Partnership, Tesla's Legal Woes, Uber's Robotaxis And More",
-        "source": "benzinga",
-        "symbols": [],
-        "summary": "The week in mobility and tech saw Nio Inc. double down on in-house chips and battery swaps, WeRide Inc. expand its partnership with Tencent Cloud, Tesla, Inc. face a $1 million law...",
-        "url": "https://www.benzinga.com/markets/tech/26/03/51259440/weekend-round-up-nios-big-bet-werides-strategic-partnership-teslas-legal-woes-ubers-robotaxis-and-more",
-        "created": "2026-03-15T13:00:31+00:00"
-      },
-      {
-        "headline": "Weekend Round-Up: Oracle's Q3 Earnings, Adobe's CEO Transition, Meta's Potential Job Cuts And More",
-        "source": "benzinga",
-        "symbols": [],
-        "summary": "The week in tech saw Amazon raise prices for its ad-free Prime Video plan, Meta Platforms reportedly consider major layoffs, Apple cut App Store fees in China, while Oracle Corpora...",
-        "url": "https://www.benzinga.com/markets/tech/26/03/51259376/weekend-round-up-oracles-q3-earnings-adobes-ceo-transition-metas-potential-job-cuts-and-more",
-        "created": "2026-03-15T12:01:22+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "58\u00b0F",
-      "feelsLike": "60\u00b0F",
-      "high": "81\u00b0F",
-      "low": "56\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
-        "summary": "A relative tells BBC those killed were civilians and not Hezbollah operatives, but the Israel Defense Forces says it was targeting \"terrorist infrastructure\".",
-        "url": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "What do the first two weeks of the war on Iran portend for the future?",
-        "summary": "New, critical dynamics are emerging in the region that could reshape it in dramatic ways.",
-        "url": "https://www.aljazeera.com/opinions/2026/3/15/what-do-the-first-two-weeks-of-the-war-on-iran-portend-for-the-future?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw",
-        "summary": "",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/"
       }
     ]
   }
