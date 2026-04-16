@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-16",
+    "generatedAt": "2026-04-16T07:05:21.682840-07:00",
+    "title": "Morning Brief \u2014 Thu Apr 16, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Mainly clear",
+      "temp": "55\u00b0F",
+      "feelsLike": "53\u00b0F",
+      "high": "75\u00b0F",
+      "low": "55\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
+        "summary": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
+        "url": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Legal migrants remain vulnerable to trafficking",
+        "summary": "Debt, employer control and temporary visa rules can leave migrant workers trapped.",
+        "url": "https://www.aljazeera.com/opinions/2026/4/16/legal-migrants-remain-vulnerable-to-trafficking?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Cisco says critical Webex Services flaw requires customer action",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-15",
     "generatedAt": "2026-04-15T07:05:21.779040-07:00",
     "title": "Morning Brief \u2014 Wed Apr 15, 2026",
@@ -1999,113 +2054,6 @@
         "headline": "New \u201cDarksword\u201d iOS exploit used in infostealer attack on iPhones",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-17",
-    "generatedAt": "2026-03-17T07:05:16.563672-07:00",
-    "title": "Morning Brief \u2014 Tue Mar 17, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$673.20",
-        "change": "\u25b2 +0.62%",
-        "direction": "up"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$473.53",
-        "change": "\u25b2 +0.69%",
-        "direction": "up"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$604.72",
-        "change": "\u25b2 +0.72%",
-        "direction": "up"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Jet AI Fires Up $5M Buyback in Data Center Push \u2014 Stock Soars",
-        "source": "benzinga",
-        "symbols": [
-          "JTAI"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51297592/jet-ai-fires-up-5m-buyback-in-data-center-push-stock-soars",
-        "created": "2026-03-17T14:03:51+00:00"
-      },
-      {
-        "headline": "RBC Capital Maintains Outperform on Perspective Therapeutics, Lowers Price Target to $14",
-        "source": "benzinga",
-        "symbols": [
-          "CATX"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/03/51297559/rbc-capital-maintains-outperform-on-perspective-therapeutics-lowers-price-target-to-14",
-        "created": "2026-03-17T14:03:15+00:00"
-      },
-      {
-        "headline": "Truist Securities Maintains Hold on Cousins Props, Lowers Price Target to $24",
-        "source": "benzinga",
-        "symbols": [
-          "CUZ"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/03/51297553/truist-securities-maintains-hold-on-cousins-props-lowers-price-target-to-24",
-        "created": "2026-03-17T14:03:09+00:00"
-      },
-      {
-        "headline": "What NVDA Investors Need To Know About Nvidia's Biggest Challenge Yet",
-        "source": "benzinga",
-        "symbols": [
-          "META",
-          "NVDA"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/03/51297544/what-nvda-investors-need-to-know-about-nvidias-biggest-challenge-yet",
-        "created": "2026-03-17T14:02:56+00:00"
-      },
-      {
-        "headline": "USA Pending Home Sales (MoM) For February 1.8% Vs -0.6% Est.",
-        "source": "benzinga",
-        "symbols": [
-          "SPY"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/economics/macro-economic-events/26/03/51297495/usa-pending-home-sales-mom-for-february-1-8-vs-0-6-est",
-        "created": "2026-03-17T14:01:27+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "66\u00b0F",
-      "feelsLike": "60\u00b0F",
-      "high": "99\u00b0F",
-      "low": "63\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Trump seeks to delay meeting with Xi in China",
-        "summary": "The escalating war in Iran has overshadowed many of the US' foreign policy objectives",
-        "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Gavaskar links Sunrisers signing of Pakistan\u2019s Abrar to Indian deaths",
-        "summary": "The signing of Pakistan bowler Abrar Ahmed by Hundred franchise Sunrisers bucked trend by Indian-owned teams.",
-        "url": "https://www.aljazeera.com/sports/2026/3/17/gavaskar-links-sunrisers-signing-of-pakistan-abrar-to-indian-deaths?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
-        "summary": "AI agents are autonomous actors with real access to data and systems, not just copilots.",
-        "url": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/"
       }
     ]
   }
