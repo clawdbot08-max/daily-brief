@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-17",
+    "generatedAt": "2026-04-17T07:05:19.692211-07:00",
+    "title": "Morning Brief \u2014 Fri Apr 17, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "56\u00b0F",
+      "feelsLike": "56\u00b0F",
+      "high": "77\u00b0F",
+      "low": "54\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "What we know about the Israel-Lebanon ceasefire",
+        "summary": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.",
+        "url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "\u2018Waiting without answers\u2019: Gaza mother\u2019s fear for her three imprisoned sons",
+        "summary": "As Palestinians mark Prisoners' Day, Inaam al-Dahdouh waits for news of her three sons, taken by Israel two years ago.",
+        "url": "https://www.aljazeera.com/features/2026/4/17/waiting-without-answers-gaza-mothers-fear-for-her-three-imprisoned-sons?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Webinar: From phishing to fallout \u2014 Why MSPs must rethink both security and recovery",
+        "summary": "Cyberattacks are evolving faster than many MSP and corporate defenses can keep up, with phishing driving much of today's cybercrime.",
+        "url": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-16",
     "generatedAt": "2026-04-16T07:05:21.682840-07:00",
     "title": "Morning Brief \u2014 Thu Apr 16, 2026",
@@ -1950,110 +2005,6 @@
         "headline": "7 Ways to Prevent Privilege Escalation via Password Resets",
         "summary": "Password resets are often weaker than login security, making them a prime target for privilege escalation.",
         "url": "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-18",
-    "generatedAt": "2026-03-18T07:05:18.172248-07:00",
-    "title": "Morning Brief \u2014 Wed Mar 18, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$668.46",
-        "change": "\u25bc -0.35%",
-        "direction": "down"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$468.23",
-        "change": "\u25bc -0.57%",
-        "direction": "down"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$601.74",
-        "change": "\u25bc -0.26%",
-        "direction": "down"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Ovid Therapeutics' New Epilepsy Trial Data Ignites Rally",
-        "source": "benzinga",
-        "symbols": [
-          "OVID"
-        ],
-        "summary": "Ovid Therapeutics shares climb after positive epilepsy data, new trial launch, and $60 million funding boost extending runway into 2028.",
-        "url": "https://www.benzinga.com/news/health-care/26/03/51325324/ovid-therapeutics-new-epilepsy-trial-data-ignites-rally",
-        "created": "2026-03-18T14:01:57+00:00"
-      },
-      {
-        "headline": "One Stop Systems Climbs After Q4 EPS Beat",
-        "source": "benzinga",
-        "symbols": [
-          "OSS"
-        ],
-        "summary": "One Stop Systems, Inc. (NASDAQ:OSS) shares are trading lower Wednesday after the company reported fourth-quarter financial results.",
-        "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51325322/one-stop-systems-climbs-after-q4-eps-beat",
-        "created": "2026-03-18T14:01:54+00:00"
-      },
-      {
-        "headline": "RBC Capital Maintains Sector Perform on FactSet Research Systems, Lowers Price Target to $243",
-        "source": "benzinga",
-        "symbols": [
-          "FDS"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/03/51325200/rbc-capital-maintains-sector-perform-on-factset-research-systems-lowers-price-target-to-243",
-        "created": "2026-03-18T14:00:18+00:00"
-      },
-      {
-        "headline": "US Economic Dominance Faces Pressure As National Debt Surpasses $39T",
-        "source": "benzinga",
-        "symbols": [],
-        "summary": " ",
-        "url": "https://www.benzinga.com/Opinion/26/03/51325128/us-economic-dominance-faces-pressure-as-national-debt-surpasses-39-trillion",
-        "created": "2026-03-18T13:59:27+00:00"
-      },
-      {
-        "headline": "Neonode Q4 EPS $(0.15) Misses $(0.09) Estimate, Sales $520.000K Miss $677.000K Estimate",
-        "source": "benzinga",
-        "symbols": [
-          "NEON"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/earnings/26/03/51325075/neonode-q4-eps-0-15-misses-0-09-estimate-sales-520-000k-miss-677-000k-estimate",
-        "created": "2026-03-18T13:57:55+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "65\u00b0F",
-      "feelsLike": "62\u00b0F",
-      "high": "94\u00b0F",
-      "low": "64\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Total repression and air strikes bring unrelenting dread for Iranians",
-        "summary": "Tehran residents tell the BBC they're caught between US-Israeli bombing and an Iranian regime trying to reassert its power.",
-        "url": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Senegal govt alleges corruption in decision to hand AFCON title to Morocco",
-        "summary": "Senegal were stripped of the AFCON title after an appeals board review by CAF into a mid-final protest by its players.",
-        "url": "https://www.aljazeera.com/sports/2026/3/18/senegal-govt-alleges-corruption-in-decision-to-hand-afcon-title-to-morocco?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "New \u201cDarksword\u201d iOS exploit used in infostealer attack on iPhones",
-        "summary": "",
-        "url": "https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/"
       }
     ]
   }
