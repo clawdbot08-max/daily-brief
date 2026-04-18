@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-18",
+    "generatedAt": "2026-04-18T07:05:16.564636-07:00",
+    "title": "Morning Brief \u2014 Sat Apr 18, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "56\u00b0F",
+      "feelsLike": "52\u00b0F",
+      "high": "84\u00b0F",
+      "low": "55\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Madonna joins Sabrina Carpenter to surprise Coachella",
+        "summary": "The Queen of Pop makes a guest appearance during the Espresso singer's headline set.",
+        "url": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Trump claims on Iranian concessions trigger questions, rejections in Tehran",
+        "summary": "The political drama culminates with the IRGC announcing that the Strait of Hormuz is once again restricted.",
+        "url": "https://www.aljazeera.com/news/2026/4/18/trump-claims-on-iranian-concessions-trigger-questions-rejections-in-tehran?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support",
+        "summary": "NAKIVO Inc. announced the general availability of NAKIVO Backup & Replication v11.2, focused on fast, reliable, and proactive data protection. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-17",
     "generatedAt": "2026-04-17T07:05:19.692211-07:00",
     "title": "Morning Brief \u2014 Fri Apr 17, 2026",
@@ -1899,112 +1954,6 @@
         "headline": "Musician admits to $10M streaming royalty fraud using AI bots",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-19",
-    "generatedAt": "2026-03-19T07:05:21.063417-07:00",
-    "title": "Morning Brief \u2014 Thu Mar 19, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$658.33",
-        "change": "\u25bc -0.47%",
-        "direction": "down"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$460.81",
-        "change": "\u25bc -0.47%",
-        "direction": "down"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$591.06",
-        "change": "\u25bc -0.65%",
-        "direction": "down"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "US Leading Index (MoM) For January -0.1% Vs -0.1% Est.",
-        "source": "benzinga",
-        "symbols": [
-          "SPY"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/economics/macro-economic-events/26/03/51355232/us-leading-index-mom-for-january-0-1-vs-0-1-est",
-        "created": "2026-03-19T14:01:08+00:00"
-      },
-      {
-        "headline": "USA Wholesale Inventories (MoM) For January -0.5% Vs 0.2% Est.",
-        "source": "benzinga",
-        "symbols": [
-          "SPY"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/economics/macro-economic-events/26/03/51355214/usa-wholesale-inventories-mom-for-january-0-5-vs-0-2-est",
-        "created": "2026-03-19T14:01:05+00:00"
-      },
-      {
-        "headline": "USA New Home Sales (MoM) For January -17.6% VS -6.8% Prior (Revised From -1.7%)",
-        "source": "benzinga",
-        "symbols": [
-          "SPY"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/economics/macro-economic-events/26/03/51355186/usa-new-home-sales-mom-for-january-17-6-vs-6-8-prior-revised-from-1-7",
-        "created": "2026-03-19T14:00:54+00:00"
-      },
-      {
-        "headline": "USA New Home Sales For January 587K Vs 722K Est.",
-        "source": "benzinga",
-        "symbols": [
-          "SPY"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/economics/macro-economic-events/26/03/51355108/usa-new-home-sales-for-january-587k-vs-722k-est",
-        "created": "2026-03-19T14:00:15+00:00"
-      },
-      {
-        "headline": "Wells Fargo Maintains Equal-Weight on Brixmor Property Group, Raises Price Target to $32",
-        "source": "benzinga",
-        "symbols": [
-          "BRX"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/03/51355045/wells-fargo-maintains-equal-weight-on-brixmor-property-group-raises-price-target-to-32",
-        "created": "2026-03-19T13:59:59+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "62\u00b0F",
-      "feelsLike": "62\u00b0F",
-      "high": "94\u00b0F",
-      "low": "62\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "How Europe sleepwalked into yet another energy crisis",
-        "summary": "It is not the first time that there has been deep energy-linked frustration in the heart of Europe.",
-        "url": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Child among survivors pulled from rubble of US-Israeli attack in Iran",
-        "summary": "Video from Iran\u2019s Red Crescent showed a child among survivors pulled from the wreckage of a US-Israeli air attack.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/child-among-survivors-pulled-from-rubble-of-us-israeli-attack-in-iran?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "7 Ways to Prevent Privilege Escalation via Password Resets",
-        "summary": "Password resets are often weaker than login security, making them a prime target for privilege escalation.",
-        "url": "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/"
       }
     ]
   }
