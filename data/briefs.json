@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-20",
+    "generatedAt": "2026-04-20T07:05:23.838617-07:00",
+    "title": "Morning Brief \u2014 Mon Apr 20, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "56\u00b0F",
+      "feelsLike": "56\u00b0F",
+      "high": "73\u00b0F",
+      "low": "53\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
+        "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week,",
+        "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Powerful states are trying to sabotage decarbonisation of shipping",
+        "summary": "Pacific Island states cannot and will not allow key climate shipping agreement to be watered down.",
+        "url": "https://www.aljazeera.com/opinions/2026/4/20/powerful-states-are-trying-to-sabotage-decarbonisation-of-shipping?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "British Scattered Spider hacker pleads guilty to crypto theft charges",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-19",
     "generatedAt": "2026-04-19T07:05:17.513035-07:00",
     "title": "Morning Brief \u2014 Sun Apr 19, 2026",
@@ -1791,115 +1846,6 @@
         "headline": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-21",
-    "generatedAt": "2026-03-21T07:05:15.595043-07:00",
-    "title": "Morning Brief \u2014 Sat Mar 21, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$648.57",
-        "change": "\u25bc -1.70%",
-        "direction": "down"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$455.89",
-        "change": "\u25bc -1.12%",
-        "direction": "down"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$582.06",
-        "change": "\u25bc -1.85%",
-        "direction": "down"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Benzinga Bulls And Bears: FedEx, Micron, SoFi \u2014 And Markets Volatile As Iran War Continues",
-        "source": "benzinga",
-        "symbols": [
-          "FDX",
-          "FIVE",
-          "LULU",
-          "MU"
-        ],
-        "summary": "Benzinga examined the prospects for many investors&#39; favorite stocks over the last week \u2014 here&#39;s a look at some of our top stories.",
-        "url": "https://www.benzinga.com/markets/market-summary/26/03/51395460/benzinga-bulls-and-bears-fedex-micron-sofi-and-markets-volatile-as-iran-war-continues",
-        "created": "2026-03-21T12:18:45+00:00"
-      },
-      {
-        "headline": "EXCLUSIVE: 'Intermediate US Treasury Duration Attractive': BondBloxx Honcho Explains Why Investors Are Moving Into 2-Year Treasuries",
-        "source": "benzinga",
-        "symbols": [
-          "SHY",
-          "XTWO"
-        ],
-        "summary": "Senator John Boozman&#39;s XTWO ETF purchase highlights a shift to 2-year duration as investors seek yield amid unclear Fed policy outlook, says BondBloxx.",
-        "url": "https://www.benzinga.com/etfs/specialty-etfs/26/03/51395445/exclusive-intermediate-us-treasury-duration-attractive-bondbloxx-honcho-explains-why-investors-are-moving-into-2-year-treasuries",
-        "created": "2026-03-21T12:14:40+00:00"
-      },
-      {
-        "headline": "Scale AI Launches 'Voice Showdown' To Rival OpenAI, xAI, Anthropic In Voice AI Models",
-        "source": "benzinga",
-        "symbols": [],
-        "summary": "Scale AI has released Voice Showdown, a platform for evaluating voice AI models, as it seeks to compete with its rivals .",
-        "url": "https://www.benzinga.com/markets/private-markets/26/03/51395435/scale-ai-launches-voice-showdown-to-rival-openai-xai-anthropic-in-voice-ai-models",
-        "created": "2026-03-21T12:11:42+00:00"
-      },
-      {
-        "headline": "Super Micro Computer, Micron Technology And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
-        "source": "benzinga",
-        "symbols": [
-          "CF",
-          "MOS",
-          "MU",
-          "NVDA"
-        ],
-        "summary": "Retail investors talked up five hot stocks this week (March 9 to March 13) on X and Reddit&#39;s r/WallStreetBets: SMCI, MU, ULTA, CF, NVDA.",
-        "url": "https://www.benzinga.com/markets/equities/26/03/51395413/super-micro-computer-micron-technology-and-more-5-stocks-investors-couldnt-stop-buzzing-about-this-week",
-        "created": "2026-03-21T12:02:03+00:00"
-      },
-      {
-        "headline": "UN Chief Backs Gaza Reconstruction Plan Linked To Trump But Rejects Broader Agenda\u2014 'Cooperating Actively'",
-        "source": "benzinga",
-        "symbols": [],
-        "summary": "UN chief Antonio Guterres backed Trump&#39;s Gaza reconstruction efforts but rejected his broader agenda, urging UN-led solutions for the Strait of Hormuz amid rising Iran tensions...",
-        "url": "https://www.benzinga.com/news/politics/26/03/51394462/un-chief-backs-gaza-reconstruction-plan-linked-to-trump-but-rejects-broader-agenda-cooperating-actively",
-        "created": "2026-03-21T08:14:46+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "58\u00b0F",
-      "feelsLike": "58\u00b0F",
-      "high": "86\u00b0F",
-      "low": "58\u00b0F",
-      "precipChance": "1%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
-        "summary": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
-        "url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Japan beat Australia to lift Women\u2019s Asian Cup title",
-        "summary": "Japan edges tournament hosts Australia 1-0 in \u2060the Women's \u2060Asian Cup final to claim third title in four editions.",
-        "url": "https://www.aljazeera.com/sports/2026/3/21/japan-beat-australia-to-lift-womens-asian-cup-title?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "FBI links Signal phishing attacks to Russian intelligence services",
-        "summary": "",
-        "url": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/"
       }
     ]
   }
