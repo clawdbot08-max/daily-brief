@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-22",
+    "generatedAt": "2026-04-22T07:05:16.391632-07:00",
+    "title": "Morning Brief \u2014 Wed Apr 22, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "53\u00b0F",
+      "feelsLike": "50\u00b0F",
+      "high": "69\u00b0F",
+      "low": "52\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Trump buys time for Iran deal after frantic day of diplomacy",
+        "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.",
+        "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "What is uranium enrichment and how quickly could Iran build a nuclear bomb?",
+        "summary": "Al Jazeera spoke with MIT professor Ted Postol about what Iran could do with its 440kg of 60 percent enriched uranium.",
+        "url": "https://www.aljazeera.com/news/2026/4/22/what-is-uranium-enrichment-and-how-quickly-could-iran-build-a-nuclear-bomb?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "New npm supply-chain attack self-spreads to steal auth tokens",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-21",
     "generatedAt": "2026-04-21T07:05:35.827544-07:00",
     "title": "Morning Brief \u2014 Tue Apr 21, 2026",
@@ -1698,113 +1753,6 @@
         "headline": "Infinite Campus warns of breach after ShinyHunters claims data theft",
         "summary": "Infinite Campus, a widely used K-12 student information system, is warning customers of a data breach following an extortion attempt by a threat actor. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-23",
-    "generatedAt": "2026-03-23T07:05:20.327058-07:00",
-    "title": "Morning Brief \u2014 Mon Mar 23, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$659.24",
-        "change": "\u25b2 +1.65%",
-        "direction": "up"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$464.14",
-        "change": "\u25b2 +1.81%",
-        "direction": "up"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$591.81",
-        "change": "\u25b2 +1.68%",
-        "direction": "up"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "Apogee Therapeutics Stock Rallies On Encouraging Eczema Drug Data Readout",
-        "source": "benzinga",
-        "symbols": [
-          "APGE"
-        ],
-        "summary": "Apogee Therapeutics stock jumps on 52-week eczema data; durable response supports Phase 3 plans later in 2026.",
-        "url": "https://www.benzinga.com/news/health-care/26/03/51406698/apogee-therapeutics-stock-rallies-on-encouraging-eczema-drug-data-readout",
-        "created": "2026-03-23T14:04:40+00:00"
-      },
-      {
-        "headline": "President Trump On Iran, Oil Says The Price Will Drop Like A Rock As Soon As There's A Deal",
-        "source": "benzinga",
-        "symbols": [
-          "SPY",
-          "USO"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/general/macro-notification/26/03/51406680/president-trump-on-iran-oil-says-the-price-will-drop-like-a-rock-as-soon-as-theres-a-d",
-        "created": "2026-03-23T14:04:14+00:00"
-      },
-      {
-        "headline": "Argus Research Maintains Buy on Ameren, Raises Price Target to $115",
-        "source": "benzinga",
-        "symbols": [
-          "AEE"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/03/51406648/argus-research-maintains-buy-on-ameren-raises-price-target-to-115",
-        "created": "2026-03-23T14:03:30+00:00"
-      },
-      {
-        "headline": "Dell Technologies Introduces New Security By Design And Cyber Resilience Capabilities To Help Organizations Secure, Detect And Recover From Next-Gen Threats",
-        "source": "benzinga",
-        "symbols": [
-          "DELL"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/03/51406600/dell-technologies-introduces-new-security-by-design-and-cyber-resilience-capabilities-to-help-organi",
-        "created": "2026-03-23T14:02:39+00:00"
-      },
-      {
-        "headline": "WeRide Doubles Down On Driverless Dream With 123% Revenue Spike",
-        "source": "benzinga",
-        "symbols": [
-          "WRD"
-        ],
-        "summary": "WeRide (NASDAQ: WRD) reports Q4 2025 revenue growth of 123% Y/Y to $44.9M. Robotaxi sales surge as the firm eyes global expansion. Read more.",
-        "url": "https://www.benzinga.com/markets/earnings/26/03/51406587/weride-doubles-down-on-driverless-dream-with-123-revenue-spike",
-        "created": "2026-03-23T14:02:28+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Fog",
-      "temp": "60\u00b0F",
-      "feelsLike": "62\u00b0F",
-      "high": "81\u00b0F",
-      "low": "58\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Two pilots dead after plane and ground vehicle collide at New York's LaGuardia Airport",
-        "summary": "The plane, arriving from Montreal, collided with a firefighting vehicle responding to a separate incident.",
-        "url": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Madrid protest against US blockade of Cuba",
-        "summary": "Protesters gathered outside the US embassy in Madrid as sanctions pushed Cuba into an electricity blackout.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/madrid-protest-against-us-blockade-of-cuba?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Microsoft Exchange Online service change causes email access issues",
-        "summary": "",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/"
       }
     ]
   }
