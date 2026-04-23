@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-23",
+    "generatedAt": "2026-04-23T07:05:17.228772-07:00",
+    "title": "Morning Brief \u2014 Thu Apr 23, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Mainly clear",
+      "temp": "55\u00b0F",
+      "feelsLike": "55\u00b0F",
+      "high": "77\u00b0F",
+      "low": "53\u00b0F",
+      "precipChance": "1%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Trump administration reclassifies cannabis as less dangerous",
+        "summary": "Medical marijuana was moved into a lower category of drugs in order to increase research and access.",
+        "url": "https://www.bbc.com/news/articles/cdxd0xxp0jko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "How Lebanese journalist Amal Khalil was pursued and killed by Israel",
+        "summary": "Details of how Lebanese journalist Amal Khalil was \u201cpursued\u201d and killed by Israeli forces have been released.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/how-lebanese-journalist-amal-khalil-was-pursued-and-killed-by-israel?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Microsoft: Some Teams users can\u2019t join meetings after Edge update",
+        "summary": "Microsoft confirmed that a recent Microsoft Edge browser update introduced a bug that prevents Windows users from joining Teams meetings. [...]",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-22",
     "generatedAt": "2026-04-22T07:05:16.391632-07:00",
     "title": "Morning Brief \u2014 Wed Apr 22, 2026",
@@ -1647,112 +1702,6 @@
         "headline": "Paid AI Accounts Are Now a Hot Underground Commodity",
         "summary": "AI accounts are becoming part of the cybercrime supply chain, sold like email accounts or VPS access.",
         "url": "https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-24",
-    "generatedAt": "2026-03-24T07:05:17.152351-07:00",
-    "title": "Morning Brief \u2014 Tue Mar 24, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$652.32",
-        "change": "\u25bc -0.47%",
-        "direction": "down"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$459.80",
-        "change": "\u25bc -0.47%",
-        "direction": "down"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$584.34",
-        "change": "\u25bc -0.62%",
-        "direction": "down"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "$100 Invested In Cloudflare 5 Years Ago Would Be Worth This Much Today",
-        "source": "benzinga",
-        "symbols": [
-          "NET"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/insights/news/26/03/51432121/100-invested-in-cloudflare-5-years-ago-would-be-worth-this-much-today",
-        "created": "2026-03-24T14:00:30+00:00"
-      },
-      {
-        "headline": "Barclays Maintains Overweight on Abivax, Raises Price Target to $148",
-        "source": "benzinga",
-        "symbols": [
-          "ABVX"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/03/51432058/barclays-maintains-overweight-on-abivax-raises-price-target-to-148",
-        "created": "2026-03-24T14:00:01+00:00"
-      },
-      {
-        "headline": "Expro Lands Key Role In Europe's Geothermal-Lithium Project",
-        "source": "benzinga",
-        "symbols": [
-          "XPRO"
-        ],
-        "summary": "Expro (XPRO) shares rise after partnering with VERCANA for Germany&#39;s Lionheart geothermal &amp; lithium project. Get the full project scope here.",
-        "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51432052/expro-lands-key-role-in-europes-geothermal-lithium-project",
-        "created": "2026-03-24T13:59:44+00:00"
-      },
-      {
-        "headline": "Leatt Q4 EPS $0.08 Up From $(0.07) YoY, Sales $16.020M Up From $11.200M YoY",
-        "source": "benzinga",
-        "symbols": [
-          "LEAT"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/earnings/26/03/51432026/leatt-q4-eps-0-08-up-from-0-07-yoy-sales-16-020m-up-from-11-200m-yoy",
-        "created": "2026-03-24T13:59:07+00:00"
-      },
-      {
-        "headline": "LevelBlue Collaborates With SentinelOne To Offer Integrated, Intelligence-Driven Security Operations For Firms Globally",
-        "source": "benzinga",
-        "symbols": [
-          "S"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/03/51432003/levelblue-collaborates-with-sentinelone-to-offer-integrated-intelligence-driven-security-operations",
-        "created": "2026-03-24T13:58:28+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "62\u00b0F",
-      "feelsLike": "64\u00b0F",
-      "high": "80\u00b0F",
-      "low": "60\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Israel says it will take control of large buffer zone in southern Lebanon",
-        "summary": "Thousands of displaced Lebanese residents will not be allowed to return home until northern Israel is safe, he says.",
-        "url": "https://www.bbc.com/news/articles/cy91j9qwp4do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Pakistan world\u2019s most polluted country in 2025: Report",
-        "summary": "Fine particulates in Pakistan's air highest in the world last year, exceeding WHO guidelines by up to 13 times.",
-        "url": "https://www.aljazeera.com/news/2026/3/24/pakistan-worlds-most-polluted-country-in-2025-report?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Infinite Campus warns of breach after ShinyHunters claims data theft",
-        "summary": "Infinite Campus, a widely used K-12 student information system, is warning customers of a data breach following an extortion attempt by a threat actor. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/"
       }
     ]
   }
