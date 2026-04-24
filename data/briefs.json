@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-24",
+    "generatedAt": "2026-04-24T07:05:18.187712-07:00",
+    "title": "Morning Brief \u2014 Fri Apr 24, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Mainly clear",
+      "temp": "56\u00b0F",
+      "feelsLike": "54\u00b0F",
+      "high": "77\u00b0F",
+      "low": "54\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+        "summary": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
+        "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Pro-Palestinian activists break into suspected Elbit Systems drone factory",
+        "summary": "Pro-Palestine activists have broken into a UK factory where they said drones were being made for Israel\u2019s military.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/pro-palestinian-activists-break-into-suspected-elbit-systems-drone-factory?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks",
+        "summary": "Over 10,000 Zimbra Collaboration Suite (ZCS) instances exposed online are vulnerable to ongoing attacks exploiting a cross-site scripting (XSS) security flaw. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-23",
     "generatedAt": "2026-04-23T07:05:17.228772-07:00",
     "title": "Morning Brief \u2014 Thu Apr 23, 2026",
@@ -1591,117 +1646,6 @@
         "headline": "Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers",
         "summary": "Multi-stage fraud attacks chain bots, proxies, and stolen credentials from signup to takeover. IPQS shows why correlating IP, device, identity, and behavior is critical to stop it.",
         "url": "https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-25",
-    "generatedAt": "2026-03-25T07:05:21.329969-07:00",
-    "title": "Morning Brief \u2014 Wed Mar 25, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "$657.00",
-        "change": "\u25b2 +0.59%",
-        "direction": "up"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "$463.99",
-        "change": "\u25b2 +0.61%",
-        "direction": "up"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "$588.28",
-        "change": "\u25b2 +0.74%",
-        "direction": "up"
-      }
-    ],
-    "marketNews": [
-      {
-        "headline": "If You Invested $100 In BeOne Medicines Stock 10 Years Ago, You Would Have This Much Today",
-        "source": "benzinga",
-        "symbols": [
-          "ONC"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/insights/news/26/03/51457179/if-you-invested-100-in-beone-medicines-stock-10-years-ago-you-would-have-this-much-today",
-        "created": "2026-03-25T14:00:25+00:00"
-      },
-      {
-        "headline": "Canaccord Genuity Maintains Buy on TELA Bio, Lowers Price Target to $2",
-        "source": "benzinga",
-        "symbols": [
-          "TELA"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/03/51457169/canaccord-genuity-maintains-buy-on-tela-bio-lowers-price-target-to-2",
-        "created": "2026-03-25T14:00:15+00:00"
-      },
-      {
-        "headline": "RBC Capital Reiterates Outperform on Zillow Group, Maintains $95 Price Target",
-        "source": "benzinga",
-        "symbols": [
-          "ZG"
-        ],
-        "summary": "",
-        "url": "https://www.benzinga.com/news/26/03/51457109/rbc-capital-reiterates-outperform-on-zillow-group-maintains-95-price-target",
-        "created": "2026-03-25T13:59:41+00:00"
-      },
-      {
-        "headline": "What's Going On With Hewlett Packard Enterprise Stock Today?",
-        "source": "benzinga",
-        "symbols": [
-          "HPE",
-          "NUMV",
-          "ONEY",
-          "PFXF"
-        ],
-        "summary": "Hewlett Packard Enterprise introduces advanced AI security solutions, expanding hybrid mesh architecture and Threat Labs.",
-        "url": "https://www.benzinga.com/markets/large-cap/26/03/51457013/whats-going-on-with-hewlett-packard-enterprise-stock-today",
-        "created": "2026-03-25T13:56:53+00:00"
-      },
-      {
-        "headline": "Four Corners Property Trust Has An 18% Dividend Buffer And A 2029 Debt Wall - That Combination Deserves A Closer Look",
-        "source": "benzinga",
-        "symbols": [
-          "FCPT",
-          "NNN",
-          "O"
-        ],
-        "summary": " ",
-        "url": "https://www.benzinga.com/Opinion/26/03/51457008/four-corners-property-trust-has-an-18-dividend-buffer-and-a-2029-debt-wall-that-combination-deserves-a-closer-look",
-        "created": "2026-03-25T13:56:38+00:00"
-      }
-    ],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "61\u00b0F",
-      "feelsLike": "62\u00b0F",
-      "high": "78\u00b0F",
-      "low": "60\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "'There's no safety anymore': Palestinians warn of expanding West Bank settler violence",
-        "summary": "There has been a surge of attacks by Israeli settlers on Palestinian villages across the occupied territory since the start of the Iran war.",
-        "url": "https://www.bbc.com/news/articles/c747x00m83vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Iranian attacks amount to violation of sovereignty, Gulf states tell UN",
-        "summary": "GCC states, UN rights chief Volker Turk warn of grave repercussions amid war on Iran.",
-        "url": "https://www.aljazeera.com/news/2026/3/25/iranian-attacks-amount-to-violation-of-sovereignty-gulf-states-tell-un?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Paid AI Accounts Are Now a Hot Underground Commodity",
-        "summary": "AI accounts are becoming part of the cybercrime supply chain, sold like email accounts or VPS access.",
-        "url": "https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/"
       }
     ]
   }
