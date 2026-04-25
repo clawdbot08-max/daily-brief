@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-25",
+    "generatedAt": "2026-04-25T07:05:37.100014-07:00",
+    "title": "Morning Brief \u2014 Sat Apr 25, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "58\u00b0F",
+      "feelsLike": "58\u00b0F",
+      "high": "67\u00b0F",
+      "low": "56\u00b0F",
+      "precipChance": "13%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+        "summary": "Witnesses report clashes in the centre and north of the country in what has been described as the largest jihadist attack in years.",
+        "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Israeli attacks kill four in southern Lebanon",
+        "summary": "Raids on a truck and a motorcycle in the town of Yohmor al-Shaqif kill four people, state media report.",
+        "url": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "ADT confirms data breach after ShinyHunters leak threat",
+        "summary": "Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-24",
     "generatedAt": "2026-04-24T07:05:18.187712-07:00",
     "title": "Morning Brief \u2014 Fri Apr 24, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.",
         "summary": "Agentic GRC automates workflows, forcing teams to rethink their role beyond operations. Anecdotes explains why the biggest challenge is shifting from execution to risk leadership.",
         "url": "https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-26",
-    "generatedAt": "2026-03-26T07:05:22.303233-07:00",
-    "title": "Morning Brief \u2014 Thu Mar 26, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "58\u00b0F",
-      "feelsLike": "58\u00b0F",
-      "high": "84\u00b0F",
-      "low": "56\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
-        "summary": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear.",
-        "url": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Russian officials meet US counterparts as Moscow denies aiding Iran",
-        "summary": "Kremlin spokesperson says talks are part of '\u200bnecessary dialogue' with Washington as war in Ukraine continues.",
-        "url": "https://www.aljazeera.com/news/2026/3/26/russian-officials-meet-us-counterparts-as-moscow-denies-aiding-iran?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers",
-        "summary": "Multi-stage fraud attacks chain bots, proxies, and stolen credentials from signup to takeover. IPQS shows why correlating IP, device, identity, and behavior is critical to stop it.",
-        "url": "https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/"
       }
     ]
   }
