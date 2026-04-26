@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-26",
+    "generatedAt": "2026-04-26T07:05:38.470638-07:00",
+    "title": "Morning Brief \u2014 Sun Apr 26, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Mainly clear",
+      "temp": "55\u00b0F",
+      "feelsLike": "53\u00b0F",
+      "high": "66\u00b0F",
+      "low": "54\u00b0F",
+      "precipChance": "19%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "I was in the room with Trump and heard the low thudding sound of gunfire",
+        "summary": "The BBC's Gary O'Donoghue describes the moment he and others dived for cover as shots rang out at the venue.",
+        "url": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Mali rattled by ongoing armed attacks: What to know",
+        "summary": "Mali's security situation has deteriorated in recent years, as armed groups have carried out coordinated attacks.",
+        "url": "https://www.aljazeera.com/news/2026/4/26/mali-rattled-by-ongoing-armed-attacks-what-to-know?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Microsoft rolls out revamped Windows Insider Program",
+        "summary": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11.",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-25",
     "generatedAt": "2026-04-25T07:05:37.100014-07:00",
     "title": "Morning Brief \u2014 Sat Apr 25, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "Backdoored Telnyx PyPI package pushes malware hidden in WAV audio",
         "summary": "TeamPCP hackers compromised the Telnyx package on the Python Package Index today, uploading malicious versions that deliver credential-stealing malware hidden inside a WAV file.",
         "url": "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-27",
-    "generatedAt": "2026-03-27T07:05:22.914649-07:00",
-    "title": "Morning Brief \u2014 Fri Mar 27, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Fog",
-      "temp": "59\u00b0F",
-      "feelsLike": "61\u00b0F",
-      "high": "82\u00b0F",
-      "low": "57\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
-        "summary": "One month since the US and Israel launched strikes on Iran, Tehran residents tell the BBC their lives have been devastated.",
-        "url": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Saudi, UAE, Iraq: Can three pipelines help oil escape Strait of Hormuz?",
-        "summary": "Countries in the Middle East have ramped up oil exports via pipeline to bridge the Strait of Hormuz gap.",
-        "url": "https://www.aljazeera.com/economy/2026/3/27/saudi-uae-iraq-can-three-pipelines-help-oil-escape-strait-of-hormuz?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.",
-        "summary": "Agentic GRC automates workflows, forcing teams to rethink their role beyond operations. Anecdotes explains why the biggest challenge is shifting from execution to risk leadership.",
-        "url": "https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/"
       }
     ]
   }
