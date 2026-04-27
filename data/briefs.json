@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-27",
+    "generatedAt": "2026-04-27T07:05:27.793937-07:00",
+    "title": "Morning Brief \u2014 Mon Apr 27, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "56\u00b0F",
+      "feelsLike": "54\u00b0F",
+      "high": "67\u00b0F",
+      "low": "54\u00b0F",
+      "precipChance": "3%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "What we're learning about suspected Washington press dinner gunman",
+        "summary": "The man arrested at the event attended by President Trump is due in court on Monday.",
+        "url": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "What does Trump shooting at White House dinner mean for World Cup security?",
+        "summary": "Football fans criticise security arrangements in World Cup cohost nation after assassination attempt on US president.",
+        "url": "https://www.aljazeera.com/sports/2026/4/27/what-does-trump-shooting-at-white-house-dinner-mean-for-world-cup-security?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Medtronic confirms breach after hackers claim 9 million records theft",
+        "summary": "Medical device giant Medtronic disclosed last week that hackers breached its network and accessed data in \"certain corporate IT systems.\" [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-26",
     "generatedAt": "2026-04-26T07:05:38.470638-07:00",
     "title": "Morning Brief \u2014 Sun Apr 26, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "New Infinity Stealer malware grabs macOS data via ClickFix lures",
         "summary": "A new info-stealing malware named Infinity Stealer is targeting macOS systems with a Python payload packaged as an executable using the open-source Nuitka compiler. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-28",
-    "generatedAt": "2026-03-28T07:05:26.896481-07:00",
-    "title": "Morning Brief \u2014 Sat Mar 28, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "54\u00b0F",
-      "feelsLike": "53\u00b0F",
-      "high": "81\u00b0F",
-      "low": "54\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
-        "summary": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
-        "url": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Defending champion Aryna Sabalenka and Coco Gauff meet in Miami Open final",
-        "summary": "Sabalenka seeks tennis's 'Sunshine Double', while Florida's own Gauff has reached the final for the first time.",
-        "url": "https://www.aljazeera.com/sports/2026/3/28/defending-champion-aryna-sabalenka-and-coco-gauff-meet-for-the-miami-open-t?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Backdoored Telnyx PyPI package pushes malware hidden in WAV audio",
-        "summary": "TeamPCP hackers compromised the Telnyx package on the Python Package Index today, uploading malicious versions that deliver credential-stealing malware hidden inside a WAV file.",
-        "url": "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/"
       }
     ]
   }
