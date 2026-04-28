@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-04-28",
+    "generatedAt": "2026-04-28T07:05:29.465893-07:00",
+    "title": "Morning Brief \u2014 Tue Apr 28, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "52\u00b0F",
+      "feelsLike": "49\u00b0F",
+      "high": "72\u00b0F",
+      "low": "50\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Suspect charged with attempted assassination of Trump at Washington dinner",
+        "summary": "Investigators say the 31-year-old California man wanted to kill as many high-level officials as possible.",
+        "url": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "What\u2019s in Iran\u2019s latest proposal \u2013 and how has the US responded?",
+        "summary": "Trump administration signals rejection of Iran\u2019s offer, citing incomplete resolution of Tehran\u2019s nuclear ambitions.",
+        "url": "https://www.aljazeera.com/news/2026/4/28/whats-in-irans-latest-proposal-and-how-has-the-us-responded?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
+        "summary": "Microsoft says it will start blocking legacy TLS connections for POP and IMAP email clients in Exchange Online starting in July 2026. [...]",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-27",
     "generatedAt": "2026-04-27T07:05:27.793937-07:00",
     "title": "Morning Brief \u2014 Mon Apr 27, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-29",
-    "generatedAt": "2026-03-29T07:05:27.287493-07:00",
-    "title": "Morning Brief \u2014 Sun Mar 29, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "55\u00b0F",
-      "feelsLike": "51\u00b0F",
-      "high": "87\u00b0F",
-      "low": "55\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
-        "summary": "One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective, writes the BBC's international editor.",
-        "url": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Israeli footballer\u2019s role in assault on southern Lebanon sparks outrage",
-        "summary": "Israeli Premier League player Menashe Zalka is seen opening fire with Israeli army soldiers in southern Lebanon assault.",
-        "url": "https://www.aljazeera.com/sports/2026/3/29/israeli-footballers-role-in-assault-on-southern-lebanon-sparks-outrage?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "New Infinity Stealer malware grabs macOS data via ClickFix lures",
-        "summary": "A new info-stealing malware named Infinity Stealer is targeting macOS systems with a Python payload packaged as an executable using the open-source Nuitka compiler. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/"
       }
     ]
   }
