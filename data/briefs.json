@@ -1,5 +1,115 @@
 [
   {
+    "date": "2026-04-30",
+    "generatedAt": "2026-04-30T07:05:29.950241-07:00",
+    "title": "Morning Brief \u2014 Thu Apr 30, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "57\u00b0F",
+      "feelsLike": "57\u00b0F",
+      "high": "75\u00b0F",
+      "low": "54\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+        "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+        "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "US military equipment worth billions of dollars destroyed in Iran war",
+        "summary": "The United States lost aerial equipment worth up to $2.8bn, according to a US-based think tank.",
+        "url": "https://www.aljazeera.com/news/2026/4/30/us-military-equipment-worth-billions-of-dollars-destroyed-in-iran-war?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "What Happens in the First 24 Hours After a New Asset Goes Live",
+        "summary": "When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-29",
+    "generatedAt": "2026-04-29T07:05:39.491256-07:00",
+    "title": "Morning Brief \u2014 Wed Apr 29, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "53\u00b0F",
+      "feelsLike": "50\u00b0F",
+      "high": "77\u00b0F",
+      "low": "51\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Former US officials criticise Pentagon silence on deadly Iran school attack",
+        "summary": "In the two months since the deadly strike, the US defence department has said only that the incident is under investigation.",
+        "url": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Israeli strike kills five family members in Lebanon",
+        "summary": "Israeli strike kills five family members in Lebanon",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israeli-strike-kills-five-family-members-in-lebanon?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Learning from the Vercel breach: Shadow AI & OAuth sprawl",
+        "summary": "A single third-party OAuth integration can become a direct path into your environment.",
+        "url": "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-28",
     "generatedAt": "2026-04-28T07:05:29.465893-07:00",
     "title": "Morning Brief \u2014 Tue Apr 28, 2026",
@@ -1536,116 +1646,6 @@
         "headline": "FBI warns against using Chinese mobile apps due to privacy risks",
         "summary": "The U.S. Federal Bureau of Investigation (FBI) warned Americans against using foreign-developed mobile applications, particularly those created by Chinese developers. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-31",
-    "generatedAt": "2026-03-31T07:05:26.821162-07:00",
-    "title": "Morning Brief \u2014 Tue Mar 31, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "63\u00b0F",
-      "feelsLike": "63\u00b0F",
-      "high": "74\u00b0F",
-      "low": "61\u00b0F",
-      "precipChance": "20%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "China bans storing cremated remains in empty 'bone ash apartments'",
-        "summary": "China bans 'bone ash apartments' where mourners are storing cremated remains instead of cemeteries.",
-        "url": "https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Cancer drug facility, religious site hit in Israeli-US strikes on Iran",
-        "summary": "The Iranian government said the company's drug production line has been damaged, as no diplomatic solution is in sight.",
-        "url": "https://www.aljazeera.com/news/2026/3/31/cancer-drug-facility-religious-site-hit-in-israeli-us-strikes-on-iran?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "How to Categorize AI Agents and Prioritize Risk",
-        "summary": "AI agent risk isn't equal, it scales with access to systems and level of autonomy. Token Security explains how CISOs should categorize agents and prioritize what to secure first.",
-        "url": "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-30",
-    "generatedAt": "2026-03-30T07:05:26.476931-07:00",
-    "title": "Morning Brief \u2014 Mon Mar 30, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Fog",
-      "temp": "57\u00b0F",
-      "feelsLike": "58\u00b0F",
-      "high": "78\u00b0F",
-      "low": "54\u00b0F",
-      "precipChance": "1%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Why does the US have Iran's Kharg Island in its sights?",
-        "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
-        "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Kenya\u2019s former New York marathon champion Korir gets five-year doping ban",
-        "summary": "Korir tested positive for a drug that stimulates red blood cell production during out-of-competition tests.",
-        "url": "https://www.aljazeera.com/sports/2026/3/30/kenyas-former-new-york-marathon-champion-korir-gets-five-year-doping-ban?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now",
-        "summary": "",
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/"
       }
     ]
   }
