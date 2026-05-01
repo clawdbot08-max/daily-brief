@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-01",
+    "generatedAt": "2026-05-01T07:05:29.811184-07:00",
+    "title": "Morning Brief \u2014 Fri May 01, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "61\u00b0F",
+      "feelsLike": "61\u00b0F",
+      "high": "78\u00b0F",
+      "low": "58\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Billions of meals at risk due to Iran war, says fertiliser boss",
+        "summary": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
+        "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Howe says Saudi owners\u2019 desire for success at Newcastle remains unchanged",
+        "summary": "PIF said on Thursday that it would cut funding of LIV Golf at end of 2026 \u200bseason.",
+        "url": "https://www.aljazeera.com/sports/2026/5/1/howe-says-saudi-owners-desire-for-success-at-newcastle-remains-unchanged?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
+        "summary": "Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-30",
     "generatedAt": "2026-04-30T07:05:29.950241-07:00",
     "title": "Morning Brief \u2014 Thu Apr 30, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
         "summary": "Threat actors are exploiting vacant homes as \"drop addresses\" to intercept mail and enable fraud.",
         "url": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-01",
-    "generatedAt": "2026-04-01T07:05:35.304349-07:00",
-    "title": "Morning Brief \u2014 Wed Apr 01, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Mainly clear",
-      "temp": "59\u00b0F",
-      "feelsLike": "61\u00b0F",
-      "high": "70\u00b0F",
-      "low": "56\u00b0F",
-      "precipChance": "37%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "China is trying to play peacemaker in the Iran war - will it work?",
-        "summary": "It's a turnaround for Beijing, whose official response has been muted so far. Why is China stepping in now?",
-        "url": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "French President Macron visits Japan to discuss the energy crisis",
-        "summary": "France's Macron paid a visit to Tokyo to meet with Japan's Takaichi to discuss the economic war of the war on Iran.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/french-president-macron-visits-japan-to-discuss-the-energy-crisis?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "FBI warns against using Chinese mobile apps due to privacy risks",
-        "summary": "The U.S. Federal Bureau of Investigation (FBI) warned Americans against using foreign-developed mobile applications, particularly those created by Chinese developers. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/"
       }
     ]
   }
