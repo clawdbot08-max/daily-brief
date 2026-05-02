@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-02",
+    "generatedAt": "2026-05-02T07:05:28.996798-07:00",
+    "title": "Morning Brief \u2014 Sat May 02, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "58\u00b0F",
+      "feelsLike": "60\u00b0F",
+      "high": "77\u00b0F",
+      "low": "56\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+        "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+        "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "The dark side of Gaza\u2019s new fancy cafes and restaurants",
+        "summary": "The new establishments popping up in the devastated Strip reveal the a new genocidal reality.",
+        "url": "https://www.aljazeera.com/opinions/2026/5/2/the-dark-side-of-gazas-new-fancy-cafes-and-restaurants?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
+        "summary": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-01",
     "generatedAt": "2026-05-01T07:05:29.811184-07:00",
     "title": "Morning Brief \u2014 Fri May 01, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "Microsoft still working to fix Exchange Online mailbox access issues",
         "summary": "Microsoft is investigating and working to resolve Exchange Online mailbox access issues that have intermittently affected Outlook mobile and macOS users for weeks. [...]",
         "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-02",
-    "generatedAt": "2026-04-02T07:05:33.311747-07:00",
-    "title": "Morning Brief \u2014 Thu Apr 02, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "56\u00b0F",
-      "feelsLike": "56\u00b0F",
-      "high": "73\u00b0F",
-      "low": "56\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Macron calls Trump's remarks on his marriage 'inelegant'",
-        "summary": "French President Emmanuel Macron has said Donald Trump's comments about his marriage were \"neither elegant nor up to standard\".",
-        "url": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Spanish cyclist Guardeno airlifted to intensive care after training crash",
-        "summary": "A week after 23-year-old's participation in the Tour of Catalonia, Guardeno suffers head injuries in collision with car.",
-        "url": "https://www.aljazeera.com/sports/2026/4/2/spanish-cyclist-guardeno-airlifted-to-intensive-care-after-training-crash?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
-        "summary": "Threat actors are exploiting vacant homes as \"drop addresses\" to intercept mail and enable fraud.",
-        "url": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/"
       }
     ]
   }
