@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-03",
+    "generatedAt": "2026-05-03T07:05:26.560189-07:00",
+    "title": "Morning Brief \u2014 Sun May 03, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "59\u00b0F",
+      "feelsLike": "59\u00b0F",
+      "high": "68\u00b0F",
+      "low": "58\u00b0F",
+      "precipChance": "2%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+        "summary": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
+        "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "US to cut troops in Germany as Iran war spat deepens",
+        "summary": "US-German relations are straining as a spat deepens between President Trump and Chancellor Merz over the war on Iran.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/us-to-cut-troops-in-germany-as-iran-war-spat-deepens?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
+        "summary": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-02",
     "generatedAt": "2026-05-02T07:05:28.996798-07:00",
     "title": "Morning Brief \u2014 Sat May 02, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "LinkedIn secretely scans for 6,000+ Chrome extensions, collects data",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-03",
-    "generatedAt": "2026-04-03T07:05:28.431911-07:00",
-    "title": "Morning Brief \u2014 Fri Apr 03, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "53\u00b0F",
-      "feelsLike": "52\u00b0F",
-      "high": "82\u00b0F",
-      "low": "53\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Artemis II leaves Earth's orbit on track for far side of the Moon",
-        "summary": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
-        "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Gattuso out as Italy\u2019s coach after failure to qualify for 2026 World Cup",
-        "summary": "The Azzurri's failure to reach a third consecutive World Cup continues to send shockwaves through Italian football.",
-        "url": "https://www.aljazeera.com/sports/2026/4/3/gattuso-out-as-italys-coach-after-failure-to-qualify-for-2026-world-cup?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Microsoft still working to fix Exchange Online mailbox access issues",
-        "summary": "Microsoft is investigating and working to resolve Exchange Online mailbox access issues that have intermittently affected Outlook mobile and macOS users for weeks. [...]",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/"
       }
     ]
   }
