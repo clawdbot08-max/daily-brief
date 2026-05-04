@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-04",
+    "generatedAt": "2026-05-04T07:05:29.064126-07:00",
+    "title": "Morning Brief \u2014 Mon May 04, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "57\u00b0F",
+      "feelsLike": "58\u00b0F",
+      "high": "68\u00b0F",
+      "low": "56\u00b0F",
+      "precipChance": "9%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+        "summary": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
+        "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Formula One plans return to V8 engines as electrical revolution loses spark",
+        "summary": "F1 cars could return to traditional V8 engines by 2030, FIA President Mohammed Ben Sulayem says at Miami GP.",
+        "url": "https://www.aljazeera.com/sports/2026/5/4/formula-one-plans-return-to-v8-engines-as-electrical-revolution-loses-spark?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "They don\u2019t hack, they borrow: How fraudsters target credit unions",
+        "summary": "Fraudsters aren't hacking credit unions, they are exploiting normal business processes.",
+        "url": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-03",
     "generatedAt": "2026-05-03T07:05:26.560189-07:00",
     "title": "Morning Brief \u2014 Sun May 03, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "Axios npm hack used fake Teams error fix to hijack maintainer account",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-04",
-    "generatedAt": "2026-04-04T07:05:29.330862-07:00",
-    "title": "Morning Brief \u2014 Sat Apr 04, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Mainly clear",
-      "temp": "61\u00b0F",
-      "feelsLike": "55\u00b0F",
-      "high": "88\u00b0F",
-      "low": "59\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
-        "summary": "A former US marine tells the BBC the priority of any recovery team would be to look for signs of life.",
-        "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Israeli strikes damage hospital in Lebanon\u2019s Tyre; ground invasion advances",
-        "summary": "At least 11 people are injured as Israel strikes near the Lebanese Italian Hospital in Tyre, damaging the facility.",
-        "url": "https://www.aljazeera.com/news/2026/4/4/israeli-strikes-damage-hospital-in-lebanons-tyre?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "LinkedIn secretely scans for 6,000+ Chrome extensions, collects data",
-        "summary": "",
-        "url": "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/"
       }
     ]
   }
