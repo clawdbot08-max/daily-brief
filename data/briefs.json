@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-05",
+    "generatedAt": "2026-05-05T07:05:32.897748-07:00",
+    "title": "Morning Brief \u2014 Tue May 05, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "56\u00b0F",
+      "feelsLike": "54\u00b0F",
+      "high": "69\u00b0F",
+      "low": "54\u00b0F",
+      "precipChance": "4%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Hantavirus may have spread between passengers on cruise ship, WHO says",
+        "summary": "Two cases of the virus, which rarely spreads between humans, have been confirmed on the ship, and three people have died.",
+        "url": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Mapping Mali\u2019s gold and natural resource wealth",
+        "summary": "The West African country holds Africa's third-largest gold reserves, plus vast lithium and uranium deposits.",
+        "url": "https://www.aljazeera.com/news/2026/5/5/mapping-malis-gold-and-natural-resource-wealth?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Don't Check.",
+        "summary": "Critical vulnerabilities can exist in open source software your scanners don't check.",
+        "url": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-04",
     "generatedAt": "2026-05-04T07:05:29.064126-07:00",
     "title": "Morning Brief \u2014 Mon May 04, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "Why Simple Breach Monitoring is No Longer Enough",
         "summary": "Infostealers are harvesting credentials and session cookies at scale, bypassing traditional defenses.",
         "url": "https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-05",
-    "generatedAt": "2026-04-05T07:05:31.032150-07:00",
-    "title": "Morning Brief \u2014 Sun Apr 05, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "57\u00b0F",
-      "feelsLike": "50\u00b0F",
-      "high": "86\u00b0F",
-      "low": "57\u00b0F",
-      "precipChance": "1%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "What we know so far about rescue of US airman in Iran",
-        "summary": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
-        "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Trump offers no concrete plan as Strait of Hormuz closure shocks Europe",
-        "summary": "Economist James Meadway says US President Donald Trump offers threats but no clear plan to end the crisis.",
-        "url": "https://www.aljazeera.com/video/quotable/2026/4/5/trump-offers-no-concrete-plan-as-strait-of-hormuz-closure-shocks-europe?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Axios npm hack used fake Teams error fix to hijack maintainer account",
-        "summary": "",
-        "url": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/"
       }
     ]
   }
