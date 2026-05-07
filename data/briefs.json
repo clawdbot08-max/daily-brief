@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-07",
+    "generatedAt": "2026-05-07T07:05:30.557540-07:00",
+    "title": "Morning Brief \u2014 Thu May 07, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "56\u00b0F",
+      "feelsLike": "57\u00b0F",
+      "high": "79\u00b0F",
+      "low": "54\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Race to trace passengers who left hantavirus cruise ship at island",
+        "summary": "A 69-year-old woman who later died in South Africa is among those who left MV Hondius at St Helena.",
+        "url": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "PSG\u2019s Champions League win marred by night of violence and riots in Paris",
+        "summary": "Paris Saint-Germain claimed a 6-5 Champions League semifinal win over Bayern Munich, but it erupted in domestic trouble.",
+        "url": "https://www.aljazeera.com/sports/2026/5/7/psgs-champions-league-win-marred-by-night-of-violence-and-riots-in-paris?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Americans sentenced for running 'laptop farms' for North Korea",
+        "summary": "Two U.S.",
+        "url": "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-06",
     "generatedAt": "2026-05-06T07:05:32.206396-07:00",
     "title": "Morning Brief \u2014 Wed May 06, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "Microsoft rolls out fix for broken Windows Start Menu search",
         "summary": "Microsoft has pushed a server-side fix for a known issue that broke the Windows Start Menu search feature on some Windows 11 23H2 devices. [...]",
         "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-07",
-    "generatedAt": "2026-04-07T07:05:32.144102-07:00",
-    "title": "Morning Brief \u2014 Tue Apr 07, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "55\u00b0F",
-      "feelsLike": "54\u00b0F",
-      "high": "79\u00b0F",
-      "low": "55\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
-        "summary": "The first two images show an 'Earthrise' and the solar eclipse the astronauts viewed.",
-        "url": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "ICE says its agents don\u2019t carry guns in Canada as World Cup approaches",
-        "summary": "Amid fears of ICE deployment at World Cup venues in Canada, the agency says its personnel do not make arrests or carry guns.",
-        "url": "https://www.aljazeera.com/sports/2026/4/7/ice-says-its-agents-dont-carry-guns-in-canada-as-world-cup-approaches?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "German authorities identify REvil and GandCrab ransomware bosses",
-        "summary": "The Federal Police in Germany (BKA) has identified two Russian nationals as the leaders of GandCrab and REvil ransomware operations between 2019 and 2021. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/"
       }
     ]
   }
