@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-08",
+    "generatedAt": "2026-05-08T07:05:32.199450-07:00",
+    "title": "Morning Brief \u2014 Fri May 08, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "61\u00b0F",
+      "feelsLike": "62\u00b0F",
+      "high": "79\u00b0F",
+      "low": "59\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+        "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
+        "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "The disaster unfolding on Russia\u2019s Black Sea coast is of its own making",
+        "summary": "The pollution spreading across southern Russia exposes environmental collapse under Putin's system.",
+        "url": "https://www.aljazeera.com/opinions/2026/5/8/the-disaster-unfolding-on-russias-black-sea-coast-is-of-its-own-making?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Trellix source code breach claimed by RansomHouse hackers",
+        "summary": "The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of images as proof of the intrusion.",
+        "url": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-07",
     "generatedAt": "2026-05-07T07:05:30.557540-07:00",
     "title": "Morning Brief \u2014 Thu May 07, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "Webinar: From noise to signal - What threat actors are targeting next",
         "summary": "Threat actors often signal their intentions before launching attacks, from dark web chatter to access-broker listings and credential requests.",
         "url": "https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-08",
-    "generatedAt": "2026-04-08T07:05:32.488636-07:00",
-    "title": "Morning Brief \u2014 Wed Apr 08, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Fog",
-      "temp": "56\u00b0F",
-      "feelsLike": "56\u00b0F",
-      "high": "80\u00b0F",
-      "low": "56\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
-        "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
-        "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "\u2018Stone Age\u2019 to \u2018Golden Age\u2019: How the final hours before the truce unfolded",
-        "summary": "Frantic diplomacy collides with 'genocidal' threats in lead-up to announcement of two-week ceasefire between US, Iran.",
-        "url": "https://www.aljazeera.com/news/2026/4/8/stone-age-to-golden-age-how-the-final-hours-before-the-truce-unfolded?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Microsoft rolls out fix for broken Windows Start Menu search",
-        "summary": "Microsoft has pushed a server-side fix for a known issue that broke the Windows Start Menu search feature on some Windows 11 23H2 devices. [...]",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/"
       }
     ]
   }
