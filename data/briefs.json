@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-09",
+    "generatedAt": "2026-05-09T07:05:20.720917-07:00",
+    "title": "Morning Brief \u2014 Sat May 09, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "61\u00b0F",
+      "feelsLike": "62\u00b0F",
+      "high": "78\u00b0F",
+      "low": "58\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Putin denounces Nato at scaled back Victory Day parade",
+        "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
+        "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Bahrain rounds up dozens over alleged links to Iran\u2019s IRGC",
+        "summary": "The country's interior ministry said legal proceedings are under way against the 41 people arrested.",
+        "url": "https://www.aljazeera.com/news/2026/5/9/bahrain-rounds-up-dozens-over-alleged-links-to-irans-irgc?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
+        "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-08",
     "generatedAt": "2026-05-08T07:05:32.199450-07:00",
     "title": "Morning Brief \u2014 Fri May 08, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
         "summary": "Analysis of 1 billion CISA KEV remediation records reveal a breaking point for human-scale security. Qualys shows most critical flaws are exploited before defenders can patch them.",
         "url": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-09",
-    "generatedAt": "2026-04-09T07:05:32.740445-07:00",
-    "title": "Morning Brief \u2014 Thu Apr 09, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "62\u00b0F",
-      "feelsLike": "63\u00b0F",
-      "high": "80\u00b0F",
-      "low": "59\u00b0F",
-      "precipChance": "1%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC",
-        "summary": "Iran's deputy foreign minister says the US must choose between 'war and ceasefire'.",
-        "url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Is the world economy heading towards stagflation?",
-        "summary": "Is the world economy heading towards stagflation?",
-        "url": "https://www.aljazeera.com/video/money-works/2026/4/9/is-the-world-economy-heading-towards-stagflation?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Webinar: From noise to signal - What threat actors are targeting next",
-        "summary": "Threat actors often signal their intentions before launching attacks, from dark web chatter to access-broker listings and credential requests.",
-        "url": "https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/"
       }
     ]
   }
