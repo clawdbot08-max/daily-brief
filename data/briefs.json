@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-11",
+    "generatedAt": "2026-05-11T07:05:17.515664-07:00",
+    "title": "Morning Brief \u2014 Mon May 11, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Partly cloudy",
+      "temp": "59\u00b0F",
+      "feelsLike": "60\u00b0F",
+      "high": "83\u00b0F",
+      "low": "57\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "US and French nationals test positive for hantavirus after leaving ship",
+        "summary": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
+        "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Where did the hantavirus outbreak start, and where has it spread?",
+        "summary": "The US and France are the latest to confirm hantavirus cases as evacuations from a cruise ship are under way.",
+        "url": "https://www.aljazeera.com/news/2026/5/11/where-did-the-hantavirus-outbreak-start-and-where-has-it-spread?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Why Changing Passwords Doesn\u2019t End an Active Directory Breach",
+        "summary": "Resetting a password doesn't always remove attackers from Active Directory.",
+        "url": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-09",
     "generatedAt": "2026-05-09T07:05:20.720917-07:00",
     "title": "Morning Brief \u2014 Sat May 09, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "ChatGPT rolls out new $100 Pro subscription to challenge Claude",
         "summary": "OpenAI has rolled out a new Pro subscription that costs $100 and is in line with Claude's pricing, which also has a $100 subscription, in addition to the $200 Max monthly plan.",
         "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-10",
-    "generatedAt": "2026-04-10T07:05:34.815691-07:00",
-    "title": "Morning Brief \u2014 Fri Apr 10, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "62\u00b0F",
-      "feelsLike": "64\u00b0F",
-      "high": "72\u00b0F",
-      "low": "60\u00b0F",
-      "precipChance": "9%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
-        "summary": "The US president accused Iran of \"doing a very poor job\" with the waterway as Israel and Lebanon to begin peace talks.",
-        "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Israel threatens healthcare as it continues to attack Lebanon",
-        "summary": "Israel threatens healthcare as it continues to attack Lebanon",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israel-threatens-healthcare-as-it-continues-to-attack-lebanon?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
-        "summary": "Analysis of 1 billion CISA KEV remediation records reveal a breaking point for human-scale security. Qualys shows most critical flaws are exploited before defenders can patch them.",
-        "url": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/"
       }
     ]
   }
