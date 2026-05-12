@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-12",
+    "generatedAt": "2026-05-12T07:05:17.105247-07:00",
+    "title": "Morning Brief \u2014 Tue May 12, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Fog",
+      "temp": "58\u00b0F",
+      "feelsLike": "60\u00b0F",
+      "high": "70\u00b0F",
+      "low": "57\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Trump says Iran ceasefire is on 'massive life support'",
+        "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+        "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Uganda\u2019s Yoweri Museveni sworn in for seventh term as president",
+        "summary": "The 81-year-old, who has been in power since 1986, won a January election amid reports of intimidation and abductions.",
+        "url": "https://www.aljazeera.com/news/2026/5/12/ugandas-yoweri-museveni-sworn-in-for-seventh-term-as-president?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
+        "summary": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-11",
     "generatedAt": "2026-05-11T07:05:17.515664-07:00",
     "title": "Morning Brief \u2014 Mon May 11, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "Over 20,000 crypto fraud victims identified in international crackdown",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-11",
-    "generatedAt": "2026-04-11T07:06:59.223377-07:00",
-    "title": "Morning Brief \u2014 Sat Apr 11, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "56\u00b0F",
-      "feelsLike": "56\u00b0F",
-      "high": "69\u00b0F",
-      "low": "56\u00b0F",
-      "precipChance": "9%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Artemis crew home safely after completing historic mission to the Moon",
-        "summary": "Four astronauts splashed down in the Pacific after a nine-day voyage that took them further from Earth than any humans.",
-        "url": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Arsenal shocked by Bournemouth, offering Man City Premier League lifeline",
-        "summary": "Arsenal lose 2-1 at home to Bournemouth as Premier League lead remains at 9 points but Man City have two games in hand.",
-        "url": "https://www.aljazeera.com/sports/2026/4/11/arsenal-shocked-by-bournemouth-offering-man-city-premier-league-lifeline?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "ChatGPT rolls out new $100 Pro subscription to challenge Claude",
-        "summary": "OpenAI has rolled out a new Pro subscription that costs $100 and is in line with Claude's pricing, which also has a $100 subscription, in addition to the $200 Max monthly plan.",
-        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/"
       }
     ]
   }
