@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-13",
+    "generatedAt": "2026-05-13T07:05:33.389084-07:00",
+    "title": "Morning Brief \u2014 Wed May 13, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "61\u00b0F",
+      "feelsLike": "61\u00b0F",
+      "high": "73\u00b0F",
+      "low": "59\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Trump arrives in China for high-stakes meeting with Xi Jinping",
+        "summary": "The leaders of the global superpowers are expected to discuss the war in Iran, tariffs, AI and Taiwan during the two-day visit.",
+        "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Japan suspends Australian rugby coach Jones for verbally abusing officials",
+        "summary": "Eddie Jones suspended for four games over 'verbal abuse' of officials during Australian tour.",
+        "url": "https://www.aljazeera.com/news/2026/5/13/japan-suspends-australian-rugby-coach-jones-for-verbally-abusing-officials?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
+        "summary": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-12",
     "generatedAt": "2026-05-12T07:05:17.105247-07:00",
     "title": "Morning Brief \u2014 Tue May 12, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "Critical Marimo pre-auth RCE flaw now under active exploitation",
         "summary": "A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-12",
-    "generatedAt": "2026-04-12T07:05:32.623801-07:00",
-    "title": "Morning Brief \u2014 Sun Apr 12, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "61\u00b0F",
-      "feelsLike": "57\u00b0F",
-      "high": "63\u00b0F",
-      "low": "52\u00b0F",
-      "precipChance": "46%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "After Iran talks falter, the big question is 'what happens next?'",
-        "summary": "Twenty-one hours was not enough to end 47 years of hostility between Iran and the US, writes the BBC's Lyse Doucet.",
-        "url": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Palestinians condemn storming of Al-Aqsa Mosque by Israel\u2019s Ben-Gvir",
-        "summary": "Israel\u2019s far-right security minister storms mosque compound with protection, drawing condemnation from Palestinians.",
-        "url": "https://www.aljazeera.com/news/2026/4/12/palestinians-condemn-storming-of-al-aqsa-mosque-by-israels-ben-gvir?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Over 20,000 crypto fraud victims identified in international crackdown",
-        "summary": "",
-        "url": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/"
       }
     ]
   }
