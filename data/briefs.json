@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-14",
+    "generatedAt": "2026-05-14T07:05:27.440064-07:00",
+    "title": "Morning Brief \u2014 Thu May 14, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Partly cloudy",
+      "temp": "60\u00b0F",
+      "feelsLike": "60\u00b0F",
+      "high": "75\u00b0F",
+      "low": "56\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+        "summary": "The leaders of the world's two superpowers were all smiles for the cameras during the US president's visit to Beijing.",
+        "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Iran still waiting for US visas less than a month before World Cup",
+        "summary": "Farewell ceremony for Iran's football team in Tehran on Wednesday, but US visas yet to be issued reports media.",
+        "url": "https://www.aljazeera.com/sports/2026/5/14/iran-still-waiting-on-us-visas-for-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "KongTuke hackers now use Microsoft Teams for corporate breaches",
+        "summary": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-13",
     "generatedAt": "2026-05-13T07:05:33.389084-07:00",
     "title": "Morning Brief \u2014 Wed May 13, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "European Gym giant Basic-Fit data breach affects 1 million members",
         "summary": "Dutch fitness giant Basic-Fit announced that hackers breached its systems and gained access to information belonging to a million of its customers. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-13",
-    "generatedAt": "2026-04-13T07:05:37.752673-07:00",
-    "title": "Morning Brief \u2014 Mon Apr 13, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Partly cloudy",
-      "temp": "55\u00b0F",
-      "feelsLike": "53\u00b0F",
-      "high": "65\u00b0F",
-      "low": "54\u00b0F",
-      "precipChance": "12%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Orb\u00e1n era swept away by P\u00e9ter Magyar's Hungary election landslide",
-        "summary": "Viktor Orb\u00e1n's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
-        "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Israeli forces kill three Palestinians in Gaza, arrest dozens in West Bank",
-        "summary": "Attacks come as Palestinian groups meet mediators from Egypt, Turkiye and Qatar in Cairo to discuss fragile 'ceasefire'.",
-        "url": "https://www.aljazeera.com/news/2026/4/13/israeli-forces-kill-three-palestinians-in-gaza-arrest-dozens-in-west-bank?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Critical Marimo pre-auth RCE flaw now under active exploitation",
-        "summary": "A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/"
       }
     ]
   }
