@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-15",
+    "generatedAt": "2026-05-15T07:05:27.641027-07:00",
+    "title": "Morning Brief \u2014 Fri May 15, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "61\u00b0F",
+      "feelsLike": "61\u00b0F",
+      "high": "73\u00b0F",
+      "low": "57\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
+        "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
+        "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "78 years later: Palestinians are still denied their right to return.",
+        "summary": "78 years ago, 800,000 Palestinians were displaced by zionist militias. Today, their grandchildren are still refugees.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/78-years-later-palestinians-are-still-denied-their-right-to-return?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Microsoft to automatically roll back faulty Windows drivers",
+        "summary": "Microsoft is introducing a new capability that will allow it to remotely roll back problematic Windows drivers delivered through Windows Update. [...]",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-14",
     "generatedAt": "2026-05-14T07:05:27.440064-07:00",
     "title": "Morning Brief \u2014 Thu May 14, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "Microsoft: April updates trigger BitLocker key prompts on some servers",
         "summary": "Microsoft confirmed on Tuesday that some Windows Server 2025 devices will boot into BitLocker recovery after installing the April 2026 KB5082063 Windows security update. [...]",
         "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-14",
-    "generatedAt": "2026-04-14T07:05:19.952252-07:00",
-    "title": "Morning Brief \u2014 Tue Apr 14, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "51\u00b0F",
-      "feelsLike": "48\u00b0F",
-      "high": "73\u00b0F",
-      "low": "51\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
-        "summary": "The Lebanese government go into peace talks with limited influence over the group.",
-        "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Spain\u2019s Guardemo still critical in ICU 2 weeks after cycling crash with car",
-        "summary": "Jaume Guardeno sustained serious injuries after collision with a car at the end of a Volta a Catalunya cycling race.",
-        "url": "https://www.aljazeera.com/sports/2026/4/14/spains-guardemo-still-critical-in-icu-2-weeks-after-cycling-crash-with-car?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "European Gym giant Basic-Fit data breach affects 1 million members",
-        "summary": "Dutch fitness giant Basic-Fit announced that hackers breached its systems and gained access to information belonging to a million of its customers. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/"
       }
     ]
   }
