@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-17",
+    "generatedAt": "2026-05-17T07:05:18.414512-07:00",
+    "title": "Morning Brief \u2014 Sun May 17, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "62\u00b0F",
+      "feelsLike": "62\u00b0F",
+      "high": "73\u00b0F",
+      "low": "60\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "WHO declares Ebola outbreak in DR Congo an international emergency",
+        "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
+        "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "How will Izz al-Din al-Haddad assassination impact Hamas\u2019s Gaza operations?",
+        "summary": "Israel's killing of Hamas's top commander Izz al-Din al-Haddad tests the Gaza ceasefire as the group pledges to adapt.",
+        "url": "https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
+        "summary": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE.",
+        "url": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-16",
     "generatedAt": "2026-05-16T07:05:22.062367-07:00",
     "title": "Morning Brief \u2014 Sat May 16, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "Webinar: From phishing to fallout \u2014 Why MSPs must rethink both security and recovery",
         "summary": "Cyberattacks are evolving faster than many MSP and corporate defenses can keep up, with phishing driving much of today's cybercrime.",
         "url": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-16",
-    "generatedAt": "2026-04-16T07:05:21.682840-07:00",
-    "title": "Morning Brief \u2014 Thu Apr 16, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Mainly clear",
-      "temp": "55\u00b0F",
-      "feelsLike": "53\u00b0F",
-      "high": "75\u00b0F",
-      "low": "55\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
-        "summary": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
-        "url": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Legal migrants remain vulnerable to trafficking",
-        "summary": "Debt, employer control and temporary visa rules can leave migrant workers trapped.",
-        "url": "https://www.aljazeera.com/opinions/2026/4/16/legal-migrants-remain-vulnerable-to-trafficking?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Cisco says critical Webex Services flaw requires customer action",
-        "summary": "",
-        "url": "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/"
       }
     ]
   }
