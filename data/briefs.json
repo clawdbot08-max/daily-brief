@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-18",
+    "generatedAt": "2026-05-18T07:05:28.868144-07:00",
+    "title": "Morning Brief \u2014 Mon May 18, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Partly cloudy",
+      "temp": "61\u00b0F",
+      "feelsLike": "62\u00b0F",
+      "high": "78\u00b0F",
+      "low": "59\u00b0F",
+      "precipChance": "1%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "At least six Americans exposed to Ebola during DR Congo outbreak",
+        "summary": "One of the six Americans believed to have been exposed is experiencing symptoms, according to media reports.",
+        "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Ebola, hantavirus: Is the world prepared for the next pandemic?",
+        "summary": "Funding cuts in health research, and the antivaccine movement make it challenging to respond to viruses.",
+        "url": "https://www.aljazeera.com/news/2026/5/18/ebola-hantavirus-is-the-world-prepared-for-the-next-pandemic?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Grafana says stolen GitHub token let hackers steal codebase",
+        "summary": "Grafana Labs disclosed that hackers have downloaded its source code after breaching its GitHub environment using a stolen access token. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-17",
     "generatedAt": "2026-05-17T07:05:18.414512-07:00",
     "title": "Morning Brief \u2014 Sun May 17, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support",
         "summary": "NAKIVO Inc. announced the general availability of NAKIVO Backup & Replication v11.2, focused on fast, reliable, and proactive data protection. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-17",
-    "generatedAt": "2026-04-17T07:05:19.692211-07:00",
-    "title": "Morning Brief \u2014 Fri Apr 17, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "56\u00b0F",
-      "feelsLike": "56\u00b0F",
-      "high": "77\u00b0F",
-      "low": "54\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "What we know about the Israel-Lebanon ceasefire",
-        "summary": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.",
-        "url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "\u2018Waiting without answers\u2019: Gaza mother\u2019s fear for her three imprisoned sons",
-        "summary": "As Palestinians mark Prisoners' Day, Inaam al-Dahdouh waits for news of her three sons, taken by Israel two years ago.",
-        "url": "https://www.aljazeera.com/features/2026/4/17/waiting-without-answers-gaza-mothers-fear-for-her-three-imprisoned-sons?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Webinar: From phishing to fallout \u2014 Why MSPs must rethink both security and recovery",
-        "summary": "Cyberattacks are evolving faster than many MSP and corporate defenses can keep up, with phishing driving much of today's cybercrime.",
-        "url": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/"
       }
     ]
   }
