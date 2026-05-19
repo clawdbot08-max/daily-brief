@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-19",
+    "generatedAt": "2026-05-19T07:05:16.474440-07:00",
+    "title": "Morning Brief \u2014 Tue May 19, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "58\u00b0F",
+      "feelsLike": "58\u00b0F",
+      "high": "86\u00b0F",
+      "low": "56\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
+        "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
+        "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Why has FIFA not signed a World Cup broadcast deal in India?",
+        "summary": "With the World Cup weeks away, FIFA is struggling to find broadcast rights buyers in the world\u2019s most populous country.",
+        "url": "https://www.aljazeera.com/news/2026/5/19/why-has-fifa-not-signed-a-world-cup-broadcast-deal-in-india?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation",
+        "summary": "Microsoft's total vulnerability count stayed steady in 2025, but critical flaws surged year over year.",
+        "url": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-18",
     "generatedAt": "2026-05-18T07:05:28.868144-07:00",
     "title": "Morning Brief \u2014 Mon May 18, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "Critical flaw in Protobuf library enables JavaScript code execution",
         "summary": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers.",
         "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-18",
-    "generatedAt": "2026-04-18T07:05:16.564636-07:00",
-    "title": "Morning Brief \u2014 Sat Apr 18, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "56\u00b0F",
-      "feelsLike": "52\u00b0F",
-      "high": "84\u00b0F",
-      "low": "55\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Madonna joins Sabrina Carpenter to surprise Coachella",
-        "summary": "The Queen of Pop makes a guest appearance during the Espresso singer's headline set.",
-        "url": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Trump claims on Iranian concessions trigger questions, rejections in Tehran",
-        "summary": "The political drama culminates with the IRGC announcing that the Strait of Hormuz is once again restricted.",
-        "url": "https://www.aljazeera.com/news/2026/4/18/trump-claims-on-iranian-concessions-trigger-questions-rejections-in-tehran?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support",
-        "summary": "NAKIVO Inc. announced the general availability of NAKIVO Backup & Replication v11.2, focused on fast, reliable, and proactive data protection. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/"
       }
     ]
   }
