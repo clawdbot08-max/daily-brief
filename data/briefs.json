@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-20",
+    "generatedAt": "2026-05-20T07:05:17.121435-07:00",
+    "title": "Morning Brief \u2014 Wed May 20, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "61\u00b0F",
+      "feelsLike": "59\u00b0F",
+      "high": "88\u00b0F",
+      "low": "60\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Xi basks in spotlight as he hosts Putin days after Trump",
+        "summary": "Two presidential visits days apart is how Xi Jinping wants the world to see him: talking to everyone, tied to no-one.",
+        "url": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Israel\u2019s ambassador to Christians gives rose-coloured spiel",
+        "summary": "George Deek, Israel\u2019s \u2018ambassador to Christians\u2019 released a statement on X, to Christians in the region and globally.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israels-ambassador-to-christians-gives-rose-coloured-spiel?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Drupal critical update to fix bug with high exploitation risk",
+        "summary": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-19",
     "generatedAt": "2026-05-19T07:05:16.474440-07:00",
     "title": "Morning Brief \u2014 Tue May 19, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "British Scattered Spider hacker pleads guilty to crypto theft charges",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-19",
-    "generatedAt": "2026-04-19T07:05:17.513035-07:00",
-    "title": "Morning Brief \u2014 Sun Apr 19, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Partly cloudy",
-      "temp": "59\u00b0F",
-      "feelsLike": "58\u00b0F",
-      "high": "77\u00b0F",
-      "low": "57\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Australia's most-decorated soldier vows to fight war crime charges",
-        "summary": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week.",
-        "url": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Displaced Lebanese woman returns to find home destroyed after ceasefire",
-        "summary": "A displaced woman returned to southern Lebanon after a ceasefire to find her house reduced to rubble.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/displaced-lebanese-woman-returns-to-find-home-destroyed-after-ceasefire?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Critical flaw in Protobuf library enables JavaScript code execution",
-        "summary": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers.",
-        "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/"
       }
     ]
   }
