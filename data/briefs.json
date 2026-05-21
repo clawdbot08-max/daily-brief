@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-21",
+    "generatedAt": "2026-05-21T07:05:18.510693-07:00",
+    "title": "Morning Brief \u2014 Thu May 21, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "62\u00b0F",
+      "feelsLike": "63\u00b0F",
+      "high": "83\u00b0F",
+      "low": "59\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Iran steps up claim to control Strait of Hormuz",
+        "summary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
+        "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "What\u2019s Trump\u2019s \u2018anti-weaponisation fund\u2019 and why are legal experts alarmed?",
+        "summary": "Democrats argue that the fund will be used to compensate January 6 rioters pardoned by Trump.",
+        "url": "https://www.aljazeera.com/news/2026/5/21/whats-trumps-anti-weaponisation-fund-and-why-are-legal-experts-alarmed?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
+        "summary": "Modern crypto drainers don't hack wallets. They trick users into approving malicious transactions.",
+        "url": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-20",
     "generatedAt": "2026-05-20T07:05:17.121435-07:00",
     "title": "Morning Brief \u2014 Wed May 20, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "UK probes Telegram, teen chat sites over CSAM sharing concerns",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-20",
-    "generatedAt": "2026-04-20T07:05:23.838617-07:00",
-    "title": "Morning Brief \u2014 Mon Apr 20, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "56\u00b0F",
-      "feelsLike": "56\u00b0F",
-      "high": "73\u00b0F",
-      "low": "53\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
-        "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week,",
-        "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Powerful states are trying to sabotage decarbonisation of shipping",
-        "summary": "Pacific Island states cannot and will not allow key climate shipping agreement to be watered down.",
-        "url": "https://www.aljazeera.com/opinions/2026/4/20/powerful-states-are-trying-to-sabotage-decarbonisation-of-shipping?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "British Scattered Spider hacker pleads guilty to crypto theft charges",
-        "summary": "",
-        "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/"
       }
     ]
   }
