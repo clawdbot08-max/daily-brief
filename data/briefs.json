@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-22",
+    "generatedAt": "2026-05-22T07:05:28.510005-07:00",
+    "title": "Morning Brief \u2014 Fri May 22, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "62\u00b0F",
+      "feelsLike": "63\u00b0F",
+      "high": "73\u00b0F",
+      "low": "58\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Nato chief welcomes US sending 5,000 troops to Poland",
+        "summary": "President Trump's announcement on Thursday night came ahead of a meeting of Nato foreign ministers.",
+        "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "South Korean activists smash Starbucks cups to protest \u2018Tank Day\u2019 campaign",
+        "summary": "South Korean activists smash Starbucks cups to protest \u2018Tank Day\u2019 campaign",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/south-korean-activists-smash-starbucks-cups-to-protest-tank-day-campaign?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Trend Micro warns of Apex One zero-day exploited in the wild",
+        "summary": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-21",
     "generatedAt": "2026-05-21T07:05:18.510693-07:00",
     "title": "Morning Brief \u2014 Thu May 21, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "New npm supply-chain attack self-spreads to steal auth tokens",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-21",
-    "generatedAt": "2026-04-21T07:05:35.827544-07:00",
-    "title": "Morning Brief \u2014 Tue Apr 21, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "55\u00b0F",
-      "feelsLike": "53\u00b0F",
-      "high": "68\u00b0F",
-      "low": "53\u00b0F",
-      "precipChance": "26%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
-        "summary": "US envoy Steve Witkoff and Donald Trump's son-in-law Jared Kushner have travelled to Moscow several times, but never to Kyiv.",
-        "url": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Palestine weekly wrap: Coordinated attacks and evictions in Gaza, West Bank",
-        "summary": "The killings of Palestinians in Gaza and settler violence across the West Bank are both continuing to surge.",
-        "url": "https://www.aljazeera.com/news/2026/4/21/palestine-weekly-wrap-coordinated-attacks-and-evictions-in-gaza-west-bank?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "UK probes Telegram, teen chat sites over CSAM sharing concerns",
-        "summary": "",
-        "url": "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/"
       }
     ]
   }
