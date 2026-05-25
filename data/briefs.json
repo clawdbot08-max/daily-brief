@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-25",
+    "generatedAt": "2026-05-25T07:05:19.527705-07:00",
+    "title": "Morning Brief \u2014 Mon May 25, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "58\u00b0F",
+      "feelsLike": "58\u00b0F",
+      "high": "74\u00b0F",
+      "low": "54\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Deal with US not imminent, Iran says",
+        "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
+        "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Baloch separatists \u2018take advantage\u2019 of Pakistan\u2019s entanglements",
+        "summary": "Baloch separatists 'take advantage' of Pakistan's entanglements",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/baloch-separatists-take-advantage-of-pakistans-entanglements?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-24",
     "generatedAt": "2026-05-24T07:05:17.320458-07:00",
     "title": "Morning Brief \u2014 Sun May 24, 2026",
@@ -1591,61 +1646,6 @@
         "headline": "ADT confirms data breach after ShinyHunters leak threat",
         "summary": "Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-24",
-    "generatedAt": "2026-04-24T07:05:18.187712-07:00",
-    "title": "Morning Brief \u2014 Fri Apr 24, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Mainly clear",
-      "temp": "56\u00b0F",
-      "feelsLike": "54\u00b0F",
-      "high": "77\u00b0F",
-      "low": "54\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
-        "summary": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
-        "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Pro-Palestinian activists break into suspected Elbit Systems drone factory",
-        "summary": "Pro-Palestine activists have broken into a UK factory where they said drones were being made for Israel\u2019s military.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/pro-palestinian-activists-break-into-suspected-elbit-systems-drone-factory?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks",
-        "summary": "Over 10,000 Zimbra Collaboration Suite (ZCS) instances exposed online are vulnerable to ongoing attacks exploiting a cross-site scripting (XSS) security flaw. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/"
       }
     ]
   }
