@@ -1,5 +1,55 @@
 [
   {
+    "date": "2026-05-26",
+    "generatedAt": "2026-05-26T07:05:28.420138-07:00",
+    "title": "Morning Brief \u2014 Tue May 26, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "unavailable"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Iran condemns US strikes as 'gross violation' of ceasefire",
+        "summary": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.",
+        "url": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Al Jazeera speaks to Hajj pilgrims about their journey to Mecca",
+        "summary": "Pilgrims gather on the Day of Arafah, the spiritual peak of Hajj, retracing the Prophet Muhammad\u2019s final sermon.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/al-jazeera-speaks-to-hajj-pilgrims-about-their-journey-to-mecca?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Microsoft Defender can now automatically isolate hacked endpoints",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-25",
     "generatedAt": "2026-05-25T07:05:19.527705-07:00",
     "title": "Morning Brief \u2014 Mon May 25, 2026",
@@ -1591,61 +1641,6 @@
         "headline": "Microsoft rolls out revamped Windows Insider Program",
         "summary": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11.",
         "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-25",
-    "generatedAt": "2026-04-25T07:05:37.100014-07:00",
-    "title": "Morning Brief \u2014 Sat Apr 25, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "58\u00b0F",
-      "feelsLike": "58\u00b0F",
-      "high": "67\u00b0F",
-      "low": "56\u00b0F",
-      "precipChance": "13%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
-        "summary": "Witnesses report clashes in the centre and north of the country in what has been described as the largest jihadist attack in years.",
-        "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Israeli attacks kill four in southern Lebanon",
-        "summary": "Raids on a truck and a motorcycle in the town of Yohmor al-Shaqif kill four people, state media report.",
-        "url": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "ADT confirms data breach after ShinyHunters leak threat",
-        "summary": "Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/"
       }
     ]
   }
