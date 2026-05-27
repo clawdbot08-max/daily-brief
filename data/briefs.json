@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-27",
+    "generatedAt": "2026-05-27T07:05:27.368654-07:00",
+    "title": "Morning Brief \u2014 Wed May 27, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "58\u00b0F",
+      "feelsLike": "57\u00b0F",
+      "high": "67\u00b0F",
+      "low": "56\u00b0F",
+      "precipChance": "1%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+        "summary": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread",
+        "url": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "What is the Lobito Corridor, cited by US Africa envoy as model for ties?",
+        "summary": "Washington is set on a trade-focused shift in Africa, but critics say it facilitates further plundering of resources.",
+        "url": "https://www.aljazeera.com/news/2026/5/27/what-is-the-lobito-corridor-cited-by-us-africa-envoy-as-model-for-ties?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Glassworm botnet disrupted after resilient C2 infrastructure takedown",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-26",
     "generatedAt": "2026-05-26T07:05:28.420138-07:00",
     "title": "Morning Brief \u2014 Tue May 26, 2026",
@@ -1586,61 +1641,6 @@
         "headline": "Medtronic confirms breach after hackers claim 9 million records theft",
         "summary": "Medical device giant Medtronic disclosed last week that hackers breached its network and accessed data in \"certain corporate IT systems.\" [...]",
         "url": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-26",
-    "generatedAt": "2026-04-26T07:05:38.470638-07:00",
-    "title": "Morning Brief \u2014 Sun Apr 26, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Mainly clear",
-      "temp": "55\u00b0F",
-      "feelsLike": "53\u00b0F",
-      "high": "66\u00b0F",
-      "low": "54\u00b0F",
-      "precipChance": "19%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "I was in the room with Trump and heard the low thudding sound of gunfire",
-        "summary": "The BBC's Gary O'Donoghue describes the moment he and others dived for cover as shots rang out at the venue.",
-        "url": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Mali rattled by ongoing armed attacks: What to know",
-        "summary": "Mali's security situation has deteriorated in recent years, as armed groups have carried out coordinated attacks.",
-        "url": "https://www.aljazeera.com/news/2026/4/26/mali-rattled-by-ongoing-armed-attacks-what-to-know?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Microsoft rolls out revamped Windows Insider Program",
-        "summary": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11.",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/"
       }
     ]
   }
