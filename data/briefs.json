@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-28",
+    "generatedAt": "2026-05-28T07:05:27.876749-07:00",
+    "title": "Morning Brief \u2014 Thu May 28, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "55\u00b0F",
+      "feelsLike": "54\u00b0F",
+      "high": "70\u00b0F",
+      "low": "51\u00b0F",
+      "precipChance": "9%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Iran says it targeted American base after fresh US strikes",
+        "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+        "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Gold Rush: Did CIA agent steal $40m in gold bars via work expenses?",
+        "summary": "FBI says ex-CIA official David Rush repeatedly lied about his credentials in US government job applications.",
+        "url": "https://www.aljazeera.com/news/2026/5/28/gold-rush-how-cia-agent-stole-40m-in-gold-bars-via-work-expenses?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "How SIEM helps MSPs reduce noise and stop threats faster",
+        "summary": "MSPs don't lack security data. They struggle to separate real threats from alert noise. Kaseya explains how SIEM helps MSPs improve visibility, reduce fatigue, and respond faster.",
+        "url": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-27",
     "generatedAt": "2026-05-27T07:05:27.368654-07:00",
     "title": "Morning Brief \u2014 Wed May 27, 2026",
@@ -1586,61 +1641,6 @@
         "headline": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
         "summary": "Microsoft says it will start blocking legacy TLS connections for POP and IMAP email clients in Exchange Online starting in July 2026. [...]",
         "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-27",
-    "generatedAt": "2026-04-27T07:05:27.793937-07:00",
-    "title": "Morning Brief \u2014 Mon Apr 27, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "56\u00b0F",
-      "feelsLike": "54\u00b0F",
-      "high": "67\u00b0F",
-      "low": "54\u00b0F",
-      "precipChance": "3%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "What we're learning about suspected Washington press dinner gunman",
-        "summary": "The man arrested at the event attended by President Trump is due in court on Monday.",
-        "url": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "What does Trump shooting at White House dinner mean for World Cup security?",
-        "summary": "Football fans criticise security arrangements in World Cup cohost nation after assassination attempt on US president.",
-        "url": "https://www.aljazeera.com/sports/2026/4/27/what-does-trump-shooting-at-white-house-dinner-mean-for-world-cup-security?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Medtronic confirms breach after hackers claim 9 million records theft",
-        "summary": "Medical device giant Medtronic disclosed last week that hackers breached its network and accessed data in \"certain corporate IT systems.\" [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/"
       }
     ]
   }
