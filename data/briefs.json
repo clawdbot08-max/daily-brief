@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-29",
+    "generatedAt": "2026-05-29T07:05:29.002053-07:00",
+    "title": "Morning Brief \u2014 Fri May 29, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "60\u00b0F",
+      "feelsLike": "58\u00b0F",
+      "high": "71\u00b0F",
+      "low": "57\u00b0F",
+      "precipChance": "3%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Former US attorney general Pam Bondi testifies in congressional Epstein probe",
+        "summary": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump.",
+        "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Harvard Medical School graduate dedicates speech to Lebanon and Palestine",
+        "summary": "Harvard Medical School graduate Leen Ezzeddine dedicated her graduation speech to Palestine and Lebanon.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/harvard-medical-school-graduate-dedicates-speech-to-lebanon-and-palestine?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Google Chrome adds session cookie theft protection for all users",
+        "summary": "Google says the Chrome Device Bound Session Credentials (DBSC) security feature is now generally available and is rolling out to all users to prevent account takeovers. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-28",
     "generatedAt": "2026-05-28T07:05:27.876749-07:00",
     "title": "Morning Brief \u2014 Thu May 28, 2026",
@@ -1586,61 +1641,6 @@
         "headline": "Learning from the Vercel breach: Shadow AI & OAuth sprawl",
         "summary": "A single third-party OAuth integration can become a direct path into your environment.",
         "url": "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-28",
-    "generatedAt": "2026-04-28T07:05:29.465893-07:00",
-    "title": "Morning Brief \u2014 Tue Apr 28, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "52\u00b0F",
-      "feelsLike": "49\u00b0F",
-      "high": "72\u00b0F",
-      "low": "50\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Suspect charged with attempted assassination of Trump at Washington dinner",
-        "summary": "Investigators say the 31-year-old California man wanted to kill as many high-level officials as possible.",
-        "url": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "What\u2019s in Iran\u2019s latest proposal \u2013 and how has the US responded?",
-        "summary": "Trump administration signals rejection of Iran\u2019s offer, citing incomplete resolution of Tehran\u2019s nuclear ambitions.",
-        "url": "https://www.aljazeera.com/news/2026/4/28/whats-in-irans-latest-proposal-and-how-has-the-us-responded?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
-        "summary": "Microsoft says it will start blocking legacy TLS connections for POP and IMAP email clients in Exchange Online starting in July 2026. [...]",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/"
       }
     ]
   }
