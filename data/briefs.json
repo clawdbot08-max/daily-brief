@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-30",
+    "generatedAt": "2026-05-30T07:05:22.644622-07:00",
+    "title": "Morning Brief \u2014 Sat May 30, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "59\u00b0F",
+      "feelsLike": "59\u00b0F",
+      "high": "78\u00b0F",
+      "low": "55\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "No deal announced after Trump meeting to make 'final determination' on Iran",
+        "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
+        "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Israeli soldiers reach Nabatieh, one of southern Lebanon\u2019s biggest cities",
+        "summary": "Israel\u2019s military has advanced beyond Lebanon's Litani River for the first time since 2006.",
+        "url": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "ChatGPT share links abused to host fake outage pages to deliver malware",
+        "summary": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application.",
+        "url": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-29",
     "generatedAt": "2026-05-29T07:05:29.002053-07:00",
     "title": "Morning Brief \u2014 Fri May 29, 2026",
@@ -1586,61 +1641,6 @@
         "headline": "What Happens in the First 24 Hours After a New Asset Goes Live",
         "summary": "When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-29",
-    "generatedAt": "2026-04-29T07:05:39.491256-07:00",
-    "title": "Morning Brief \u2014 Wed Apr 29, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "53\u00b0F",
-      "feelsLike": "50\u00b0F",
-      "high": "77\u00b0F",
-      "low": "51\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Former US officials criticise Pentagon silence on deadly Iran school attack",
-        "summary": "In the two months since the deadly strike, the US defence department has said only that the incident is under investigation.",
-        "url": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Israeli strike kills five family members in Lebanon",
-        "summary": "Israeli strike kills five family members in Lebanon",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israeli-strike-kills-five-family-members-in-lebanon?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Learning from the Vercel breach: Shadow AI & OAuth sprawl",
-        "summary": "A single third-party OAuth integration can become a direct path into your environment.",
-        "url": "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/"
       }
     ]
   }
