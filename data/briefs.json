@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-31",
+    "generatedAt": "2026-05-31T07:05:25.118694-07:00",
+    "title": "Morning Brief \u2014 Sun May 31, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Mainly clear",
+      "temp": "60\u00b0F",
+      "feelsLike": "62\u00b0F",
+      "high": "83\u00b0F",
+      "low": "56\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+        "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
+        "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Satellite imagery shows erasure of southern Gaza as Israel expands control",
+        "summary": "Satellite images show transformation as Netanyahu orders military to occupy 70 percent of Gaza.",
+        "url": "https://www.aljazeera.com/news/2026/5/31/satellite-imagery-shows-erasure-of-southern-gaza-as-israel-expands-control?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-30",
     "generatedAt": "2026-05-30T07:05:22.644622-07:00",
     "title": "Morning Brief \u2014 Sat May 30, 2026",
@@ -1586,61 +1641,6 @@
         "headline": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
         "summary": "Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
         "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-30",
-    "generatedAt": "2026-04-30T07:05:29.950241-07:00",
-    "title": "Morning Brief \u2014 Thu Apr 30, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "57\u00b0F",
-      "feelsLike": "57\u00b0F",
-      "high": "75\u00b0F",
-      "low": "54\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-        "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
-        "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "US military equipment worth billions of dollars destroyed in Iran war",
-        "summary": "The United States lost aerial equipment worth up to $2.8bn, according to a US-based think tank.",
-        "url": "https://www.aljazeera.com/news/2026/4/30/us-military-equipment-worth-billions-of-dollars-destroyed-in-iran-war?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "What Happens in the First 24 Hours After a New Asset Goes Live",
-        "summary": "When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/"
       }
     ]
   }
