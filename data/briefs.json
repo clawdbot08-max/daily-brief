@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-01",
+    "generatedAt": "2026-06-01T07:05:29.660051-07:00",
+    "title": "Morning Brief \u2014 Mon Jun 01, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "62\u00b0F",
+      "feelsLike": "64\u00b0F",
+      "high": "82\u00b0F",
+      "low": "59\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "US says it struck Iranian radar sites as Iran targets American forces in Kuwait",
+        "summary": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning \"repeated\" Iranian attacks.",
+        "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "\u2018Spoiled insulin\u2019: Sudan war disrupts drug supplies, fuelling smuggling",
+        "summary": "As the conflict destroys local production, Sudanese patients are forced to rely on expensive, smuggled medicines.",
+        "url": "https://www.aljazeera.com/news/2026/6/1/spoiled-insulin-sudan-war-disrupts-drug-supplies-fuelling-smuggling?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Race Against Time: Why Faster Vulnerability Alerts Matter",
+        "summary": "Attackers are exploiting vulnerabilities faster than many organizations can identify and patch them.",
+        "url": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-31",
     "generatedAt": "2026-05-31T07:05:25.118694-07:00",
     "title": "Morning Brief \u2014 Sun May 31, 2026",
@@ -1586,61 +1641,6 @@
         "headline": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
         "summary": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]",
         "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-01",
-    "generatedAt": "2026-05-01T07:05:29.811184-07:00",
-    "title": "Morning Brief \u2014 Fri May 01, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "61\u00b0F",
-      "feelsLike": "61\u00b0F",
-      "high": "78\u00b0F",
-      "low": "58\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Billions of meals at risk due to Iran war, says fertiliser boss",
-        "summary": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
-        "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Howe says Saudi owners\u2019 desire for success at Newcastle remains unchanged",
-        "summary": "PIF said on Thursday that it would cut funding of LIV Golf at end of 2026 \u200bseason.",
-        "url": "https://www.aljazeera.com/sports/2026/5/1/howe-says-saudi-owners-desire-for-success-at-newcastle-remains-unchanged?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
-        "summary": "Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/"
       }
     ]
   }
