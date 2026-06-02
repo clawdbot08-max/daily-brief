@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-02",
+    "generatedAt": "2026-06-02T07:05:18.729709-07:00",
+    "title": "Morning Brief \u2014 Tue Jun 02, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "62\u00b0F",
+      "feelsLike": "63\u00b0F",
+      "high": "76\u00b0F",
+      "low": "59\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people",
+        "summary": "An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say.",
+        "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "World Cup delay for Switzerland\u2019s Embolo while US reviews travel document",
+        "summary": "Embolo is Switzerland's first-choice forward, with 24 goals in 86 internationals, but could not join the squad.",
+        "url": "https://www.aljazeera.com/sports/2026/6/2/fifa-world-cup-2026-switzerland-embolo-not-travelling-to-us-travel-authorisation-under-review?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-01",
     "generatedAt": "2026-06-01T07:05:29.660051-07:00",
     "title": "Morning Brief \u2014 Mon Jun 01, 2026",
@@ -1586,61 +1641,6 @@
         "headline": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
         "summary": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-02",
-    "generatedAt": "2026-05-02T07:05:28.996798-07:00",
-    "title": "Morning Brief \u2014 Sat May 02, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "58\u00b0F",
-      "feelsLike": "60\u00b0F",
-      "high": "77\u00b0F",
-      "low": "56\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
-        "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
-        "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "The dark side of Gaza\u2019s new fancy cafes and restaurants",
-        "summary": "The new establishments popping up in the devastated Strip reveal the a new genocidal reality.",
-        "url": "https://www.aljazeera.com/opinions/2026/5/2/the-dark-side-of-gazas-new-fancy-cafes-and-restaurants?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
-        "summary": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/"
       }
     ]
   }
