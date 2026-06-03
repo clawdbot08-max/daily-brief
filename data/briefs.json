@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-03",
+    "generatedAt": "2026-06-03T07:05:29.954818-07:00",
+    "title": "Morning Brief \u2014 Wed Jun 03, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "61\u00b0F",
+      "feelsLike": "63\u00b0F",
+      "high": "79\u00b0F",
+      "low": "60\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
+        "summary": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
+        "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Israel detains Palestine international women\u2019s football player",
+        "summary": "Rand Halawani's detention also saw four other women arrested on Tuesday, including a former Palestine player.",
+        "url": "https://www.aljazeera.com/sports/2026/6/3/israel-detains-palestine-international-football-player?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "What 345 Days of Untested Exposure Looks Like at a Bank",
+        "summary": "A two-week penetration test can leave roughly 345 days of real-world exposure unvalidated.",
+        "url": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-02",
     "generatedAt": "2026-06-02T07:05:18.729709-07:00",
     "title": "Morning Brief \u2014 Tue Jun 02, 2026",
@@ -1586,61 +1641,6 @@
         "headline": "They don\u2019t hack, they borrow: How fraudsters target credit unions",
         "summary": "Fraudsters aren't hacking credit unions, they are exploiting normal business processes.",
         "url": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-03",
-    "generatedAt": "2026-05-03T07:05:26.560189-07:00",
-    "title": "Morning Brief \u2014 Sun May 03, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "59\u00b0F",
-      "feelsLike": "59\u00b0F",
-      "high": "68\u00b0F",
-      "low": "58\u00b0F",
-      "precipChance": "2%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-        "summary": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
-        "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "US to cut troops in Germany as Iran war spat deepens",
-        "summary": "US-German relations are straining as a spat deepens between President Trump and Chancellor Merz over the war on Iran.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/us-to-cut-troops-in-germany-as-iran-war-spat-deepens?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
-        "summary": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/"
       }
     ]
   }
