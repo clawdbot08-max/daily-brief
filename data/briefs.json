@@ -1,5 +1,55 @@
 [
   {
+    "date": "2026-06-04",
+    "generatedAt": "2026-06-04T07:05:18.308116-07:00",
+    "title": "Morning Brief \u2014 Thu Jun 04, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "unavailable"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+        "summary": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says.",
+        "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Rights group sues South African government over US arms exports",
+        "summary": "Case challenges permits approved by South Africa\u2019s arms control body, citing compliance failures and oversight gaps.",
+        "url": "https://www.aljazeera.com/news/2026/6/4/rights-group-sues-south-african-government-over-us-arms-exports?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook",
+        "summary": "Threat actors are actively teaching newcomers how to find, exploit, and profit from vulnerable systems.",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-03",
     "generatedAt": "2026-06-03T07:05:29.954818-07:00",
     "title": "Morning Brief \u2014 Wed Jun 03, 2026",
@@ -1586,61 +1636,6 @@
         "headline": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Don't Check.",
         "summary": "Critical vulnerabilities can exist in open source software your scanners don't check.",
         "url": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-04",
-    "generatedAt": "2026-05-04T07:05:29.064126-07:00",
-    "title": "Morning Brief \u2014 Mon May 04, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "57\u00b0F",
-      "feelsLike": "58\u00b0F",
-      "high": "68\u00b0F",
-      "low": "56\u00b0F",
-      "precipChance": "9%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
-        "summary": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
-        "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Formula One plans return to V8 engines as electrical revolution loses spark",
-        "summary": "F1 cars could return to traditional V8 engines by 2030, FIA President Mohammed Ben Sulayem says at Miami GP.",
-        "url": "https://www.aljazeera.com/sports/2026/5/4/formula-one-plans-return-to-v8-engines-as-electrical-revolution-loses-spark?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "They don\u2019t hack, they borrow: How fraudsters target credit unions",
-        "summary": "Fraudsters aren't hacking credit unions, they are exploiting normal business processes.",
-        "url": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/"
       }
     ]
   }
