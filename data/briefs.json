@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-05",
+    "generatedAt": "2026-06-05T07:05:30.845125-07:00",
+    "title": "Morning Brief \u2014 Fri Jun 05, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "64\u00b0F",
+      "feelsLike": "66\u00b0F",
+      "high": "84\u00b0F",
+      "low": "63\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech",
+        "summary": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
+        "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Celtic fans oppose Keane as potential manager after Israel role",
+        "summary": "Ireland's record goalscorer Robbie Keane played for Celtic but his link to manager's job is facing criticism.",
+        "url": "https://www.aljazeera.com/sports/2026/6/5/celtic-fans-oppose-potential-keane-appointment-after-israel-role?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-04",
     "generatedAt": "2026-06-04T07:05:18.308116-07:00",
     "title": "Morning Brief \u2014 Thu Jun 04, 2026",
@@ -1581,61 +1636,6 @@
         "headline": "Why ransomware attacks succeed even when backups exist",
         "summary": "Backups don't fail because they're missing, they fail because attackers destroy them first.",
         "url": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-05",
-    "generatedAt": "2026-05-05T07:05:32.897748-07:00",
-    "title": "Morning Brief \u2014 Tue May 05, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "56\u00b0F",
-      "feelsLike": "54\u00b0F",
-      "high": "69\u00b0F",
-      "low": "54\u00b0F",
-      "precipChance": "4%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Hantavirus may have spread between passengers on cruise ship, WHO says",
-        "summary": "Two cases of the virus, which rarely spreads between humans, have been confirmed on the ship, and three people have died.",
-        "url": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Mapping Mali\u2019s gold and natural resource wealth",
-        "summary": "The West African country holds Africa's third-largest gold reserves, plus vast lithium and uranium deposits.",
-        "url": "https://www.aljazeera.com/news/2026/5/5/mapping-malis-gold-and-natural-resource-wealth?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Don't Check.",
-        "summary": "Critical vulnerabilities can exist in open source software your scanners don't check.",
-        "url": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/"
       }
     ]
   }
