@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-07",
+    "generatedAt": "2026-06-07T07:05:27.713883-07:00",
+    "title": "Morning Brief \u2014 Sun Jun 07, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "65\u00b0F",
+      "feelsLike": "66\u00b0F",
+      "high": "76\u00b0F",
+      "low": "60\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
+        "summary": "Ukrainian officials say a Russian drone hit a storage facility for spent nuclear fuel near the Chornobyl nuclear plant.",
+        "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Pope Leo urges youth to be \u2018sparks of a new humanity\u2019",
+        "summary": "Pope Leo XIV urged young people to be 'sparks of a new humanity'.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/pope-leo-urges-youth-to-be-sparks-of-a-new?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
+        "summary": "Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-06",
     "generatedAt": "2026-06-06T07:05:20.179775-07:00",
     "title": "Morning Brief \u2014 Sat Jun 06, 2026",
@@ -1581,61 +1636,6 @@
         "headline": "Trellix source code breach claimed by RansomHouse hackers",
         "summary": "The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of images as proof of the intrusion.",
         "url": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-07",
-    "generatedAt": "2026-05-07T07:05:30.557540-07:00",
-    "title": "Morning Brief \u2014 Thu May 07, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "56\u00b0F",
-      "feelsLike": "57\u00b0F",
-      "high": "79\u00b0F",
-      "low": "54\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Race to trace passengers who left hantavirus cruise ship at island",
-        "summary": "A 69-year-old woman who later died in South Africa is among those who left MV Hondius at St Helena.",
-        "url": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "PSG\u2019s Champions League win marred by night of violence and riots in Paris",
-        "summary": "Paris Saint-Germain claimed a 6-5 Champions League semifinal win over Bayern Munich, but it erupted in domestic trouble.",
-        "url": "https://www.aljazeera.com/sports/2026/5/7/psgs-champions-league-win-marred-by-night-of-violence-and-riots-in-paris?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Americans sentenced for running 'laptop farms' for North Korea",
-        "summary": "Two U.S.",
-        "url": "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/"
       }
     ]
   }
