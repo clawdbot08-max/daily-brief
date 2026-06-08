@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-08",
+    "generatedAt": "2026-06-08T07:05:34.155407-07:00",
+    "title": "Morning Brief \u2014 Mon Jun 08, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "64\u00b0F",
+      "feelsLike": "65\u00b0F",
+      "high": "78\u00b0F",
+      "low": "60\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Iran releases footage of missiles launched at Israel",
+        "summary": "Iran said its attacks were \"the beginning of a full week of continuous strikes.\"",
+        "url": "https://www.bbc.com/news/videos/c2kyd52wje4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "How extreme weather and heat could affect players at World Cup 2026",
+        "summary": "Climate experts warn that 25% of World Cup games could be played in very hot conditions, affecting fans and players.",
+        "url": "https://www.aljazeera.com/sports/2026/6/8/how-extreme-weather-and-heat-could-affect-players-at-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Reducing security operations complexity with Wazuh Cloud",
+        "summary": "Security teams are increasingly overwhelmed by alert fatigue, infrastructure maintenance, and complex hybrid environments.",
+        "url": "https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-07",
     "generatedAt": "2026-06-07T07:05:27.713883-07:00",
     "title": "Morning Brief \u2014 Sun Jun 07, 2026",
@@ -1581,61 +1636,6 @@
         "headline": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
         "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-08",
-    "generatedAt": "2026-05-08T07:05:32.199450-07:00",
-    "title": "Morning Brief \u2014 Fri May 08, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "61\u00b0F",
-      "feelsLike": "62\u00b0F",
-      "high": "79\u00b0F",
-      "low": "59\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
-        "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
-        "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "The disaster unfolding on Russia\u2019s Black Sea coast is of its own making",
-        "summary": "The pollution spreading across southern Russia exposes environmental collapse under Putin's system.",
-        "url": "https://www.aljazeera.com/opinions/2026/5/8/the-disaster-unfolding-on-russias-black-sea-coast-is-of-its-own-making?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Trellix source code breach claimed by RansomHouse hackers",
-        "summary": "The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of images as proof of the intrusion.",
-        "url": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/"
       }
     ]
   }
