@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-09",
+    "generatedAt": "2026-06-09T07:05:19.387507-07:00",
+    "title": "Morning Brief \u2014 Tue Jun 09, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "62\u00b0F",
+      "feelsLike": "62\u00b0F",
+      "high": "80\u00b0F",
+      "low": "58\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Trump tells BBC Netanyahu did not defy him",
+        "summary": "In a call with the US president, the BBC\u2019s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.",
+        "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Trump says in \u2018final throes\u2019 of peace deal but at least 8 killed in Tyre",
+        "summary": "The US president warned Netanyahu he would be on his own if attacks continue after Israel and Iran paused fighting.",
+        "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "French govt messaging service breached in account hijacking attack",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-08",
     "generatedAt": "2026-06-08T07:05:34.155407-07:00",
     "title": "Morning Brief \u2014 Mon Jun 08, 2026",
@@ -1581,61 +1636,6 @@
         "headline": "Why Changing Passwords Doesn\u2019t End an Active Directory Breach",
         "summary": "Resetting a password doesn't always remove attackers from Active Directory.",
         "url": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-09",
-    "generatedAt": "2026-05-09T07:05:20.720917-07:00",
-    "title": "Morning Brief \u2014 Sat May 09, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "61\u00b0F",
-      "feelsLike": "62\u00b0F",
-      "high": "78\u00b0F",
-      "low": "58\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Putin denounces Nato at scaled back Victory Day parade",
-        "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
-        "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Bahrain rounds up dozens over alleged links to Iran\u2019s IRGC",
-        "summary": "The country's interior ministry said legal proceedings are under way against the 41 people arrested.",
-        "url": "https://www.aljazeera.com/news/2026/5/9/bahrain-rounds-up-dozens-over-alleged-links-to-irans-irgc?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
-        "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/"
       }
     ]
   }
