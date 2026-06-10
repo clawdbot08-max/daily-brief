@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-10",
+    "generatedAt": "2026-06-10T07:05:20.870766-07:00",
+    "title": "Morning Brief \u2014 Wed Jun 10, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Clear sky",
+      "temp": "64\u00b0F",
+      "feelsLike": "66\u00b0F",
+      "high": "86\u00b0F",
+      "low": "61\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Trump and Iran trade new threats after strikes exchanged",
+        "summary": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
+        "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Eight red cards shown to Brazil in fiery friendly against US women",
+        "summary": "Four Brazilian players and four members of their coaching staff were sent off during a dramatic encounter in Fortaleza.",
+        "url": "https://www.aljazeera.com/sports/2026/6/10/eight-red-cards-shown-to-brazil-in-fiery-friendly-against-us-women?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Microsoft patches Exchange Server zero-day exploited in attacks",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-09",
     "generatedAt": "2026-06-09T07:05:19.387507-07:00",
     "title": "Morning Brief \u2014 Tue Jun 09, 2026",
@@ -1581,61 +1636,6 @@
         "headline": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
         "summary": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-11",
-    "generatedAt": "2026-05-11T07:05:17.515664-07:00",
-    "title": "Morning Brief \u2014 Mon May 11, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Partly cloudy",
-      "temp": "59\u00b0F",
-      "feelsLike": "60\u00b0F",
-      "high": "83\u00b0F",
-      "low": "57\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "US and French nationals test positive for hantavirus after leaving ship",
-        "summary": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
-        "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Where did the hantavirus outbreak start, and where has it spread?",
-        "summary": "The US and France are the latest to confirm hantavirus cases as evacuations from a cruise ship are under way.",
-        "url": "https://www.aljazeera.com/news/2026/5/11/where-did-the-hantavirus-outbreak-start-and-where-has-it-spread?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Why Changing Passwords Doesn\u2019t End an Active Directory Breach",
-        "summary": "Resetting a password doesn't always remove attackers from Active Directory.",
-        "url": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/"
       }
     ]
   }
