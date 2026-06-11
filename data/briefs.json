@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-11",
+    "generatedAt": "2026-06-11T07:05:33.554733-07:00",
+    "title": "Morning Brief \u2014 Thu Jun 11, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "66\u00b0F",
+      "feelsLike": "70\u00b0F",
+      "high": "87\u00b0F",
+      "low": "64\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "El Ni\u00f1o under way and threatens weather extremes, scientists say",
+        "summary": "An El Ni\u00f1o event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
+        "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Argentina fans denied US visas get free TVs to watch World Cup",
+        "summary": "Argentina fans denied US visas get free TVs to watch World Cup.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/argentina-fans-denied-us-visas-get-free-tvs-to-watch-world-cup?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Why AI-driven threats are exposing the limits of MSP security stacks",
+        "summary": "AI-driven attacks are exposing the limits of fragmented MSP security stacks and slow response workflows.",
+        "url": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-10",
     "generatedAt": "2026-06-10T07:05:20.870766-07:00",
     "title": "Morning Brief \u2014 Wed Jun 10, 2026",
@@ -1581,61 +1636,6 @@
         "headline": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
         "summary": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-12",
-    "generatedAt": "2026-05-12T07:05:17.105247-07:00",
-    "title": "Morning Brief \u2014 Tue May 12, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Fog",
-      "temp": "58\u00b0F",
-      "feelsLike": "60\u00b0F",
-      "high": "70\u00b0F",
-      "low": "57\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Trump says Iran ceasefire is on 'massive life support'",
-        "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
-        "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Uganda\u2019s Yoweri Museveni sworn in for seventh term as president",
-        "summary": "The 81-year-old, who has been in power since 1986, won a January election amid reports of intimidation and abductions.",
-        "url": "https://www.aljazeera.com/news/2026/5/12/ugandas-yoweri-museveni-sworn-in-for-seventh-term-as-president?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
-        "summary": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/"
       }
     ]
   }
