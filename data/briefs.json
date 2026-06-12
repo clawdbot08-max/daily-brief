@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-12",
+    "generatedAt": "2026-06-12T07:05:27.285415-07:00",
+    "title": "Morning Brief \u2014 Fri Jun 12, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Partly cloudy",
+      "temp": "67\u00b0F",
+      "feelsLike": "71\u00b0F",
+      "high": "87\u00b0F",
+      "low": "63\u00b0F",
+      "precipChance": "1%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Air India crash investigation update reveals few details",
+        "summary": "A statement said \"significant progress\" had been made into investigating the crash which left 260 people dead a year ago.",
+        "url": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Ukraine reclaims territory as it doubles attacks on Russian logistics",
+        "summary": "Ukraine says its 'lockdown' strategy is working as it disrupts Russian supply lines.",
+        "url": "https://www.aljazeera.com/news/2026/6/12/ukraine-reclaims-territory-in-may-as-it-doubles-strikes-on-russian-logistic?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Microsoft fixes Windows update failures linked to WUSA installer",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-11",
     "generatedAt": "2026-06-11T07:05:33.554733-07:00",
     "title": "Morning Brief \u2014 Thu Jun 11, 2026",
@@ -1581,61 +1636,6 @@
         "headline": "KongTuke hackers now use Microsoft Teams for corporate breaches",
         "summary": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-13",
-    "generatedAt": "2026-05-13T07:05:33.389084-07:00",
-    "title": "Morning Brief \u2014 Wed May 13, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "61\u00b0F",
-      "feelsLike": "61\u00b0F",
-      "high": "73\u00b0F",
-      "low": "59\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Trump arrives in China for high-stakes meeting with Xi Jinping",
-        "summary": "The leaders of the global superpowers are expected to discuss the war in Iran, tariffs, AI and Taiwan during the two-day visit.",
-        "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Japan suspends Australian rugby coach Jones for verbally abusing officials",
-        "summary": "Eddie Jones suspended for four games over 'verbal abuse' of officials during Australian tour.",
-        "url": "https://www.aljazeera.com/news/2026/5/13/japan-suspends-australian-rugby-coach-jones-for-verbally-abusing-officials?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
-        "summary": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/"
       }
     ]
   }
