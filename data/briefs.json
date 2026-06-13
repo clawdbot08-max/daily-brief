@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-13",
+    "generatedAt": "2026-06-13T07:05:18.537938-07:00",
+    "title": "Morning Brief \u2014 Sat Jun 13, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Mainly clear",
+      "temp": "66\u00b0F",
+      "feelsLike": "70\u00b0F",
+      "high": "81\u00b0F",
+      "low": "63\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+        "summary": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
+        "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Fans reveal how much they paid for World Cup tickets",
+        "summary": "World Cup fans reveal how much they paid for a seat at the US\u2019s opening game against Paraguay.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/fans-reveal-how-much-they-paid-for-world-cup-tickets?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
+        "summary": "The US government has ordered Anthropic to block all foreign nationals from accessing Fable 5 and Mythos 5, forcing the company to suspend both models worldwide.",
+        "url": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-12",
     "generatedAt": "2026-06-12T07:05:27.285415-07:00",
     "title": "Morning Brief \u2014 Fri Jun 12, 2026",
@@ -1581,61 +1636,6 @@
         "headline": "Microsoft to automatically roll back faulty Windows drivers",
         "summary": "Microsoft is introducing a new capability that will allow it to remotely roll back problematic Windows drivers delivered through Windows Update. [...]",
         "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-14",
-    "generatedAt": "2026-05-14T07:05:27.440064-07:00",
-    "title": "Morning Brief \u2014 Thu May 14, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Partly cloudy",
-      "temp": "60\u00b0F",
-      "feelsLike": "60\u00b0F",
-      "high": "75\u00b0F",
-      "low": "56\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
-        "summary": "The leaders of the world's two superpowers were all smiles for the cameras during the US president's visit to Beijing.",
-        "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Iran still waiting for US visas less than a month before World Cup",
-        "summary": "Farewell ceremony for Iran's football team in Tehran on Wednesday, but US visas yet to be issued reports media.",
-        "url": "https://www.aljazeera.com/sports/2026/5/14/iran-still-waiting-on-us-visas-for-world-cup-2026?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "KongTuke hackers now use Microsoft Teams for corporate breaches",
-        "summary": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/"
       }
     ]
   }
