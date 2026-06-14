@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-14",
+    "generatedAt": "2026-06-14T07:05:19.959157-07:00",
+    "title": "Morning Brief \u2014 Sun Jun 14, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Mainly clear",
+      "temp": "62\u00b0F",
+      "feelsLike": "64\u00b0F",
+      "high": "80\u00b0F",
+      "low": "60\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+        "summary": "The US president's comments come as Iran says an exact date has not been decided.",
+        "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Donald Trump\u2019s name removed from Kennedy Center",
+        "summary": "Trump\u2019s name has been removed from the Kennedy Center after a court ruling, but adorns many other things and places.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/donald-trumps-name-removed-from-kennedy-center?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Ex-school district employee jailed for hacks on former employer",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-13",
     "generatedAt": "2026-06-13T07:05:18.537938-07:00",
     "title": "Morning Brief \u2014 Sat Jun 13, 2026",
@@ -1581,61 +1636,6 @@
         "headline": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
         "summary": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-15",
-    "generatedAt": "2026-05-15T07:05:27.641027-07:00",
-    "title": "Morning Brief \u2014 Fri May 15, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "61\u00b0F",
-      "feelsLike": "61\u00b0F",
-      "high": "73\u00b0F",
-      "low": "57\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
-        "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
-        "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "78 years later: Palestinians are still denied their right to return.",
-        "summary": "78 years ago, 800,000 Palestinians were displaced by zionist militias. Today, their grandchildren are still refugees.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/78-years-later-palestinians-are-still-denied-their-right-to-return?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Microsoft to automatically roll back faulty Windows drivers",
-        "summary": "Microsoft is introducing a new capability that will allow it to remotely roll back problematic Windows drivers delivered through Windows Update. [...]",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/"
       }
     ]
   }
