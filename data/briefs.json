@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-16",
+    "generatedAt": "2026-06-16T07:05:31.188890-07:00",
+    "title": "Morning Brief \u2014 Tue Jun 16, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "61\u00b0F",
+      "feelsLike": "64\u00b0F",
+      "high": "80\u00b0F",
+      "low": "60\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Iran deal presents political nightmare for Netanyahu",
+        "summary": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
+        "url": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "\u2018Mistrust\u2019 leaves ebola patients receiving treatment too late",
+        "summary": "A growing sense of mistrust is hampering efforts to contain the Ebola outbreak in the Democratic Republic of the Congo.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/mistrust-leaves-ebola-patients-receiving-treatment-too-late?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
+        "summary": "The U.S. Federal Trade Commission (FTC) warned that Americans lost $3.5 billion to imposter scams in 2025, with reported losses nearly tripling since 2020. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-15",
     "generatedAt": "2026-06-15T07:05:18.906117-07:00",
     "title": "Morning Brief \u2014 Mon Jun 15, 2026",
@@ -1581,61 +1636,6 @@
         "headline": "Grafana says stolen GitHub token let hackers steal codebase",
         "summary": "Grafana Labs disclosed that hackers have downloaded its source code after breaching its GitHub environment using a stolen access token. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-17",
-    "generatedAt": "2026-05-17T07:05:18.414512-07:00",
-    "title": "Morning Brief \u2014 Sun May 17, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "62\u00b0F",
-      "feelsLike": "62\u00b0F",
-      "high": "73\u00b0F",
-      "low": "60\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "WHO declares Ebola outbreak in DR Congo an international emergency",
-        "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
-        "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "How will Izz al-Din al-Haddad assassination impact Hamas\u2019s Gaza operations?",
-        "summary": "Israel's killing of Hamas's top commander Izz al-Din al-Haddad tests the Gaza ceasefire as the group pledges to adapt.",
-        "url": "https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
-        "summary": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE.",
-        "url": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/"
       }
     ]
   }
