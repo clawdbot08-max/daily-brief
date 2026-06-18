@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-18",
+    "generatedAt": "2026-06-18T07:05:27.305761-07:00",
+    "title": "Morning Brief \u2014 Thu Jun 18, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "63\u00b0F",
+      "feelsLike": "65\u00b0F",
+      "high": "76\u00b0F",
+      "low": "62\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+        "summary": "A refinery and a shopping centre were burning after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
+        "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "UK court convicts two men for spying for Hong Kong, China",
+        "summary": "The men, dual Chinese-British nationals, are believed to be the first people convicted of spying for China \u200cin Britain.",
+        "url": "https://www.aljazeera.com/news/2026/6/18/uk-court-convicts-two-men-for-spying-for-hong-kong-china?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "5 reasons Microsoft 365 backup isn\u2019t enough for business data protection",
+        "summary": "Microsoft 365 helps keep services running, but protecting and recovering business data remains your responsibility.",
+        "url": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-17",
     "generatedAt": "2026-06-17T07:05:55.620473-07:00",
     "title": "Morning Brief \u2014 Wed Jun 17, 2026",
@@ -1581,61 +1636,6 @@
         "headline": "Drupal critical update to fix bug with high exploitation risk",
         "summary": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-19",
-    "generatedAt": "2026-05-19T07:05:16.474440-07:00",
-    "title": "Morning Brief \u2014 Tue May 19, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "58\u00b0F",
-      "feelsLike": "58\u00b0F",
-      "high": "86\u00b0F",
-      "low": "56\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
-        "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
-        "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Why has FIFA not signed a World Cup broadcast deal in India?",
-        "summary": "With the World Cup weeks away, FIFA is struggling to find broadcast rights buyers in the world\u2019s most populous country.",
-        "url": "https://www.aljazeera.com/news/2026/5/19/why-has-fifa-not-signed-a-world-cup-broadcast-deal-in-india?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation",
-        "summary": "Microsoft's total vulnerability count stayed steady in 2025, but critical flaws surged year over year.",
-        "url": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/"
       }
     ]
   }
