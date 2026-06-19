@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-19",
+    "generatedAt": "2026-06-19T07:05:40.113277-07:00",
+    "title": "Morning Brief \u2014 Fri Jun 19, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "62\u00b0F",
+      "feelsLike": "64\u00b0F",
+      "high": "75\u00b0F",
+      "low": "60\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+        "summary": "The highly public exchange is an indication that their earlier close ties have frayed since Trump's decision to go to war with Iran.",
+        "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "British lawyers\u2019 body suspends ICC Prosecutor Khan over misconduct claim",
+        "summary": "Khan is the subject of multiple investigations into allegations of sexual misconduct at the international court.",
+        "url": "https://www.aljazeera.com/news/2026/6/19/british-lawyers-body-suspends-icc-prosecutor-khan-over-misconduct-claim?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+        "summary": "AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight.",
+        "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-18",
     "generatedAt": "2026-06-18T07:05:27.305761-07:00",
     "title": "Morning Brief \u2014 Thu Jun 18, 2026",
@@ -1581,61 +1636,6 @@
         "headline": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
         "summary": "Modern crypto drainers don't hack wallets. They trick users into approving malicious transactions.",
         "url": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-20",
-    "generatedAt": "2026-05-20T07:05:17.121435-07:00",
-    "title": "Morning Brief \u2014 Wed May 20, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "61\u00b0F",
-      "feelsLike": "59\u00b0F",
-      "high": "88\u00b0F",
-      "low": "60\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Xi basks in spotlight as he hosts Putin days after Trump",
-        "summary": "Two presidential visits days apart is how Xi Jinping wants the world to see him: talking to everyone, tied to no-one.",
-        "url": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "Israel\u2019s ambassador to Christians gives rose-coloured spiel",
-        "summary": "George Deek, Israel\u2019s \u2018ambassador to Christians\u2019 released a statement on X, to Christians in the region and globally.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israels-ambassador-to-christians-gives-rose-coloured-spiel?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Drupal critical update to fix bug with high exploitation risk",
-        "summary": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/"
       }
     ]
   }
