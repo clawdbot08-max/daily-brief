@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-20",
+    "generatedAt": "2026-06-20T07:05:20.489299-07:00",
+    "title": "Morning Brief \u2014 Sat Jun 20, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Mainly clear",
+      "temp": "60\u00b0F",
+      "feelsLike": "61\u00b0F",
+      "high": "76\u00b0F",
+      "low": "56\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+        "summary": "Deaths are reported in southern Lebanon, with the IDF saying it hit \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces.",
+        "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Where do Iran\u2019s political factions stand on the US peace deal?",
+        "summary": "Iran's rival political camps are locking horns over a memorandum of understanding with the US.",
+        "url": "https://www.aljazeera.com/news/2026/6/20/where-do-irans-political-factions-stand-on-the-us-peace-deal?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
+        "summary": "",
+        "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-19",
     "generatedAt": "2026-06-19T07:05:40.113277-07:00",
     "title": "Morning Brief \u2014 Fri Jun 19, 2026",
@@ -1581,61 +1636,6 @@
         "headline": "Trend Micro warns of Apex One zero-day exploited in the wild",
         "summary": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-21",
-    "generatedAt": "2026-05-21T07:05:18.510693-07:00",
-    "title": "Morning Brief \u2014 Thu May 21, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Clear sky",
-      "temp": "62\u00b0F",
-      "feelsLike": "63\u00b0F",
-      "high": "83\u00b0F",
-      "low": "59\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Iran steps up claim to control Strait of Hormuz",
-        "summary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
-        "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "What\u2019s Trump\u2019s \u2018anti-weaponisation fund\u2019 and why are legal experts alarmed?",
-        "summary": "Democrats argue that the fund will be used to compensate January 6 rioters pardoned by Trump.",
-        "url": "https://www.aljazeera.com/news/2026/5/21/whats-trumps-anti-weaponisation-fund-and-why-are-legal-experts-alarmed?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
-        "summary": "Modern crypto drainers don't hack wallets. They trick users into approving malicious transactions.",
-        "url": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/"
       }
     ]
   }
