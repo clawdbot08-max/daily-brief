@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-21",
+    "generatedAt": "2026-06-21T07:05:34.278853-07:00",
+    "title": "Morning Brief \u2014 Sun Jun 21, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "60\u00b0F",
+      "feelsLike": "62\u00b0F",
+      "high": "78\u00b0F",
+      "low": "58\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz",
+        "summary": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
+        "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Andy Burnham says Israel would be his first overseas visit in old clip",
+        "summary": "An old clip has resurfaced showing Andy Burnham saying Israel would be his first overseas visit if elected as UK PM.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/andy-burnham-says-israel-would-be-his-first-overseas-visit-in-old-clip?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "New Prinz Eugen ransomware prioritizes recent files for encryption",
+        "summary": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-20",
     "generatedAt": "2026-06-20T07:05:20.489299-07:00",
     "title": "Morning Brief \u2014 Sat Jun 20, 2026",
@@ -1581,61 +1636,6 @@
         "headline": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-22",
-    "generatedAt": "2026-05-22T07:05:28.510005-07:00",
-    "title": "Morning Brief \u2014 Fri May 22, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "62\u00b0F",
-      "feelsLike": "63\u00b0F",
-      "high": "73\u00b0F",
-      "low": "58\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "Nato chief welcomes US sending 5,000 troops to Poland",
-        "summary": "President Trump's announcement on Thursday night came ahead of a meeting of Nato foreign ministers.",
-        "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "South Korean activists smash Starbucks cups to protest \u2018Tank Day\u2019 campaign",
-        "summary": "South Korean activists smash Starbucks cups to protest \u2018Tank Day\u2019 campaign",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/south-korean-activists-smash-starbucks-cups-to-protest-tank-day-campaign?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Trend Micro warns of Apex One zero-day exploited in the wild",
-        "summary": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/"
       }
     ]
   }
