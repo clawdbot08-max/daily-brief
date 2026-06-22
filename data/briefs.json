@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-22",
+    "generatedAt": "2026-06-22T07:05:32.422075-07:00",
+    "title": "Morning Brief \u2014 Mon Jun 22, 2026",
+    "markets": [
+      {
+        "label": "S&P 500 (SPY)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Dow (DIA)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      },
+      {
+        "label": "Nasdaq 100 (QQQ)",
+        "value": "unavailable",
+        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
+        "direction": "flat"
+      }
+    ],
+    "marketNews": [],
+    "weather": {
+      "location": "Los Angeles, CA",
+      "conditions": "Overcast",
+      "temp": "62\u00b0F",
+      "feelsLike": "63\u00b0F",
+      "high": "80\u00b0F",
+      "low": "60\u00b0F",
+      "precipChance": "0%"
+    },
+    "news": [
+      {
+        "category": "World",
+        "headline": "First round of US-Iran talks ends with encouraging progress, mediators say",
+        "summary": "The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days.",
+        "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "Middle East/Global",
+        "headline": "Argentina vs Austria LIVE: World Cup 2026",
+        "summary": "Follow updates as Messi's Argentina play Austria in Group J, including the build-up, analysis and live text commentary.",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/6/22/argentina-vs-austria-live-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "category": "Tech",
+        "headline": "AryStinger botnet infected thousands of D-Link routers worldwide",
+        "summary": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-21",
     "generatedAt": "2026-06-21T07:05:34.278853-07:00",
     "title": "Morning Brief \u2014 Sun Jun 21, 2026",
@@ -1581,61 +1636,6 @@
         "headline": "Laravel Lang packages hijacked to deploy credential-stealing malware",
         "summary": "",
         "url": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-23",
-    "generatedAt": "2026-05-23T07:05:15.707280-07:00",
-    "title": "Morning Brief \u2014 Sat May 23, 2026",
-    "markets": [
-      {
-        "label": "S&P 500 (SPY)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Dow (DIA)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      },
-      {
-        "label": "Nasdaq 100 (QQQ)",
-        "value": "unavailable",
-        "change": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center>",
-        "direction": "flat"
-      }
-    ],
-    "marketNews": [],
-    "weather": {
-      "location": "Los Angeles, CA",
-      "conditions": "Overcast",
-      "temp": "61\u00b0F",
-      "feelsLike": "62\u00b0F",
-      "high": "74\u00b0F",
-      "low": "59\u00b0F",
-      "precipChance": "0%"
-    },
-    "news": [
-      {
-        "category": "World",
-        "headline": "At least 90 killed in Chinese coal mine explosion, state media reports",
-        "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
-        "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "category": "Middle East/Global",
-        "headline": "France bans far-right Israeli minister Ben-Gvir over abuse of activists",
-        "summary": "French Foreign Minister Jean-Noel Barrot said France would not tolerate its nationals being threatened or intimidated.",
-        "url": "https://www.aljazeera.com/news/2026/5/23/france-bans-far-right-israeli-minister-ben-gvir?traffic_source=rss"
-      },
-      {
-        "category": "Tech",
-        "headline": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
-        "summary": "",
-        "url": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/"
       }
     ]
   }
